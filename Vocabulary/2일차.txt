@@ -1,11 +1,11 @@
+discrimination                                  차별 / 안목
+retain                                          유지하다 
+discourage                                      막다 / 말리다
 exude                                           물씬 풍기다/(물을)흘리다
 concern                                         걱정스럽게 만들다 / 영향을 미치다
 discrepancy                                     불일치
 preserve                                        보호하다 보존하다
-retain                                          유지하다 
 assembly                                        의회 / 입법기관
-discourage                                      막다 / 말리다
-discrimination                                  차별 / 안목
 convince                                        설득시키다 
 revenue                                         수익
 consequence                                     결과 
@@ -14,11 +14,8 @@ appreciate                                      진가를 알아보다
 debate                                          토론
 self-esteem                                     자부심
 prejudice                                       편견
-decline                                         감소
 approach                                        다가가다
-shelter                                         주거지
-get on with                                     ~와 잘 지내다 
-influence                                       영향
+decline                                         감소
 
 adapt                                           (상황에)맞추다 / 조정하다 / 적응하다
 continent                                       대륙
@@ -41,3 +38,6 @@ object                                          물건
 competitive                                     경쟁을 하는
 population                                      인구
 nervous                                         불안해하는
+shelter                                         주거지
+get on with                                     ~와 잘 지내다 
+influence                                       영향

@@ -1,48 +1,46 @@
-attribute                               ~것 이라고 본다 / 자질
-urge                                    충고하다
-berate                                  질책하다
-engage                                  사로잡다
-reprimand                               질책하다
-inflammatory                            선동적인
-designated                              지정된
-commitment                              약속 / 책무
-resent                                  분하게 여기다
-discipline                              규율 / 훈육
-upon                                    <수,양의 많음을 강조> 
-dispose                                 배치하다
-regard                                  평가받는다
-integrity                               진실성
-identify                                확인하다
-refer                                   ~누구에게 알아보도록 하다
-apparently                              듣자하니
-appear                                  ~인 것 같다
-implement                               (개혁을)시행하다
-secure                                  안심하는
-fancy                                   원하다
-relative                                비교상의
-statement                               성명 / 진술
-commit                                  저지르다 
-loath                                   ~하기를 꺼리다
-assign                                  맡기다 / 선임하다
-condescend                              자신을 낮춰 ~해주다
-reproach                                비난
-enrol                                   등록하다 
-perplexity                              당혹스러운 것
-considerably                            상당히
-fume                                    씩씩대다
-ledge                                   선반 / 튀어나온 바위
-rife                                    만연한
-diminution                              축소
-dexterity                               (손)재주
-craggy                                  우락부락한
-periphery                               주변의
-blistering                              맹렬한
-ethereal                                천상의 
-cop-out                                 책임회피
-antagonism                              적의 / 적대감
-autonomy                                자치권
-defective                               결함있는
-astonishing                             믿기힘든
-prohibition                             금지
-entity                                  독립체
-
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다
+formulate                               만들어내다

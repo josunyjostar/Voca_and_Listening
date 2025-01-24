@@ -1,35 +1,36 @@
-revelation                              폭로
-cede                                    양도하다
-dissemble                               가식적으로 꾸미다
-proprietary                             등록 상표가 붙은
-inquest                                 사인규명
-concede                                 인정하다
-inveterate                              상습적인
-reciprocal                              상호간의
-repellent                               역겨운
-alert                                   기민한 / 경계태세
-equanimity                              침착
-acquaint                                익히다 / 숙지하다 
-lug                                     (무거운걸)나르다
-lope                                    천천히 달리다
-diverge                                 갈라지다 / 나뉘다
-resolved                                단호한 / 굳게 결심한
-indebted                                감사하는 
-animosity                               반감 / 적대감
-courteous                               공손한
-engrossed                               몰두한 
-arbitration                             중재
+concede                                             인정하다
+reciprocal                                          상호간의
+cede                                                양도하다
+inquest                                             사인규명
+inveterate                                          상습적인
+lope                                                천천히 달리다
 
-ebony                                   흑단 / 흑단같은
-hew                                     자르다
-belly                                   (신체기관)배
-flop                                    실패작 / 털썩 주저앉다
-breach                                  위반하다 
-whimper                                 훌쩍이며 말하다
-impose                                  도입하다
-dubious                                 의심하는
-arguably                                거의 틀림없이
-misapprehension                         오해
-arson                                   방화
-nursery                                 유치원의 / 아기방
-reimplement                             다시 구현하다
+proprietary                                         등록 상표가 붙은
+revelation                                          폭로
+dissemble                                           가식적으로 꾸미다
+equanimity                                          침착 / 평정
+diverge                                             갈라지다 / 나뉘다
+lug                                                 (무거운걸)나르다
+animosity                                           반감 / 적대감
+repellent                                           역겨운
+alert                                               기민한 / 경계태세
+acquaint                                            익히다 / 숙지하다 
+resolved                                            단호한 / 굳게 결심한
+indebted                                            감사하는 
+courteous                                           공손한
+engrossed                                           몰두한 
+arbitration                                         중재
+
+ebony                                               흑단 / 흑단같은
+hew                                                 자르다
+belly                                               (신체기관)배
+flop                                                실패작/털썩 주저앉다
+breach                                              위반하다 
+whimper                                             훌쩍이며 말하다
+impose                                              (법률등을)도입하다
+dubious                                             의심하는
+arguably                                            거의 틀림없이
+misapprehension                                     오해
+arson                                               방화
+nursery                                             유치원의 / 아기방
+reimplement                                         다시 구현하다

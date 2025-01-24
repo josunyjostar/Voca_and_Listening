@@ -1,43 +1,44 @@
-rampant                                 걷잡을 수 없는
-philanthropy                            자선활동
-aggression                              침략 / 공격
-other than                              ~외에
-bet                                     틀림없다
-tribunal                                재판소
-dis·mis·sive                            무시하는
-deter                                   그만두게하다 / 단념시키다
-hunch                                   구부리다
-germ                                    세균
-causes                                  대의
-renewable                               재생가능한
-outrage                                 잔학한 행위 / 격노
-detain                                  구금하다
-as in                                   ~경우와 같이
-call for                                요구하다
-court                                   법원 / 법정
-cre·du·lity                             쉽게 잘 믿음
-con·stitu·ent                           구성성분
-dis·quiet                               불안 / 동요
-fling                                   내던지다
-dur·ess                                 협박
-en·velop                                감싸다
-brevity                                 간결성
-disparate                               서로 전혀 다른
-re·crim·in·ation                        비난
-hurtful                                 마음을 상하게 하는
-livelihood                              생계
-im·pose                                 도입하다
-fleck                                   얼룩
-requis·ite                              필요한
-di·vest                                 (옷을) 벗다
-groundless                              근거없는
-chronic                                 만성적인
-gross                                   총 (total)
-heir                                    상속인
-be·moan                                 한탄하다
-radiate                                 내뿜다
-dross                                   찌꺼기
-abbey                                   수녀원
-bin                                     쓰레기통
-remnant                                 남는부분 / 자투리
-infection                               감염
+rampant                                             걷잡을 수 없는
+dis·mis·sive                                        무시하는
+dis·quiet                                           불안 / 동요
+disparate                                           서로 전혀 다른
+aggression                                          침략 / 공격
+other than                                          ~외에
+di·vest                                             (옷을) 벗다
+as in                                               ~경우와 같이
+re·crim·in·ation                                    비난
+gross                                               총 (total)
+
+dur·ess                                             협박
+bet                                                 틀림없다
+philanthropy                                        자선활동
+en·velop                                            감싸다
+tribunal                                            재판소
+deter                                               그만두게하다/단념시키다
+cre·du·lity                                         쉽게 잘 믿음
+renewable                                           재생가능한
+hunch                                               구부리다
+outrage                                             잔학한 행위 / 격노
+germ                                                세균
+detain                                              구금하다
+causes                                              대의
+call for                                            요구하다
+hurtful                                             마음을 상하게 하는
+con·stitu·ent                                       구성성분
+court                                               법원 / 법정
+fling                                               내던지다
+brevity                                             간결성
+im·pose                                             도입하다
+livelihood                                          생계
+fleck                                               얼룩
+requis·ite                                          필요한
+groundless                                          근거없는
+chronic                                             만성적인
+heir                                                상속인
+be·moan                                             한탄하다
+radiate                                             내뿜다
+dross                                               찌꺼기
+abbey                                               수녀원
+bin                                                 쓰레기통
+remnant                                             남는부분 / 자투리
+infection                                           감염

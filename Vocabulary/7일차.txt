@@ -1,40 +1,42 @@
-overrule                                기각하다 
-rule                                    판결하다
-please                                  비위를 맞추다
-mural                                   벽화
-drought                                 가뭄
-address                                 (어떤 주제를)다루다
-concise                                 간결한
-inaugurate                              취임하게하다 
-interference                            개입 / 방해
-ineffable                               형언할 수 없는
-long-standing                           오래된
-bijou                                   아기자기한
-inert                                   기력이 없는
-getaway                                 도주
-amendment                               (법의) 개정
-enervate                                기력을 떨어뜨리다
-bellow                                  고함치다
-awry                                    빗나간
-mettle                                  패기
-frivolity                               까부는 짓
-conscience                              양심
-perseverance                            인내심
-jaded                                   물린 / 싫증난
-diffident                               조심스러운 / 소심한
-omniscient                              전지의 / 모든것을 다 아는
-gritty                                  모래가 든
-indeed                                  (긍정적진술에서) 정말
-encapsulate                             요약하다 / 압축하다
-prim                                    고지식한
-prerequisite                            전제조건
-ingenuous                               순진한 
-prone                                   ~하기 쉬운 
-consolation                             위로 위안
-remit                                   소관
-genial                                  상냥한
-disposable                              사용 후 버리는
-clampdown                               단속
-apathetic                               무관심한
-anticipate                              예상하다
-communicable                            전염성의
+prim                                            고지식한
+apathetic                                       무관심한
+inaugurate                                      취임하게하다 
+ineffable                                       형언할 수 없는
+awry                                            빗나간
+frivolity                                       까부는 짓
+diffident                                       소심한/조심스러운 
+ingenuous                                       순진한 
+prone                                           ~하기 쉬운 
+remit                                           소관
+
+rule                                            판결하다
+concise                                         간결한
+overrule                                        기각하다 
+mural                                           벽화
+please                                          비위를 맞추다
+address                                         (어떤 주제를)다루다
+drought                                         가뭄
+long-standing                                   오래된
+interference                                    개입 / 방해
+mettle                                          패기
+perseverance                                    인내심
+conscience                                      양심
+
+jaded                                           물린 / 싫증난
+prerequisite                                    전제조건
+enervate                                        기력을 떨어뜨리다
+bellow                                          고함치다
+consolation                                     위로 / 위안
+genial                                          상냥한
+getaway                                         도주
+inert                                           기력이 없는
+amendment                                       (법의) 개정
+disposable                                      사용 후 버리는
+clampdown                                       단속
+indeed                                          (긍정적진술에서) 정말
+encapsulate                                     요약하다 / 압축하다
+bijou                                           아기자기한
+anticipate                                      예상하다
+gritty                                          모래가 든/투지있는
+communicable                                    전염성의
+omniscient                                      전지의 / 모든것을 다 아는

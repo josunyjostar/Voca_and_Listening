@@ -1,10 +1,10 @@
-assembly                                        의회 / 입법기관
+assembly                                        입법기관
 retain                                          유지하다 
-discrimination                                  차별 / 안목
-discourage                                      막다 / 말리다
+discrimination                                  차별
+discourage                                      막다/말리다
 
 exude                                           물씬 풍기다/(물을)흘리다
-concern                                         걱정스럽게 만들다 / 영향을 미치다
+concern                                         걱정시키다/영향을 미치다
 discrepancy                                     불일치
 preserve                                        보호하다 보존하다
 convince                                        설득시키다 
@@ -18,7 +18,7 @@ prejudice                                       편견
 approach                                        다가가다
 decline                                         감소
 
-adapt                                           (상황에)맞추다/조정하다/적응하다
+adapt                                           조정하다/적응하다
 continent                                       대륙
 cheerful                                        발랄한 / 쾌활한
 contribution                                    기부금

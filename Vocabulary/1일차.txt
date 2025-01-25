@@ -5,6 +5,7 @@ portend                                             징후이다
 empirical     	                                    경험에 의거한
 
 proclaim                                            선포하다 
+oppress       	                                    탄압하다
 affirm                                              단언하다 
 yield                                               생산하다 / 양도하다
 overt                                               공공연연한
@@ -12,7 +13,6 @@ venerate      	                                    숭배하다
 impending                                           임박한 
 imbibe                                              마시다 
 delineate     	                                    기술하다
-oppress       	                                    탄압하다
 vacillate                                           흔들리다 
 prolific                                            다작하는 
 condone      	                                    용납하다 
@@ -38,5 +38,5 @@ nurture                                             양육하다
 harsh                                               가혹한
 contribute                                          기부하다 
 predict                                             예측하다 
-be involved in                                      ~휘말리다 ~에 몰두하다 
+be involved in                                      ~에 몰두하다 
 notice                                              신경씀

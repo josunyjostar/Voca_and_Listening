@@ -1,9 +1,9 @@
-concede                                             인정하다
-reciprocal                                          상호간의
-cede                                                양도하다
-inquest                                             사인규명
 inveterate                                          상습적인
+reciprocal                                          상호간의
+concede                                             인정하다
+inquest                                             조사
 lope                                                천천히 달리다
+cede                                                양도하다
 
 proprietary                                         등록 상표가 붙은
 revelation                                          폭로
@@ -15,13 +15,13 @@ animosity                                           반감 / 적대감
 repellent                                           역겨운
 alert                                               기민한 / 경계태세
 acquaint                                            익히다 / 숙지하다 
-resolved                                            단호한 / 굳게 결심한
+resolved                                            단호한 
 indebted                                            감사하는 
 courteous                                           공손한
 engrossed                                           몰두한 
 arbitration                                         중재
 
-ebony                                               흑단 / 흑단같은
+ebony                                               흑단
 hew                                                 자르다
 belly                                               (신체기관)배
 flop                                                실패작/털썩 주저앉다
@@ -32,5 +32,5 @@ dubious                                             의심하는
 arguably                                            거의 틀림없이
 misapprehension                                     오해
 arson                                               방화
-nursery                                             유치원의 / 아기방
+nursery                                             유치원의/아기방
 reimplement                                         다시 구현하다

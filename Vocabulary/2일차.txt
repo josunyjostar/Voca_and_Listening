@@ -1,11 +1,11 @@
 assembly                                        입법기관
 retain                                          유지하다 
 discrimination                                  차별
-discourage                                      막다/말리다
 
+discourage                                      막다/말리다
+discrepancy                                     불일치
 exude                                           물씬 풍기다/(물을)흘리다
 concern                                         걱정시키다/영향을 미치다
-discrepancy                                     불일치
 preserve                                        보호하다 보존하다
 convince                                        설득시키다 
 revenue                                         수익
@@ -31,7 +31,7 @@ accept                                          받아들이다
 such as                                         ~와 같은 /예를 들어
 pay attention to                                ~유의하다
 material                                        천 직물
-overall                                         전반적으로 전체의
+overall                                         전반적으로 
 currency                                        통화
 charity                                         자선단체
 terribly                                        대단히 

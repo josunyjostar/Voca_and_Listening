@@ -1,3 +1,4 @@
+oppress       	                                    탄압하다
 recede                                              물러나다
 implore       	                                    간청하다
 soothe        	                                    누그러뜨리다 
@@ -5,7 +6,6 @@ portend                                             징후이다
 empirical     	                                    경험에 의거한
 
 proclaim                                            선포하다 
-oppress       	                                    탄압하다
 affirm                                              단언하다 
 yield                                               생산하다 / 양도하다
 overt                                               공공연연한

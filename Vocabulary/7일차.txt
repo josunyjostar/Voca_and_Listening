@@ -1,13 +1,14 @@
 prone                                           ~하기 쉬운 
-remit                                           소관
-ineffable                                       형언할 수 없는
-frivolity                                       까부는 짓
+ineffable                                       형언할수없는
+clampdown                                       단속
+gritty                                          모래가 든/투지있는
 
+remit                                           소관
+frivolity                                       까부는 짓
 ingenuous                                       순진한 
 prim                                            고지식한
 apathetic                                       무관심한
 awry                                            빗나간
-gritty                                          모래가 든/투지있는
 diffident                                       소심한/조심스러운 
 inaugurate                                      취임하게하다 
 rule                                            판결하다
@@ -21,9 +22,8 @@ long-standing                                   오래된
 perseverance                                    인내심
 interference                                    개입 / 방해
 conscience                                      양심
-mettle                                          패기
 
-clampdown                                       단속
+mettle                                          패기
 genial                                          상냥한
 jaded                                           물린 / 싫증난
 prerequisite                                    전제조건

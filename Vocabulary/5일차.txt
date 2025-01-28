@@ -1,7 +1,7 @@
 inveterate                                          상습적인
 inquest                                             조사
-
 reciprocal                                          상호간의
+
 concede                                             인정하다
 lope                                                천천히 달리다
 revelation                                          폭로
@@ -32,5 +32,5 @@ dubious                                             의심하는
 arguably                                            거의 틀림없이
 misapprehension                                     오해
 arson                                               방화
-nursery                                             유치원의/아기방
+nursery                                             유치원/아기방
 reimplement                                         다시 구현하다

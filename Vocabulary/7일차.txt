@@ -6,6 +6,7 @@ gritty                                          모래가 든/투지있는
 remit                                           소관
 frivolity                                       까부는 짓
 ingenuous                                       순진한 
+perseverance                                    인내심
 prim                                            고지식한
 apathetic                                       무관심한
 awry                                            빗나간
@@ -19,7 +20,6 @@ please                                          비위를 맞추다
 address                                         (어떤 주제를)다루다
 drought                                         가뭄
 long-standing                                   오래된
-perseverance                                    인내심
 interference                                    개입 / 방해
 conscience                                      양심
 

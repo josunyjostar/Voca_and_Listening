@@ -2,21 +2,22 @@ intrusive                                           거슬리는
 astute                                              영악한
 dewildering                                         갈피를 못잡게 하는
 daunt                                               기죽게하다
+
 revelry                                             흥청망청놀기
 drivel                                              쓸데없는짓
-
-drive                                               (변화를)만들다
 splurge                                             돈을 물쓰듯 쓰다
-avert                                               방지하다
-leisurely                                           여유로운
-gamut                                               전체
-leach                                               침출되다
+drive                                               (변화를)만들다
 mow                                                 (잔디를)깍다
-harass                                              괴롭히다
-impromptu                                           즉흥적으로
+avert                                               방지하다
 dissent                                             반대
 contingent                                          대표단
+fractious                                           짜증잘내는
 
+gamut                                               전체
+leisurely                                           여유로운
+leach                                               침출되다
+harass                                              괴롭히다
+impromptu                                           즉흥적으로
 mainstay                                            중심/대들보
 arid                                                무미건조한
 hind                                                (동물의)뒤의
@@ -25,7 +26,6 @@ impersonate                                         흉내내다
 alteration                                          개조
 aboriginal                                          원주민의
 beckon                                              손짓하다
-fractious                                           짜증잘내는
 place                                               (순위를)차지하다
 
 lavish                                             호화로운/아낌없이주다

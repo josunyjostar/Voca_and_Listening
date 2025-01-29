@@ -1,16 +1,18 @@
-jiffy                                               short time
 feud                                                불화
-flabbergasted                                       크게 놀란
 fastidious                                          깔끔떠는
+fastidious                                          까다로운
 
-frolic                                              장난
-arrant                                              (안좋은강조)순전한
+jiffy                                               short time
+flabbergasted                                       크게 놀란
 immoderate                                          과도한
+arrant                                              (안좋은강조)순전한
+nasty                                               못된
+
 gloat                                               흡족해하다
 precipitate                                         촉발시키다
 enthuse                                             열변을 토하다
+frolic                                              장난
 dashing                                             늠름한
-nasty                                               못된
 dispensable                                         없어도되는
 overcome                                            압도당하다
 coherent                                            일관성있는
@@ -19,7 +21,6 @@ chuck                                               던지다/그만두다
 compel                                              강요하다
 elude                                               피하다
 cinch                                               아주 쉬운일
-
 rate                                                속도/비율/요금
 conscientious                                       양심적인
 audacious                                           대담한

@@ -1,8 +1,12 @@
 rampant                                             걷잡을 수 없는
 disquiet                                            불안
-recrimination                                       비난
-dismissive                                          무시하는
 
+recrimination                                       비난
+discrimination                                      차별
+dismissive                                          무시하는
+flock                                               무리/떼
+fleck                                               얼룩
+fluke                                               요행
 disparate                                           서로 전혀 다른
 aggression                                          침략
 gross                                               total
@@ -13,7 +17,6 @@ dur·ess                                             협박
 bet                                                 틀림없다
 philanthropy                                        자선활동
 en·velop                                            감싸다
-fleck                                               얼룩
 tribunal                                            재판소
 deter                                               단념시키다
 cre·du·lity                                         쉽게 잘 믿음

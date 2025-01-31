@@ -1,4 +1,5 @@
 imbibe                                              마시다 
+abide                                               참다/견디다
 
 oppress       	                                    탄압하다
 recede                                              물러나다

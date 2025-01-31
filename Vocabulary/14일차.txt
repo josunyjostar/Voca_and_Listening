@@ -1,46 +1,29 @@
-frond                                   (길다란)잎
-palm                                    야자수
-factor                                  요인
-crucial                                 결정적인
-rescue effort                           구조활동
-spot                                    (갑자기)발견하다
-contain                                 통제하다/가두다
-letigate                                소송하다
-file                                    제출하다/제기하다
-letigation                              법적절차
-pointing to                             ~근거로 들며
-seek to                                 ~하려고하다
-dispute                                 분쟁
-settle                                  해결하다
-retaliate                               보복하다
-bodily waste                            신체 폐기물
-striking back                           반격하다
-totund                                  퉁퉁한
-belligerent                             적대적인
-effectual                               효과적인
-convene                                 소집하다
-inaudible                               들리지않는
-innocuous                               악의없는
-insincere                               진실되지못한
-lustrous                                윤기가흐르는
-chute                                   활송장치
-breadth                                 폭,너비
-insouciance                             태평함
+belligerent                                         적대적인
+retaliate                                           보복하다
+insincere                                           진실되지못한
+insouciance                                         태평함
+convene                                             소집하다
 
-formulate                               만들어내다
-formulate                               만들어내다
-formulate                               만들어내다
-formulate                               만들어내다
-formulate                               만들어내다
-formulate                               만들어내다
-formulate                               만들어내다
-formulate                               만들어내다
-formulate                               만들어내다
-formulate                               만들어내다
-formulate                               만들어내다
-formulate                               만들어내다
-formulate                               만들어내다
-formulate                               만들어내다
-formulate                               만들어내다
-formulate                               만들어내다
-formulate                               만들어내다
+factor                                              요인
+letigate                                            소송하다
+frond                                               (길다란)잎
+palm                                                야자수
+rescue effort                                       구조활동
+crucial                                             결정적인
+spot                                                (갑자기)발견하다
+contain                                             통제하다/가두다
+file                                                제출하다/제기하다
+letigation                                          법적절차
+seek to                                             ~하려고하다
+pointing to                                         ~근거로 들며
+dispute                                             분쟁
+bodily waste                                        신체 폐기물
+settle                                              해결하다
+striking back                                       반격하다
+effectual                                           효과적인
+inaudible                                           들리지않는
+rotund                                              퉁퉁한
+innocuous                                           악의없는
+lustrous                                            윤기가흐르는
+chute                                               활송장치
+breadth                                             폭,너비

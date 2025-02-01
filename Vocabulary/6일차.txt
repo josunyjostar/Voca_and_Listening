@@ -1,12 +1,12 @@
-rampant                                             걷잡을 수 없는
-disquiet                                            불안
-
-recrimination                                       비난
-discrimination                                      차별
-dismissive                                          무시하는
 flock                                               무리/떼
 fleck                                               얼룩
 fluke                                               요행
+
+rampant                                             걷잡을 수 없는
+disquiet                                            불안
+recrimination                                       비난
+discrimination                                      차별
+dismissive                                          무시하는
 disparate                                           서로 전혀 다른
 aggression                                          침략
 gross                                               total

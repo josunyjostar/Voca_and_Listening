@@ -1,8 +1,8 @@
 flock                                               무리/떼
 fleck                                               얼룩
 fluke                                               요행
-
 rampant                                             걷잡을 수 없는
+
 disquiet                                            불안
 recrimination                                       비난
 discrimination                                      차별
@@ -16,10 +16,10 @@ other than                                          ~외에
 dur·ess                                             협박
 bet                                                 틀림없다
 philanthropy                                        자선활동
-en·velop                                            감싸다
+envelop                                             감싸다
 tribunal                                            재판소
 deter                                               단념시키다
-cre·du·lity                                         쉽게 잘 믿음
+credulity                                           쉽게 잘 믿음
 renewable                                           재생가능한
 hunch                                               구부리다
 outrage                                             잔학한행위/격노
@@ -28,7 +28,7 @@ detain                                              구금하다
 causes                                              대의
 call for                                            요구하다
 hurtful                                             마음을 상하게 하는
-con·stitu·ent                                       구성성분
+constituent                                         ~구성하는/구성성분
 court                                               법원 / 법정
 fling                                               내던지다
 brevity                                             간결성

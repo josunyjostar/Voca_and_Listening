@@ -1,9 +1,9 @@
 flock                                               무리/떼
 fleck                                               얼룩
 fluke                                               요행
+disquiet                                            불안
 rampant                                             걷잡을 수 없는
 
-disquiet                                            불안
 recrimination                                       비난
 discrimination                                      차별
 dismissive                                          무시하는
@@ -13,8 +13,9 @@ gross                                               total
 as in                                               ~경우와 같이
 divest                                              (옷을) 벗다
 other than                                          ~외에
-dur·ess                                             협박
 bet                                                 틀림없다
+constituent                                         ~구성하는/구성성분
+dur·ess                                             협박
 philanthropy                                        자선활동
 envelop                                             감싸다
 tribunal                                            재판소
@@ -28,7 +29,6 @@ detain                                              구금하다
 causes                                              대의
 call for                                            요구하다
 hurtful                                             마음을 상하게 하는
-constituent                                         ~구성하는/구성성분
 court                                               법원 / 법정
 fling                                               내던지다
 brevity                                             간결성

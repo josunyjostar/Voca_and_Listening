@@ -33,6 +33,7 @@ metamorphose                                        변화시키다/변하다
 pip                                                 과일의 씨
 eavesdrop                                           엿듣다
 diverse                                             다양한
+diverge                                             갈라지다/분기하다 
 threat                                              협박
 niece                                               조카
 exaggerated                                         과장된 

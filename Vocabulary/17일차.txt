@@ -1,16 +1,17 @@
 rile                                                        귀찮게하다
 plead                                                       애원하다
 nominal                                                     명목상의
-fester                                                      곪다
 frisky                                                      기운찬
-disobliging                                                 비협조적인
 
+fester                                                      곪다
+disobliging                                                 비협조적인
 weather events                                              기상현상
 Attribution                                                 원인규명
 edgy                                                        불안한
 culprit                                                     범인/장본인
 ascertain                                                   알아내다
 veterinarian                                                수의사(vet)
+behindhand                                                  (빚이)밀린
 anomaly                                                     변칙/이례
 
 acrid                                                       매캐한
@@ -28,7 +29,6 @@ ooze                                                        (액체)흘리다/�
 canal                                                       운하/수로
 arbiter                                                     결정권자
 pretentious                                                 가식적인
-behindhand                                                  (빚이)밀린
 nick                                                        철창
 equestrian                                                  승마
 forte                                                       강점

@@ -1,13 +1,18 @@
-merger                                                              합병
-detour                                                              우회하다
-rind                                                                껍질
-falsely                                                             사칭하여/허위로
 glib                                                                말을 잘하는
 blight                                                              망치다/병충해
-insertion                                                           첨가물
 degradation                                                         비하/수모
 damning                                                             비판적인
 
+merger                                                              합병
+falsely                                                             사칭하여/허위로
+detour                                                              우회하다
+rind                                                                껍질
+insertion                                                           첨가물
+artless                                                             꾸밈없는
+goodly                                                              (양이)상당한
+heartfelt                                                           진심어린
+
+blare                                                               요란한소리
 superior                                                            상급자/우수한
 racket                                                              사기
 seeds                                                               씨앗
@@ -21,14 +26,10 @@ freak                                                               덕후
 reunification                                                       재통일
 constitution                                                        헌법
 dampen                                                              꺾다(약화시키다)
-blare                                                               요란한소리
 statehood                                                           국가적 지위
 iota                                                                극히 적은양
 musty                                                               퀴퀴한
-heartfelt                                                           진심어린
 devoid                                                              ~이 전혀없는
 feast                                                               잔치
-goodly                                                              (양이)상당한
-artless                                                             꾸밈없는
 remark                                                              발언/언급하다
 epidemic                                                            유행병

@@ -2,6 +2,7 @@ formidable                                                  가공할
 hinder                                                      방해하다
 
 haunting                                                    잊을 수 없는
+investigation                                               수사     
 beset                                                       괴롭히다
 crackdown                                                   탄압
 prowl                                                       서성거리다
@@ -30,7 +31,6 @@ charge                                                      혐의
 institute                                                   협회/도입하다
 suspected                                                   의심되는 
 hasten                                                      서둘러하다
-investigation                                               수사     
 disinfect                                                   소독하다
 bureaucratic                                                관료주의적인   
 lodge                                                       오두막

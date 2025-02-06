@@ -8,6 +8,7 @@ flabbergasted                                       크게 놀란
 immoderate                                          과도한
 arrant                                              (안좋은강조)순전한
 nasty                                               못된
+coherent                                            일관성있는
 
 dashing                                             늠름한
 gloat                                               흡족해하다
@@ -16,7 +17,6 @@ enthuse                                             열변을 토하다
 frolic                                              장난
 dispensable                                         없어도되는
 disposable                                          일회용의
-coherent                                            일관성있는
 legislate                                           법률을 제정하다
 chuck                                               던지다/그만두다
 elude                                               피하다

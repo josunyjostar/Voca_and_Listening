@@ -1,7 +1,10 @@
-glib                                                                말을 잘하는
-blight                                                              망치다/병충해
-degradation                                                         비하/수모
 damning                                                             비판적인
+degradation                                                         비하/수모
+
+blight                                                              망치다/병충해
+glib                                                                말을 잘하는
+goodly                                                              (양이)상당한
+heartfelt                                                           진심어린
 
 merger                                                              합병
 falsely                                                             사칭하여/허위로
@@ -9,9 +12,6 @@ detour                                                              우회하다
 rind                                                                껍질
 insertion                                                           첨가물
 artless                                                             꾸밈없는
-goodly                                                              (양이)상당한
-heartfelt                                                           진심어린
-
 blare                                                               요란한소리
 superior                                                            상급자/우수한
 racket                                                              사기

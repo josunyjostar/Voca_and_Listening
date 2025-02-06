@@ -32,3 +32,6 @@ dominant                                                    우세한
 fairly                                                      상당히
 arouse                                                      자극하다
 disperse                                                    흩어지다
+muffle                                                      (소리를)죽이다/감싸다
+cohort                                                      집단
+onset                                                       (안좋은일의)시작

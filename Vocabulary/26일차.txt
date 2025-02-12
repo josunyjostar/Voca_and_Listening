@@ -1,11 +1,14 @@
 annul                                                       취소하다
 ethos                                                       기풍
+contemplate                                                 고려하다
 rift                                                        균열(틈)
+bulge                                                       불룩하다/지방
+devastation                                                 대대적인 파괴
+
 consent                                                     합의
 preach                                                      설교하다
-
-jury                                                        배심원단
 pleasing                                                    기분좋은
+jury                                                        배심원단
 note                                                        음표/음
 loaf/loaves                                                 빵 한덩이
 mutiny                                                      반란
@@ -17,9 +20,6 @@ passenger                                                   승객
 shipwreck                                                   난파선
 on board                                                    탑승한
 bespeak                                                     보여주다
-contemplate                                                 고려하다
-bulge                                                       불룩하다/지방
-devastation                                                 대대적인 파괴
 poach                                                       졸이다
 renown                                                      명성
 reshuffle                                                   개편하다

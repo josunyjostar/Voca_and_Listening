@@ -1,12 +1,13 @@
-alter                                   바꾸다/고치다
 falter                                  불안정해지다
+alter                                   바꾸다/고치다
 enrich                                  질을 높이다
 
+grotesque                               터무니없는
+apace                                   빠른속도로
 gambol                                  뛰어다니다
+
 reclaim                                 되찾다
 mark                                    기념하다
-apace                                   빠른속도로
-
 filial                                  자식의
 fickle                                  변덕스러운
 languish                                머물다
@@ -20,7 +21,6 @@ burial ground                           (시신등의)매장지
 ashore                                  해안의
 haste                                   서두름
 quarry                                  채석장
-grotesque                               터무니없는
 avow                                    맹세하다
 clerical                                사무직의
 flabby                                  (살이)늘어진

@@ -22,7 +22,7 @@ hostage                                                     인질
 truce                                                       휴전
 violate                                                     위반하다/어기다
 cram                                                        쑤셔넣다
-cease-fire                                                  휴전
+ceasefire                                                  휴전
 emergency wokers                                            긴급 구조대원
 trapped                                                     갇힌
 enviable                                                    부러운

@@ -1,4 +1,5 @@
 convene                                             소집하다
+contain                                             억누르다
 
 insouciance                                         태평함
 insincere                                           진실되지못한
@@ -6,7 +7,6 @@ retaliate                                           보복하다
 letigation                                          법적절차
 letigate                                            소송하다
 
-contain                                             억누르다
 belligerent                                         적대적인
 factor                                              요인
 frond                                               (길다란)잎

@@ -1,33 +1,32 @@
-acute                                               격심한
-dawdle                                              꾸물거리다
-delirious                                           의식이 혼미한
-Attribution                                         원인규명
-avert                                               방지하다
-daunt                                               기죽게하다
-arrant                                              (안좋은강조)순전한
-fluke                                                   요행
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
-distinguished                                               유명한
+fluke                                                       요행
+acute                                                       격심한
+serve as                                                    ~의 역할을하다
+having to do with                                           ~와 관련된
+variant                                                     변종
+
+dawdle                                                      꾸물거리다
+delirious                                                   의식이 혼미한
+Attribution                                                 원인규명
+avert                                                       방지하다
+daunt                                                       기죽게하다
+arrant                                                      (안좋은강조)순전한
+comprehensive                                               종합적인         
+coverage                                                    범위
+practitioners                                               전문직종사자
+Colophon                                                    출판사 이름
+Institute                                                   대학
+Invariant                                                   변치않는
+appendix                                                    부록
+respective                                                  각자의
+repel point                                                 반발점
+hyperbola                                                   쌍곡선
+repel                                                       밀어내다
+
+catastrophe                                                 재앙
+speculate                                                   추측하다
+most-wanted                                                 지명수배
+code                                                        규범
+rock                                                        뒤흔들다
+blew off                                                    바람에 날려 벗어나다
+course                                                      경로
+stochastic                                                  확률론적

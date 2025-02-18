@@ -1,5 +1,6 @@
 feral                                   돌아다니며사는
 preferential                            우선권을 주는
+misplaced                               부적절한
 
 amass                                   모으다
 conspire                                음모를 꾸미다
@@ -25,7 +26,6 @@ dusky                                   어스름한
 damp                                    눅눅한
 gratis                                  무료로
 antidote                                해독제
-misplaced                               부적절한
 inhabit                                 거주하다
 nudge                                   쿡 찌르다
 piety                                   독실함

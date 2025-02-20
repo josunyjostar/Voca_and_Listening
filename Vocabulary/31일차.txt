@@ -25,7 +25,8 @@ Accordingly                                                               따라
 reduction                                                                 축소
 characteristic                                                            특성
 similarity                                                                유사성
-actual solution                                                           자명한 해
+actual solution                                                           실근
+trivial solution                                                          자명한 해
 approximations                                                            근사법
 conceptual                                                                개념적인
 computation                                                               계산

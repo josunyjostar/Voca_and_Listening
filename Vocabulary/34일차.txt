@@ -1,10 +1,8 @@
-gainful                                                 돈벌이가 되는
-gush                                                    (액체가)솟구치다
 intersperse                                             (…속에·사이에)배치하다
-ensign                                                  깃발
-iffy                                                    뭔가 부족한/불확실한
 quash                                                   파기하다
 call on                                                 촉구하다
+ensign                                                  깃발
+iffy                                                    뭔가 부족한/불확실한
 
 nitty-gritty                                            핵심
 flit                                                    (가볍게)돌아다니다
@@ -12,7 +10,10 @@ jot(명사)                                               조금도 아닌
 dearth                                                  ~의 부족(결핍)
 acclaim                                                 칭송하다
 boggy                                                   늪 같은
+causes                                                  활동
 
+gainful                                                 돈벌이가 되는
+gush                                                    (액체가)솟구치다
 authentic                                               진본인
 equate                                                  동일시하다
 homey                                                   편안한
@@ -35,4 +36,3 @@ blockade                                                봉쇄
 poised                                                  태세를 갖추고 있는
 affluent                                                부유한
 polluting nation                                        오염배출국
-causes                                                  활동

@@ -1,5 +1,5 @@
 synthesis                                                                 종합
-lies in                                                                   (핵심은)~에 있다
+lies in                                                                 (핵심은)~에 있다
 in nature                                                                 성격을 띠다
 reunion                                                                   재결합
 
@@ -17,7 +17,7 @@ sworn                                                                     맹세
 congress                                                                  의회
 were sworn into                                                           ~취임하다
 Speaker of the House of Representatives                                   하원의장
-flip                                                                      입장을 바꾸다
+flip                                                                    입장을 바꾸다
 
 coin                                                                      창안하다
 solution                                                                  (방정식의)해

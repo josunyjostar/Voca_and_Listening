@@ -1,6 +1,6 @@
 gauche                                                      서투른
+proviso                                                      (합의를위한)조건
 
-proviso                                                     (합의를위한)조건
 simultaneous                                                연립의/동시의
 notation                                                    표기법
 appear to                                                   겉으로 보이기에는

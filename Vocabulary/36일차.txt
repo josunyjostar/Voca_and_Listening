@@ -1,11 +1,11 @@
-ersatz                                                      모조품의
 conducive                                                   ~에 좋은
-quell                                                       평정하다
-
-addled                                                      혼란스러운
-fraught                                                     걱정스러운
 quaint                                                      진기한
+quell                                                       평정하다
+addled                                                      혼란스러운
+ersatz                                                      모조품의
+blotch                                                      반점
 
+fraught                                                     걱정스러운
 conductive                                                  전도성의
 harry                                                       괴롭히다
 deduct                                                      공제하다
@@ -27,7 +27,6 @@ mundane                                                     일상적인/재미�
 chop                                                        썰다
 din                                                         소음
 attic                                                       다락(방)
-blotch                                                      반점
 incurable                                                   치유할 수 없는
 intoxicated                                                 도취된
 dropout                                                     중퇴자

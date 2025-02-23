@@ -16,7 +16,10 @@ lawmaker                                                                  입법
 sworn                                                                     맹세한
 congress                                                                  의회
 were sworn into                                                           ~취임하다
+the President of the Senate                                               상원의장
 Speaker of the House of Representatives                                   하원의장
+senator                                                                   상원의원
+representative                                                            하원의원
 flip                                                                    입장을 바꾸다
 
 coin                                                                      창안하다

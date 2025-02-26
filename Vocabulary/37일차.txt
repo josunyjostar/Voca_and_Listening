@@ -1,5 +1,6 @@
 emphatic                                                    단호한
 offhand                                                     무뚝뚝한
+debunk                                                      (생각이)틀렸음을 밝히다
 
 epiphany                                                    깨달음
 euthanize                                                   안락사시키다
@@ -7,9 +8,9 @@ breach                                                      위반하다
 coarse                                                      거친
 retch                                                       구역질나게 하다
 avert                                                       ~에서 눈을 돌리다
-debunk                                                      (생각이)틀렸음을 밝히다
 foster                                                      조성하다
 bungle                                                      을 엉망으로 하다
+immemorial                                                  태곳적부터의
 
 turned away from                                            ~로부터 벗어나다
 lexicon                                                     어휘
@@ -23,7 +24,6 @@ combustible                                                 가연성인
 orator                                                      연설가
 exertion                                                    노력
 offspring                                                   자식/새끼
-immemorial                                                  태곳적부터의
 interpolate                                                 보간하다
 penalize                                                    처벌하다
 reside                                                      거주하다

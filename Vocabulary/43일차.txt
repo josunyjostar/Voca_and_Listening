@@ -1,6 +1,10 @@
 boggle                                                      주춤하다
 abrupt                                                      돌연한
 desist                                                      (…을) 그만두다
+choppy                                                      파도가 일렁이는
+loom                                                        어렴풋이 보이다
+launder                                                     세탁하다
+coagluate                                                   응고시키다
 
 cherish                                                     소중히 여기다
 treasure                                                    소중히 여기다
@@ -19,9 +23,5 @@ havoc                                                       대파괴
 residue                                                     잔여물
 idiomatic                                                   자연스러운    
 muck                                                        배설물
-choppy                                                      파도가 일렁이는
 drip                                                        뚝뚝 떨어뜨리다
 bulky                                                       부피가 큰
-loom                                                        어렴풋이 보이다
-launder                                                     세탁하다
-coagluate                                                   응고시키다

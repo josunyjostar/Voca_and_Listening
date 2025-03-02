@@ -8,6 +8,7 @@ iffy                                                    뭔가 부족한/불확�
 flit                                                    (가볍게)돌아다니다
 jot(명사)                                               조금도 아닌
 gush                                                    (액체가)솟구치다
+constraint                                              제한/통제
 
 acclaim                                                 칭송하다
 equate                                                  동일시하다
@@ -21,7 +22,6 @@ homey                                                   편안한
 clumsy                                                  어설픈
 awkward                                                 어색한
 asylum                                                  정신병원/망명
-constraint                                              제한/통제
 gallantry                                               용맹
 crease                                                  주름
 disobey                                                 불복종하다

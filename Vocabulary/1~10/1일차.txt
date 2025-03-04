@@ -1,25 +1,27 @@
+affirm                                              단언하다 
+portend                                             징후이다 
+overt                                               공공연연한
+vacillate                                           흔들리다 
+venerate      	                                    숭배하다
+
 imbibe                                              마시다 
 abide                                               참다/견디다
-
 oppress       	                                    탄압하다
 recede                                              물러나다
 implore       	                                    간청하다
 soothe        	                                    누그러뜨리다 
-portend                                             징후이다 
 empirical     	                                    경험에 의거한
 proclaim                                            선포하다 
-affirm                                              단언하다 
 yield                                               생산하다 / 양도하다
-overt                                               공공연연한
-venerate      	                                    숭배하다
 impending                                           임박한 
 delineate     	                                    기술하다
-vacillate                                           흔들리다 
 prolific                                            다작하는 
 condone      	                                    용납하다 
 conjecture    	                                    추측하다 
 excavate       	                                    발굴하다
 jeopardize    	                                    위태롭게하다 
+be involved in                                      ~에 몰두하다 
+notice                                              신경씀
 
 vacancy                                             공석
 reproductive                                        생식의
@@ -39,5 +41,3 @@ nurture                                             양육하다
 harsh                                               가혹한
 contribute                                          기부하다 
 predict                                             예측하다 
-be involved in                                      ~에 몰두하다 
-notice                                              신경씀

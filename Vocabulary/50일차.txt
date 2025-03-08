@@ -1,3 +1,6 @@
+elude                                                       피하다
+overcome                                                    압도당하다
+
 amnesty                                                     사면
 breakthrough                                                돌파구
 restore                                                     회복시키다
@@ -16,11 +19,9 @@ jiffy                                                       short time
 flabbergasted                                               크게 놀란
 immoderate                                                  과도한
 gloat                                                       흡족해하다
-precipitate                                                 촉발시키다
 enthuse                                                     열변을 토하다
-elude                                                       피하다
+precipitate                                                 촉발시키다
 erode                                                       침식시키다
-overcome                                                    압도당하다
 chuck                                                       던지다/그만두다
 dilatory                                                    미적거리는
 stick out                                                   툭 튀어나오다

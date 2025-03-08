@@ -1,38 +1,38 @@
-avert                                               방지하다
-daunt                                               기죽게하다
 revelry                                             흥청망청놀기
-
-drive                                               (변화를)만들다
-dewildering                                         갈피를 못잡게 하는
 astute                                              영악한
-
-fractious                                           짜증잘내는
-intrusive                                           거슬리는
-drivel                                              쓸데없는짓
+bewildering                                         갈피를 못잡게 하는
+drive                                               (변화를)만들다
 splurge                                             돈을 물쓰듯 쓰다
 mow                                                 (잔디를)깍다
-dissent                                             반대
+intrusive                                           거슬리는
+drivel                                              쓸데없는짓
 contingent                                          대표단
-
 gamut                                               전체
-leisurely                                           여유로운
 leach                                               침출되다
-harass                                              괴롭히다
-impromptu                                           즉흥적으로
-mainstay                                            중심/대들보
-arid                                                무미건조한
-hind                                                (동물의)뒤의
-assemblage                                          집합
 impersonate                                         흉내내다
 alteration                                          개조
 aboriginal                                          원주민의
-beckon                                              손짓하다
 place                                               (순위를)차지하다
+lavish                                              호화로운/아낌없이주다
+godsend                                             뜻밖의 선물
+archetype                                           전형
+etch                                                아로새기다
 
-lavish                                             호화로운/아낌없이주다
+avert                                               방지하다
+daunt                                               기죽게하다
+fractious                                           짜증잘내는
+dissent                                             반대
+leisurely                                           여유로운
+harass                                              괴롭히다
+impromptu                                           즉흥적으로
+mainstay                                            중심/대들보
+hind                                                (동물의)뒤의
+beckon                                              손짓하다
+arid                                                무미건조한
+assemblage                                          집합
+
 conjure                                             마술을하다
 glue                                                접착제
-godsend                                             뜻밖의 선물
 cuisine                                             요리법/요리
 bail                                                보석/보석금
 surplus                                             흑자
@@ -40,7 +40,5 @@ occupational                                        직업의
 harbour                                             항구
 beam                                                빛줄기
 bystander                                           구경꾼
-archetype                                           전형
-etch                                                아로새기다
 affiliation                                         소속
 departed                                            세상을 떠난

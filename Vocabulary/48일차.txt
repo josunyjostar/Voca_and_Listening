@@ -1,5 +1,6 @@
-dismissive                                                  무시하는
 disparate                                                   이질적인
+conservative                                                보수적인
+dismissive                                                  무시하는
 
 abstain                                                     기권하다
 impassive                                                   무표정한
@@ -31,7 +32,6 @@ emerge                                                      드러나다/나오�
 eligible                                                    ~을 가질 수 있는
 enthusiasm                                                  열광
 conduct                                                     (특정활동을)하다
-conservative                                                보수적인
 flaunt                                                      과시하다
 restrain                                                    억누르다
 detachment                                                  무심함/객관성

@@ -1,20 +1,21 @@
-allay                                               (감정을)가라앉히다
-blare                                               요란한소리
-grant                                               승인하다
-
+tease                                               놀리다
 gusto                                               열정
-exert                                               (권력을)행사하다
 retort                                              대꾸하다
 endearment                                          애정을 담은말
-fussy                                               안달복달하는
-fuss                                                야단법석
 grimy                                               때묻은
 dabble                                              조금해보다
 embody                                              상징하다
+perilous                                            아주 위험한
+crafty                                              교활한
+allay                                               (감정을)가라앉히다
+blare                                               요란한소리
+
+grant                                               승인하다
+exert                                               (권력을)행사하다
+fussy                                               안달복달하는
+fuss                                                야단법석
 playful                                             장난기많은
 disguise                                            변장하다
-perilous                                            아주 위험한
-tease                                               놀리다
 displace                                            쫒아내다
 so as to                                            ~하기 위해서
 mauntainous                                         산이 많은
@@ -28,5 +29,4 @@ pristine                                            아주 깨끗한
 custodian                                           관리인
 drape                                               걸치다
 longing                                             갈망
-crafty                                              교활한
 favourable                                          호의적인

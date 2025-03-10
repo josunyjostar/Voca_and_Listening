@@ -1,5 +1,6 @@
 bereft                                                      상실감에 빠진
 overpower                                                   제압하다
+corrode                                                     부식시키다
 
 attest                                                      증명하다
 praise                                                      찬양하다
@@ -12,7 +13,6 @@ apparatus                                                   기구(장치)/기�
 gestation                                                   임신[잉태](기간)
 remonstrate                                                 항의하다
 grouse                                                      불평하다
-corrode                                                     부식시키다
 
 cosmopolitan                                                국제적인
 trek                                                        오지여행/걷다

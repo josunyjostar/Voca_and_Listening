@@ -1,10 +1,13 @@
-heart-rending                                               가슴이 미어지는
-penal                                                       형사상의
 debar                                                       금지하다
-circumvent                                                  (법을)피하다
-duly                                                        절차에따라
 inkling                                                     눈치챔
 denote                                                      조짐을 보이다
+
+heart-rending                                               가슴이 미어지는
+penal                                                       형사상의
+circumvent                                                  (법을)피하다
+duly                                                        절차에따라
+lamentable                                                  한탄스러운
+heady                                                       자극적인
 
 warfare                                                     분쟁
 internal                                                    내부의 
@@ -15,10 +18,8 @@ lockdown                                                    봉쇄
 mercenary                                                   용병
 
 incontestable                                               반박의 여지가 없는
-heady                                                       자극적인
 convalescent                                                요양중인
 hard-wearing                                                오래가는
-lamentable                                                  한탄스러운
 premise                                                     전제
 gentility                                                   고상함
 mitigate                                                    완화시키다

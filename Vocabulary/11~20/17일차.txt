@@ -1,23 +1,26 @@
 frisky                                                      기운찬
 anomaly                                                     변칙/이례
-Attribution                                                 원인규명
-
 rile                                                        귀찮게하다
 plead                                                       애원하다
 nominal                                                     명목상의
-fester                                                      곪다
 disobliging                                                 비협조적인
-weather events                                              기상현상
 edgy                                                        불안한
-culprit                                                     범인/장본인
 ascertain                                                   알아내다
-veterinarian                                                수의사(vet)
+culprit                                                     범인/장본인
 behindhand                                                  (빚이)밀린
+adorn                                                       장식하다
+crusade                                                     (사회적)운동
+nick                                                        철창
+equestrian                                                  승마
+forte                                                       강점
+
+Attribution                                                 원인규명
+fester                                                      곪다
+weather events                                              기상현상
+veterinarian                                                수의사(vet)
 
 acrid                                                       매캐한
-adorn                                                       장식하다
 function                                                    (사회적)행사/의식
-crusade                                                     (사회적)운동
 rainforest                                                  열대우림
 rainfall                                                    강우량
 wrongdoer                                                   범법자
@@ -29,6 +32,3 @@ ooze                                                        (액체)흘리다/�
 canal                                                       운하/수로
 arbiter                                                     결정권자
 pretentious                                                 가식적인
-nick                                                        철창
-equestrian                                                  승마
-forte                                                       강점

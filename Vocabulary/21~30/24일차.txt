@@ -1,16 +1,17 @@
 feral                                   돌아다니며사는
 preferential                            우선권을 주는
 misplaced                               부적절한
-
 amass                                   모으다
-conspire                                음모를 꾸미다
-plot                                    음모
-expulsion                               추방
 incessant                               끊임없는
 irate                                   성난
+filial                                  자식의
+treason                                 반역죄
+
+conspire                                음모를 꾸미다
+plot                                    음모/경작지/줄거리
+expulsion                               추방
 recite                                  암송하다
 
-filial                                  자식의
 infraction                              위반
 stow away                               밀항하다
 prosecute                               기소하다
@@ -19,7 +20,6 @@ intervene                               개입하다
 venture                                 모험
 site                                    장소
 ousted                                  축출된
-treason                                 반역죄
 standby                                 대기하고있는
 corporal                                상등병
 dusky                                   어스름한

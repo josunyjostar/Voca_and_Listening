@@ -6,15 +6,13 @@ insouciance                                                 태평함
 innocuous                                                   악의없는
 insincere                                                   진실되지못한
 allay                                                       (감정을)가라앉히다
+gusto                                                       열정
 
-hydrofoils                                                  수중익선
-underwater                                                  수중의
 convene                                                     소집하다
 striking back                                               반격하다
 retaliate                                                   보복하다
 settle                                                      해결하다
 tease                                                       놀리다
-gusto                                                       열정
 retort                                                      대꾸하다
 endearment                                                  애정을 담은말
 grimy                                                       때묻은
@@ -30,3 +28,5 @@ inmate                                                      수감자
 amble                                                       느긋히 걷다
 jeer                                                        야유하다
 nibble                                                      조금씩먹다
+hydrofoils                                                  수중익선
+underwater                                                  수중의

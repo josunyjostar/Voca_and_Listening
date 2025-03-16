@@ -14,6 +14,7 @@ pour                                                                (액체/기�
 rile                                                                귀찮게하다
 frisky                                                              기운찬
 
+damning                                                             비판적인
 infodemic                                                           악성루머가 퍼지는것
 plead                                                               애원하다
 nominal                                                             명목상의
@@ -24,7 +25,6 @@ nick                                                                철창
 equestrian                                                          승마
 forte                                                               강점
 degradation                                                         비하/수모
-damning                                                             비판적인
 blight                                                              망치다/병충해
 glib                                                                말을 잘하는
 goodly                                                              (양이)상당한

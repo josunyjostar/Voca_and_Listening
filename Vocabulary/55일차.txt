@@ -6,6 +6,7 @@ boisterous                                                  활기넘치는
 ingenuity                                                   독창성 
 deviation                                                   탈선
 amiss                                                       잘못된
+predominantly                                               대부분
 
 annex                                                       합병하다
 pioneer                                                     개척자
@@ -17,7 +18,6 @@ capitol                                                     국회 의사당
 unaccompanied                                               동행자가 없는
 bullish                                                     희망에찬
 authenticate                                                진짜임을 증명하다
-predominantly                                               대부분
 pleasing                                                    호감가는
 headlong                                                    성급하게
 arouse                                                      자극하다

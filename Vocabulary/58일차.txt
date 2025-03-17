@@ -1,3 +1,5 @@
+proliferate                                                 급증하다
+
 doomscolling                                                나쁜 상황에 대한 뉴스만 찾는것
 lucrative                                                   수익성이 좋은
 asymptomatic                                                증상이 없는
@@ -12,7 +14,7 @@ rift                                                        균열(틈)
 note                                                        음표/음
 inept                                                       서투른
 expenditure                                                 비용/지출
-disillusion                                                 환멸을느끼게하다
+disillusion                                                 환멸을 느끼게하다
 budge                                                       약간 움직이다
 bilateral                                                   쌍방의/쌍무적인
 pessimist                                                   비관주의자
@@ -24,7 +26,6 @@ allegiance                                                  충성
 averse                                                      ~을 싫어하지않는
 apprehensive                                                걱정되는
 blab                                                        정보를 알려주다
-proliferate                                                 급증하다
 delirious                                                   의식이 혼미한
 stochastic                                                  확률론적
 evacuations                                                 대피

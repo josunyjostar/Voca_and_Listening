@@ -1,12 +1,13 @@
+intuition                                                   직관
+arise                                                       발생하다
 gauche                                                      서투른
-proviso                                                      (합의를위한)조건
+proviso                                                     (합의를위한)조건
+expedient                                                   처방/방책
 
 simultaneous                                                연립의/동시의
 notation                                                    표기법
 appear to                                                   겉으로 보이기에는
 entry                                                       항목
-expedient                                                   처방/방책
-arise                                                       발생하다
 
 proactive                                                   예방의
 wellness                                                    건강
@@ -16,7 +17,6 @@ engulf                                                      완전히 에워싸�
 uncover                                                     발견하다
 decorate                                                    (훈장을)수여하다
 i.e.,                                                       in other words
-intuition                                                   직관
 groundwork                                                  기초/준비작업
 permalink                                                   전자문서에 부여된 하이퍼링크
 denote                                                      의미하다/나타내다

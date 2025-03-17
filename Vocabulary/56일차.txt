@@ -14,6 +14,7 @@ explosives                                                          폭발물
 equatorial                                                          적도의
 in all,                                                             전체적으로
 following(전치사)                                                   ~이후에   
+overtake                                                            추월하다
 takeover(명사)                                                      점령
 take over                                                           물려받다
 custody                                                             (재판전)유치
@@ -22,6 +23,7 @@ adhere                                                              들러붙다
 handful                                                             움큼/줌
 defendant                                                           피고
 break apart                                                         분해하다
+break up                                                            해산시키다
 uprising                                                            반란
 antitrust                                                           독점금지의
 broil                                                               굽다

@@ -1,8 +1,10 @@
+essence                                             본질
+asymptotic                                          점근선의
+
 rise                                                증가
 applicable                                          해당되는
 bring together                                      모으다
 proportion                                          비율/부분/균형
-asymptotic                                          점근선의
 Objectives                                          목표
 in that                                             ~라는 점에서
 
@@ -25,6 +27,5 @@ blanked                                             기억이 안나(동사)
 zillions                                            무수히 많은
 tedious                                             지루한
 nonetheless                                         그럼에도
-essence                                             본질
 by definition                                       정의상
 objects of interest                                 관심의 대상

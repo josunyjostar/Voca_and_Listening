@@ -1,3 +1,4 @@
+consonance                                                          일치
 land along                                                          ~을 따라 떠밀려오다
 
 phenomenon                                                          현상
@@ -30,4 +31,3 @@ broil                                                               굽다
 confide                                                             비밀을 털어놓다
 dank                                                                눅눅한
 huff                                                                씩씩거리다
-consonance                                                          일치

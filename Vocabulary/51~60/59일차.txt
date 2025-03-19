@@ -1,3 +1,7 @@
+imbue                                                       가득채우다
+intuition                                                   직관
+
+arise                                                       발생하다
 paramount                                                   가장 중요한    
 diaspora                                                    집단이동/이주민
 racial                                                      인종[민족]의
@@ -7,8 +11,6 @@ agricultural                                                농업 정책
 reforms                                                     개혁
 essence                                                     본질
 asymptotic                                                  점근선의
-intuition                                                   직관
-arise                                                       발생하다
 gauche                                                      서투른
 proviso                                                     (합의를위한)조건
 expedient                                                   처방/방책
@@ -18,7 +20,6 @@ gush                                                        (액체가)솟구치
 iffy                                                        뭔가 부족한/불확실한
 dearth                                                      ~의 부족(결핍)
 compartmentalize                                            구분하다
-imbue                                                       가득채우다
 indignation                                                 분함
 articulation                                                표현
 bicker                                                      다투다

@@ -1,5 +1,7 @@
-imbue                                                       가득채우다
 intuition                                                   직관
+imbue                                                       가득채우다
+asymptotic                                                  점근선의
+asymptomatic                                                증상이 없는
 
 arise                                                       발생하다
 paramount                                                   가장 중요한    
@@ -10,7 +12,6 @@ captive                                                     사로잡힌
 agricultural                                                농업 정책
 reforms                                                     개혁
 essence                                                     본질
-asymptotic                                                  점근선의
 gauche                                                      서투른
 proviso                                                     (합의를위한)조건
 expedient                                                   처방/방책

@@ -1,5 +1,6 @@
 intimidate                                                  위협하다
 
+ballots                                                     무기명[비밀] 투표
 complement                                                  보완하다
 compliment                                                  칭찬하다
 coincidence                                                 우연의 일치
@@ -10,7 +11,6 @@ disinterest                                                 무관심/관심부�
 raised tracks                                               고가철로
 rest                                                        정지상태
 Nearly                                                      거의(부정문)
-ballots                                                     무기명[비밀] 투표
 emphatic                                                    단호한
 offhand                                                     무뚝뚝한
 debunk                                                      (생각이)틀렸음을 밝히다

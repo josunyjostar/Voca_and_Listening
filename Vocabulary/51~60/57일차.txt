@@ -13,6 +13,7 @@ herculean                                                   대단히 곤란한/
 trial                                                       재판
 impeachment                                                 탄핵
 impeach                                                     탄핵하다
+
 unconstitutional                                            헌법에 위배되는
 drowning                                                    익사
 peerless                                                    비할데 없는
@@ -21,7 +22,6 @@ demur                                                       이의를 제기하�
 preen                                                       몸치장을 하다
 feral                                                       돌아다니며사는
 preferential                                                우선권을 주는
-
 misplaced                                                   부적절한
 filial                                                      자식의
 falter                                                      불안정해지다

@@ -1,11 +1,13 @@
+levy                                                        추가부담금
 intimidate                                                  위협하다
 
 ballots                                                     무기명[비밀] 투표
 complement                                                  보완하다
 compliment                                                  칭찬하다
+suppress                                                    진압하다 
+
 coincidence                                                 우연의 일치
 fatigue                                                     피로
-suppress                                                    진압하다 
 indifference                                                무관심
 disinterest                                                 무관심/관심부족
 raised tracks                                               고가철로
@@ -22,7 +24,6 @@ Departure                                                   사임
 defend                                                      옹호하다
 ingenious                                                   기발한
 ingenuous                                                   순진한
-levy                                                        추가부담금
 dulcet                                                      감미로운
 put upon                                                    도입하다(impose)
 abate                                                       약해지다

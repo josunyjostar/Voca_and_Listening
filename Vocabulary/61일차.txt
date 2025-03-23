@@ -1,4 +1,5 @@
 precipitate                                                 촉발시키다
+undue                                                       과도한 
 yearn                                                       동경하다
 accredited                                                  승인받은
 
@@ -6,12 +7,11 @@ take out(colocation)loan/insuarance/subscription            밖으로 꺼내다
 taboo                                                       금기(사항), 터부
 intercept                                                   요격하다
 strait                                                      해협
-place                                                       설치[배치]하다
-read                                                        적혀있다
+veto                                                        거부권
 bar                                                         금지하다
 grim                                                        엄숙한/음침한
-veto                                                        거부권
-undue                                                       과도한 
+place                                                       설치[배치]하다
+read                                                        적혀있다
 
 apathetic                                                   무관심한
 propaganda                                                  선전

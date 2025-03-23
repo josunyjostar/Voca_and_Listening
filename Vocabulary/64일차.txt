@@ -1,10 +1,12 @@
+conform                                                     순응하다
+contend                                                     주장하다 
 coordinate                                                  편성하다
 deficit                                                     적자
-conform                                                     순응하다
 convict                                                     유죄를 선고하다
-cope                                                        대처하다
 
-contend                                                     주장하다 
+cope                                                        대처하다
+corridor                                                    복도
+deficiency                                                  결핍
 contract                                                    계약/수축하다
 consensus                                                   의견일치
 contact tracing                                             접촉자 추적조사
@@ -22,11 +24,9 @@ creep                                                       살살기다
 constrain                                                   강요하다/제한하다
 contain                                                     억제하다  
 contrary                                                    반대되는
-corridor                                                    복도
 cricket                                                     귀뚜라미
 criteria                                                    기준
 cultivate                                                   경작하다
 cupboard                                                    벽장
 damp                                                        축축한
-deficiency                                                  결핍
 delegate                                                    위임하다

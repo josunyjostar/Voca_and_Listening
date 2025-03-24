@@ -1,7 +1,7 @@
 triage                                                      부상자 분류
 devote                                                      바치다
 discourse                                                   담화
-exclude                                                     제외하다/차단하다
+exclude                                                     차단하다/제외하다
 
 discharge                                                   해고하다/방출
 disclose                                                    폭로하다

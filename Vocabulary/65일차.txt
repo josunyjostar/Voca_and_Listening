@@ -1,19 +1,19 @@
 triage                                                      부상자 분류
 devote                                                      바치다
 discourse                                                   담화
-exclude                                                     차단하다/제외하다
+extent                                                      규모/정도
+elaborate                                                   정교한
 
+exclude                                                     차단하다/제외하다
+ethical                                                     윤리적인
+ensure                                                      보장하다
+engage                                                      고용하다/교전하다
 discharge                                                   해고하다/방출
 disclose                                                    폭로하다
 discriminate                                                식별하다/차별하다
 eager                                                       열심인
-elaborate                                                   정교한
-engage                                                      고용하다/교전하다
 enclose                                                     에워싸다
-ensure                                                      보장하다
-ethical                                                     윤리적인
 evaluate                                                    감정하다
-extent                                                      규모/정도
 displace                                                    대체하다/쫓아내다
 disturb                                                     방해하다
 
@@ -25,7 +25,7 @@ exhaust                                                     다 써 버리다
 panic                                                       공황 상태
 people reason poorly                                (사람들)판단력이 떨어집니다
 then-president                                              당시의 대통령
-on hold                                                     잠시 중단
+on hold                                                     잠시중단
 viewers                                                     시청자들
 diabetes                                                    당뇨병
 diplomat                                                    외교관

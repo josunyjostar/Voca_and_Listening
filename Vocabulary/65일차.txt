@@ -4,11 +4,11 @@ discourse                                                   담화
 extent                                                      규모/정도
 elaborate                                                   정교한
 
+discharge                                                   해고하다/방출
+engage                                                      고용하다/교전하다
 exclude                                                     차단하다/제외하다
 ethical                                                     윤리적인
 ensure                                                      보장하다
-engage                                                      고용하다/교전하다
-discharge                                                   해고하다/방출
 disclose                                                    폭로하다
 discriminate                                                식별하다/차별하다
 eager                                                       열심인

@@ -22,7 +22,7 @@ enroll                                                      등록하다
 estate                                                      사유지/재산
 envelope                                                    봉투     
 exhaust                                                     다 써 버리다
-panic                                                       공황 상태
+panic                                                       공황상태
 people reason poorly                                (사람들)판단력이 떨어집니다
 then-president                                              당시의 대통령
 on hold                                                     잠시중단

@@ -9,6 +9,7 @@ strike/struck/stricken                                      부딪히다
 acquisition                                                 습득
 reef                                                        암초
 prominent                                                   중요한
+assess                                                      평가[사정]하다
 
 imbalance                                                   불균형
 correct                                                     바로잡다
@@ -25,7 +26,6 @@ appeal                                                      항소[상고]하다
 aspire                                                      열망[염원]하다
 aisle                                                       통로 
 amplify                                                     증폭시키다
-assess                                                      평가[사정]하다
 assign                                                      맡기다
 beard                                                       (턱)수염
 cloth                                                       천

@@ -1,4 +1,6 @@
+obsess                                                      ~에 강박감을 갖다
 neglect                                                     방치하다
+negligent                                                   부주의한/태만한
 poaching                                                    밀렵/침입/침해
 poaching                                                    (요리기법)졸이다
 persecution                                                 종교적 박해의 피해자들
@@ -17,6 +19,7 @@ lone                                                        단독의
 lump                                                        덩어리
 manifest                                                    드러내 보이다
 mate                                                        짝짓기를 하다
+
 marvel                                                      경탄하다
 mock                                                        조롱하다
 mount                                                       올라타다
@@ -24,7 +27,6 @@ nanny                                                       유모
 narrate                                                     이야기를 하다
 norm                                                        표준/기준
 oblige                                                의무적으로 …하게 하다
-obsess                                                      ~에 강박감을 갖다
 occupation                                                  직업
 occupy                                                      점령하다
 offend                                                      기분 상하게 하다

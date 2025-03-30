@@ -7,9 +7,9 @@ spouse                                                      배우자
 reunion                                                     동창회/재통합
 upcycle                                                     더 나은 것으로 만들다
 disapproval                                                 못마땅함/반감
+remedy                                                      해결책
 questionnaire                                               설문지
 riot                                                        폭동
-remedy                                                      해결책
 
 tide                                                        (바다의)조류
 channel                                                     해협

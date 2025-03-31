@@ -17,7 +17,9 @@ feud                                                불화
 fastidious                                          깔끔떠는
 fastidious                                          까다로운
 fractious                                           짜증잘내는
-arrant                                              (안좋은강조)순전한
+arrant                                              순전한(안좋은강조)
+unmitigated                                         완전한(안좋은강조)
+utter                                               완전한
 nasty                                               못된
 coherent                                            일관성있는
 

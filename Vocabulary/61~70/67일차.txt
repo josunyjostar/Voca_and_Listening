@@ -1,9 +1,9 @@
 induce                                                      설득하다
-unmitigated                                               완전한(나쁜 것 묘사에씀)
+arrant                                                      순전한(안좋은강조)
+unmitigated                                                 완전한(안좋은강조)
+utter                                                       완전한
 immense                                                     엄청난
 intimate                                                    친밀한
-infant                                                      유아
-scuffle                                                     실랑이
 
 identical                                                   동일한
 liberal                                                     진보적인
@@ -30,3 +30,5 @@ lap                                                         (트랙의)한 바�
 lawn                                                        잔디밭
 leap                                                        뛰어오르다
 lease                                                       임대하다
+infant                                                      유아
+scuffle                                                     실랑이

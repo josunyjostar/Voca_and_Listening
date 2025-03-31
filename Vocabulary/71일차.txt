@@ -1,10 +1,29 @@
 fracture                                                    골절/균열
 curfew                                                      통행금지령
+turnover                                                    매출량/이직률
 tenant                                                      세입자
 supper                                                      저녁 
-turnover                                                    매출량/이직률
 undergo                                                     (안 좋은 일)겪다
 
+scope                                                       기회/범위/샅샅이 살피다
+commissioner                                                장관
+tidy                                                        깔끔한
+testify                                                     증언하다
+timber                                                      수목[산림]
+supplement                                                  보충물
+tempt                                                       부추기다
+tense                                                       긴장한
+tremendous                                                  굉장한
+underlie                                                    ~의 기저를 이루다
+
+substance                                                   물질/실체/본질
+swell                                                       부어오르다
+swift                                                       신속한
+tin                                                         주석/깡통
+tragic                                                      비극적인
+transact                                                    거래하다
+suburb                                                      교외
+stiff                                                       뻣뻣한/뻑뻑한
 interim                                                     임시의
 self-ruling                                                 자치의
 diplomatic                                                  외교의
@@ -13,22 +32,3 @@ diplomatic ties                                             외교관계
 put an end                                                  ~을 종식시키다
 loyalist                                                    현 체제 지지자
 along a body of water                                       물가를 따라
-scope                                                       기회/범위/샅샅이 살피다
-stiff                                                       뻣뻣한/뻑뻑한
-commissioner                                                장관
-
-tidy                                                        깔끔한
-testify                                                     증언하다
-timber                                                      수목[산림]
-supplement                                                  보충물
-tempt                                                       부추기다
-tense                                                       긴장한
-substance                                                   물질/실체/본질
-swell                                                       부어오르다
-swift                                                       신속한
-tin                                                         주석/깡통
-tragic                                                      비극적인
-transact                                                    거래하다
-tremendous                                                  굉장한
-underlie                                                    ~의 기저를 이루다
-suburb                                                      교외

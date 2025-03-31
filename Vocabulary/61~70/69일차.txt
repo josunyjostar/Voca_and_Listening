@@ -1,10 +1,10 @@
 patent                                                      특허권
 prescribe                                                   처방하다
 prevail                                                     만연하다
-peasant                                                     소작농
 rebuke                                                      꾸짖다 
-precede                                                     선행하다
 
+peasant                                                     소작농
+precede                                                     선행하다
 coup                                                        쿠데타
 blob                                                        걸쭉하고 축축한 무언가
 incursion                                                   급습

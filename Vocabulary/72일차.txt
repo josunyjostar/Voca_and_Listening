@@ -6,6 +6,7 @@ vigorous                                                    활발한
 influx                                                      밀어닥침
 
 undermine                                                   기반을 약화시키다
+undertake                                                   착수하다
 exhume                                                      파내다
 grub                                                        유충
 short supplies                                              공급부족
@@ -14,7 +15,6 @@ move(명사)                                                  변화
 opponent                                                    반대자
 rule                                                        판결을 내리다
 bring s.t to light                                          밝혀내다
-undertake                                                   착수하다
 verbal                                                      언어의
 verse                                                       운문
 vice                                                        범죄

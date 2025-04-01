@@ -1,6 +1,6 @@
+turnover                                                    매출량/이직률
 fracture                                                    골절/균열
 curfew                                                      통행금지령
-turnover                                                    매출량/이직률
 tenant                                                      세입자
 supper                                                      저녁 
 undergo                                                     (안 좋은 일)겪다

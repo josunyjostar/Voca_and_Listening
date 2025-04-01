@@ -2,7 +2,7 @@ triage                                                      부상자 분류
 devote                                                      바치다
 discourse                                                   담화
 extent                                                      규모/정도
-elaborate                                                   정교한
+elaborate                                                   정교한/자세히 말하다
 
 discharge                                                   해고하다/방출
 engage                                                      고용하다/교전하다

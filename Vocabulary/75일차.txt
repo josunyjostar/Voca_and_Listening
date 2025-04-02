@@ -1,37 +1,33 @@
+interdependent                                              상호의존적인
+wave front                                                  파면
+entail                                                      수반하다
+crest                                                 그래프(극점)
 
-
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
-utter                                                       완전한
+biodiversity                                                생물의 다양성      
+susceptible                                                 민감한/예민한 
+fallout                                        (천천히나오는)안좋은 결과
+was made public                                             공개되었다
+revolt                                                      반란
+had the support                                             지지받았다
+name                                                        선정하다
+low-lying area                                              저지대
+By the time                                                 ~할 때쯤
+periodic                                                    주기적인
+realm                                                       영역
+ad hoc               계획적이거나 일반화된 접근법이 아닌 특정 상황에 맞춰진 것
+cove                                                        (해안지형)만
+trial and error                                             시행착오
+dominate                                             지배하다/두드러지다
+versus                                                      ~에 비해
+fine                                                        질 높은
+Wavelength                                                  파장
+Amplitude                                                   진폭
+variation                                                   변화
+constraint                                                  제약
+dynamics                                                    역동성
+Fade back in                                                서서히 나타나다
+As it turns out,                                            결과적으로/뜻밖에도
+in a convincing  manner                                     설득력있는 방법으로
+derivative                                                  파생물
+partial derivatives                                         편미분
+finite-differencing techniques                              유한차분법

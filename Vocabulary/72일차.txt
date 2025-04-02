@@ -1,10 +1,11 @@
 appraise                                                    살피다/평가하다
 giddy                                                       어지러운
 vigorous                                                    활발한
+rigorous                                                    엄격한 
 influx                                                      밀어닥침
-
-undermine                                                   기반을 약화시키다
 undertake                                                   착수하다
+undermine                                                   기반을 약화시키다
+
 wander                                                      헤매다/산만해지다
 warrant                                                     보증서/영장
 vice                                                        범죄
@@ -14,6 +15,7 @@ utter                                                       완전한
 vague                                                       희미한/모호한
 weevil                                                      바구미(벌레)
 move(명사)                                                  변화
+variation                                                   변화
 exhume                                                      파내다
 short supplies                                              공급부족
 grub                                                        유충

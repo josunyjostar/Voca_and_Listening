@@ -28,7 +28,7 @@ remorse                                                 회한
 idiosyncrasy                                            별난점
 gnaw                                                    갉아먹다
 fret                                                    조바심치다
-crest                                                   산마루
+crest                                                   산마루/꼭대기
 barter                                                  물물교환하다
 docile                                                  유순한
 
@@ -36,7 +36,8 @@ splash                                                  철벅 떨어지다
 hoist                                                   들어올리다
 dismantle                                               해체하다
 infest                                                  (들쥐가)들끓다
-lateral                                                 옆의 
+lateral                                                 옆의/측면
+lateral movement                                        측면이동
 bruise                                                  멍
 murky                                                   어두컴컴한
 plod                                                    터벅터벅 걷다

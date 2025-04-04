@@ -11,6 +11,7 @@ vice                                                        범죄
 rule                                                        판결을 내리다
 move(명사)                                                  변화
 variation                                                   변화
+variant                                                     변형
 
 warrant                                                     보증서/영장
 utter                                                       완전한

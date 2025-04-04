@@ -5,7 +5,7 @@ tenant                                                      세입자
 supper                                                      저녁 
 undergo                                                     (안 좋은 일)겪다
 
-scope                                                       기회/범위/샅샅이 살피다
+scope                                                      기회/범위/샅샅이 살피다
 commissioner                                                장관
 tidy                                                        깔끔한
 testify                                                     증언하다

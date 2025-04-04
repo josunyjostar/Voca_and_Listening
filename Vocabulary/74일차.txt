@@ -1,21 +1,22 @@
 tackle                                                      (해결을)시도하다
-envision                                                    구상하다
 immerse                                                     몰두하게 만들다
 differentiate                                               미분하다/차별화하다
 depict                                                      묘사하다
 round off                                                   ~을 마무리짓다
 expand on                                                   자세히 설명하다
 elaborate                                                   자세히 말하다
+ensue                                                       (결과가)뒤따르다
+emcompass                                                   포함하다
 incarnation                                                 구현
 goes on to 부정사                                    계속해서 to부정사 하다
 synonymous                                                  아주 밀접한
 
-Caustics(그래픽스전문용어)                                   인과적효과
+caustics(그래픽스전문용어)                                   인과적효과
 disbelief                                                   불신감 
 versatility                                                 다재다능함
-Diffraction                                                 회절
-Undulations                                            기복/물결 모양의 움직임
-Tranquil                                                    고요한
+diffraction                                                 회절
+undulations                                            기복/물결 모양의 움직임
+tranquil                                                    고요한
 viable                                                      실행 가능한
 
 defect                                                      결함

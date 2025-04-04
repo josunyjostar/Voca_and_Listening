@@ -2,12 +2,11 @@ prescribe                                                   처방하다
 rebuke                                                      꾸짖다 
 patent                                                      특허권
 prevail                                                     만연하다
+incursion                                                   급습
 
 peasant                                                     소작농
 precede                                                     선행하다
 coup                                                        쿠데타
-blob                                                        걸쭉하고 축축한 무언가
-incursion                                                   급습
 stomach                                                     위(장기)
 pass into law                                               법률로 제정하다
 pave the way                                                길을 닦다
@@ -17,6 +16,7 @@ parliament                                                  의회
 pat                                                         쓰다듬다
 pinch                                                       꼬집다
 
+blob                                                        걸쭉하고 축축한 무언가
 palace                                                      궁전
 presume                                                     추정하다
 pear                                                        (과일)배

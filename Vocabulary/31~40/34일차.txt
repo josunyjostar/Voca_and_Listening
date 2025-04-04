@@ -11,7 +11,7 @@ intersperse                                             (…속에·사이에)�
 quash                                                   파기하다
 flit                                                    (가볍게)돌아다니다
 jot(명사)                                               조금도 아닌
-constraint                                              제한/통제
+constraint                                              제약조건
 
 nitty-gritty                                            핵심
 ensign                                                  깃발

@@ -8,7 +8,6 @@ crest                                                 그래프(극점)/꼭대�
 fine                                                        질 높은
 susceptible                                                 민감한/예민한 
 
-
 was made public                                             공개되었다
 had the support                                             지지받았다
 name                                                        선정하다
@@ -17,6 +16,7 @@ periodic                                                    주기적인
 realm                                                       영역
 ad hoc                                                  특정 상황에 맞춰진 것
 trial and error                                             시행착오
+fade back in                                                서서히 나타나다
 
 fallout                                        (천천히나오는)안좋은 결과
 low-lying area                                              저지대
@@ -26,11 +26,10 @@ revolt                                                      반란
 biodiversity                                                생물의 다양성      
 dominate                                             지배하다/두드러지다
 versus                                                      ~에 비해
-Wavelength                                                  파장
-Amplitude                                                   진폭
+wavelength                                                  파장
+amplitude                                                   진폭
 constraint                                                  제약조건
 dynamics                                                    역동성
-Fade back in                                                서서히 나타나다
 in a convincing  manner                                     설득력있는 방법으로
 derivative                                                  미분
 partial derivatives                                         편미분

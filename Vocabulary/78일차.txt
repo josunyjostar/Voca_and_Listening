@@ -8,11 +8,8 @@ decency                                                     예절/체면
 product                                                     곱(수학)
 arbitrary                                                   임의적인
 turbulent                                                   사납게 날뛰는
-translation                                                 이동
-phase                                                       위상
 drab                                                        칙칙한
 forbidding                                                  험악한/으스스한
-oscillation                                                 진동
 
 engage                                                      참여하다/끌어들이다
 ensure                                                      보장하다
@@ -23,8 +20,11 @@ enclose                                                     둘러싸다
 engulf                                                      완전히 에워싸다  
 entail                                                      수반하다
 envision                                                    구상하다
-obstruction                                                 방해
 
+obstruction                                                 방해
+translation                                                 이동
+phase                                                       위상
+oscillation                                                 진동
 sham                                                        사기꾼/가짜
 so as to부정사                                              ~하기위해서
 choral                                                      합창의

@@ -1,18 +1,30 @@
 deport                                                      추방하다
-pass A as B                                             A를 B용도로 전달하다
-pass in A as B                                          A를 B용도로 전달하다
+pass A as B                                                 A를 B용도로 전달하다
+pass in A as B                                              A를 B용도로 전달하다
+Save A as B                                                 A를 B의 용도로 남겨두다
+forbidding                                                  험악한/으스스한
+
+turbulent                                                   사납게 날뛰는
+engage                                                      참여하다/끌어들이다
+ensure                                                      보장하다
+oscillation                                                 진동
+sham                                                        가짜
+relative                                                    상대적인
+
 composition                                                 조합과정
 maximize                                                    극대화하다
 tight bounds                                                정확한 범위
-decency                                                     예절/체면
 product                                                     곱(수학)
+decency                                                     예절/체면
 arbitrary                                                   임의적인
-turbulent                                                   사납게 날뛰는
+obstruction                                                 방해
+translation                                                 이동
+phase                                                       위상
 drab                                                        칙칙한
-forbidding                                                  험악한/으스스한
-
-engage                                                      참여하다/끌어들이다
-ensure                                                      보장하다
+so as to부정사                                              ~하기위해서
+choral                                                      합창의
+latter                                                      후자의
+quantization                                                양자화      
 enforce                                                     집행하다
 enhance                                                     향상시키다
 encounter                                                   우연히 만나다
@@ -20,14 +32,3 @@ enclose                                                     둘러싸다
 engulf                                                      완전히 에워싸다  
 entail                                                      수반하다
 envision                                                    구상하다
-
-obstruction                                                 방해
-translation                                                 이동
-phase                                                       위상
-oscillation                                                 진동
-sham                                                        사기꾼/가짜
-so as to부정사                                              ~하기위해서
-choral                                                      합창의
-latter                                                      후자의
-relative                                                    상대적인
-quantization                                                양자화      

@@ -5,29 +5,29 @@ subsequent                                                  그 다음의
 plausible                                                   그럴듯한
 coerce                                                      강제로 ~하게 하다
 succinct                                                    간결한
+elicit                                                      끌어내다
 fluctuation                                                 변동
-
-implication                                                 함축/영향/암시
-repercussion                                                (부정적인)영향
-transient                                                   일시적인
-implement(carry out)                                        시행하다 
 inhibit                                                     억제하다
+
+repercussion                                                (부정적인)영향
+implement(carry out)                                        시행하다 
 invoke                                                      적용하다/부르다
-aggregate                                                   총합/집합/모으다
+aggregate                                                   집합/모으다
 deteriorate                                                 악화되다
 exacerbate                                                  악화시키다
 attenuate                                                   약화시키다
 trajectory                                                  궤도/경로
-confer                                                      협의하다/수여하다 
 subsume                                                     포함하다
-underway                                                    진행중인
+confer                                                      협의하다/수여하다 
+deviate                                                     벗어나다
 
+implication                                                 함축/영향/암시
+transient                                                   일시적인
+underway                                                    진행중인
 redundant                                                   불필요한/중복된
 articulate                                                  명확히 표현하다
+recur                                                       재발하다
 touchdown                                                   착륙
 advent                                                      출현
-recur                                                       재발하다
 precursor                                                   선구자
-deviate                                                     벗어나다
-elicit                                                      끌어내다
 ambiguous                                                   애매한    

@@ -1,3 +1,13 @@
+excerpt                                                     발췌
+expedite                                                    신속히 처리하다
+fluctuate                                                   변동하다
+forsake                                                     버리다/포기하다
+foster                                                      육성하다
+fraught                                                (안좋은것이)가득한/걱정스러운
+garner                                                      모으다/얻다
+impartial                                                   공정한/치우치지 않는
+implement                                                   시행하다/도구
+
 induce                                                      설득하다
 arrant                                                      순전한(안좋은강조)
 unmitigated                                                 완전한(안좋은강조)
@@ -6,19 +16,11 @@ immense                                                     엄청난
 immerse                                                     몰두하게 만들다
 intimate                                                    친밀한
 intimidate                                                  위협하다
-excerpt                                                     발췌/인용구
-exemplify                                                   예증하다/모범이 되다
-expedite                                                    촉진하다/신속히 처리하다
+
 feasible                                                    실행 가능한/타당한
-fluctuate                                                   변동하다/오르내리다
-forsake                                                     버리다/포기하다
-foster                                                      육성하다/촉진하다
-fraught                                                (안좋은것이)가득한/걱정스러운
-garner                                                      모으다/얻다
-gauge                                                       측정하다/평가하다
+exemplify                                                   모범이 되다
 humility                                                    겸손/겸양
-impartial                                                   공정한/치우치지 않는
-implement                                                   시행하다/도구
+gauge                                                       측정하다/평가하다
 implicit                                                    암시적인
 inaugurate                                                  취임시키다
 incidental                                                  부수적인/우연한

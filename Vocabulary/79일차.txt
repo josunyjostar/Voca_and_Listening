@@ -1,13 +1,8 @@
-impede                                                      지연시키다
-congested                                                   혼잡한
-relief                                                      구호물자
-subsequent                                                  그 다음의
-plausible                                                   그럴듯한
-coerce                                                      강제로 ~하게 하다
 succinct                                                    간결한
 elicit                                                      끌어내다
 fluctuation                                                 변동
 inhibit                                                     억제하다
+subsume                                                     포함하다
 
 repercussion                                                (부정적인)영향
 implement(carry out)                                        시행하다 
@@ -17,10 +12,15 @@ deteriorate                                                 악화되다
 exacerbate                                                  악화시키다
 attenuate                                                   약화시키다
 trajectory                                                  궤도/경로
-subsume                                                     포함하다
 confer                                                      협의하다/수여하다 
 deviate                                                     벗어나다
 
+impede                                                      지연시키다
+congested                                                   혼잡한
+relief                                                      구호물자
+subsequent                                                  그 다음의
+plausible                                                   그럴듯한
+coerce                                                      강제로 ~하게 하다
 implication                                                 함축/영향/암시
 transient                                                   일시적인
 underway                                                    진행중인

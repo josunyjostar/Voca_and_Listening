@@ -8,22 +8,22 @@ assert                                                      주장하다
 ascertain                                                   확인하다
 deliberate                                                  숙고하다/고의적인
 
-blatant                                                     노골적인/뻔한
 bolster                                                     지지하다/개선하다  
-candid                                                      솔직한
-commence                                                    시작하다
 compelling                                                  설득력 있는/강제적인
 conserve                                                    보존하다/절약하다
 contingent                                                  대표단/조건부의
 culminate                                                   끝맺다
 deem                                                        간주하다
+discern                                                     알아보다
+discretion                                                  재량권/분별력
 
+blatant                                                     노골적인/뻔한
+candid                                                      솔직한
+commence                                                    시작하다
 derive                                                      도출하다
 caravan                                                     (사막을 건너는)대상
 inform                                                      (공식적으로)알리다
 designate                                                   명명하다
-discern                                                     알아보다
-discretion                                                  재량권/분별력
 dispense                                                    분배하다
 dispose                                                     처분하다
 disseminate                                                 전파하다

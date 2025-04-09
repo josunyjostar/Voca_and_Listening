@@ -1,7 +1,7 @@
+inhibit                                                     억제하다
 succinct                                                    간결한
 elicit                                                      끌어내다
 fluctuation                                                 변동
-inhibit                                                     억제하다
 subsume                                                     포함하다
 
 repercussion                                                (부정적인)영향

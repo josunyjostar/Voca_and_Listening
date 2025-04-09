@@ -6,7 +6,7 @@ enact                                                       제정하다
 denounce                                                    비난하다
 embezzle                                                    횡령하다
 
-initiative                                                  계획
+initiative                                                  계획/주도권
 cottage                                                     작은 집
 benevolent                                                  자애로운 
 malevolent                                                  악의적인 

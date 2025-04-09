@@ -17,9 +17,9 @@ immerse                                                     몰두하게 만들�
 intimate                                                    친밀한
 intimidate                                                  위협하다
 
-feasible                                                    실행 가능한/타당한
-exemplify                                                   모범이 되다
-humility                                                    겸손/겸양
+feasible                                                    실행가능한
+exemplify                                                   모범이되다
+humility                                                    겸손
 gauge                                                       측정하다/평가하다
 implicit                                                    암시적인
 inaugurate                                                  취임시키다

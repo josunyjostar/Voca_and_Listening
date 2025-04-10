@@ -1,10 +1,5 @@
-excerpt                                                     발췌
-expedite                                                    신속히 처리하다
-fluctuate                                                   변동하다
-forsake                                                     버리다/포기하다
 foster                                                      육성하다
 fraught                                                (안좋은것이)가득한/걱정스러운
-garner                                                      모으다/얻다
 impartial                                                   공정한/치우치지 않는
 implement                                                   시행하다/도구
 
@@ -17,6 +12,11 @@ immerse                                                     몰두하게 만들�
 intimate                                                    친밀한
 intimidate                                                  위협하다
 
+garner                                                      모으다/얻다
+excerpt                                                     발췌
+expedite                                                    신속히 처리하다
+fluctuate                                                   변동하다
+forsake                                                     버리다/포기하다
 feasible                                                    실행가능한
 exemplify                                                   모범이되다
 humility                                                    겸손

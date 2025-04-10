@@ -1,10 +1,9 @@
 mandate                                                     명령하다/위임하다
 meticulous                                                  꼼꼼한
-mitigate                                                    완화하다
-navigate                                                    항해하다
 nominate                                                    지명하다/후보로 올리다
 obsolete                                                    구식인
 omit                                                        생략하다
+infiltrate                                                  잠입하다
 pertinent                                                   적절한/관련있는
 adequate                                                    적절한
 
@@ -14,10 +13,10 @@ prioritize                                                  우선순위를 정�
 draconian                                                   가혹한
 forfeit                                                     몰수당하다
 hazardous                                                   위험한
-infiltrate                                                  잠입하다
 remittance                                                  송금액
 stereotype                                                  고정관념
 culpable                                                    과실이있는
+analogous                                                   유사한
 
 consulate                                                   영사관 
 commitment                                                  헌신
@@ -27,7 +26,8 @@ initiative                                                  계획/주도권
 prevalent                                                   널리 퍼진
 tendency                                                    성향/경향
 validate                                                    확인하다
-analogous                                                   유사한
-Assertive                                                   단호한
+assertive                                                   단호한
 belligerent                                                 적대적인
-Benchmark                                                   기준점
+benchmark                                                   기준점
+mitigate                                                    완화하다
+navigate                                                    항해하다

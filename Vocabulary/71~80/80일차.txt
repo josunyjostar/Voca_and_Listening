@@ -1,9 +1,3 @@
-shun                                                        피하다
-vigilant                                                    바짝 경계하는
-pod                                                         꼬투리(식물)
-a body double                                               대역
-look-alike                                                  닮은사람
-diminish                                                    감소하다/줄이다
 assert                                                      주장하다
 ascertain                                                   확인하다
 deliberate                                                  숙고하다/고의적인
@@ -17,6 +11,12 @@ deem                                                        간주하다
 discern                                                     알아보다
 discretion                                                  재량권/분별력
 
+shun                                                        피하다
+vigilant                                                    바짝 경계하는
+pod                                                         꼬투리(식물)
+a body double                                               대역
+look-alike                                                  닮은사람
+diminish                                                    감소하다/줄이다
 blatant                                                     노골적인/뻔한
 candid                                                      솔직한
 commence                                                    시작하다

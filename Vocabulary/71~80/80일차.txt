@@ -10,6 +10,7 @@ culminate                                                   끝맺다
 deem                                                        간주하다
 discern                                                     알아보다
 discretion                                                  재량권/분별력
+designate                                                   명명하다
 
 shun                                                        피하다
 vigilant                                                    바짝 경계하는
@@ -23,7 +24,6 @@ commence                                                    시작하다
 derive                                                      도출하다
 caravan                                                     (사막을 건너는)대상
 inform                                                      (공식적으로)알리다
-designate                                                   명명하다
 dispense                                                    분배하다
 dispose                                                     처분하다
 disseminate                                                 전파하다

@@ -1,9 +1,10 @@
 congruent                                                   일치하는
-contempt                                                    경멸
-depreciate                                                  평가절하하다
 disparity                                                   불균형
 epitomize                                                   전형적으로 보여주다
 equitable                                                   공평한
+contempt                                                    경멸
+intent                                                      강한 관심을 보이는
+depreciate                                                  평가절하하다
 
 eclectic                                                    절충적인
 eradicate                                                   근절하다
@@ -11,20 +12,21 @@ erratic                                                     변덕스러운
 fabricate                                                   제작하다
 facet                                                       측면
 fathom                                                      이해하다
+exquisite                                                   정교한
 dire                                                        지독한
+
+implicate                                                   연루시키다 
+exploit                                                     착취하다 
+eloquent                                                    유창한 
+confront                                                    직면하다
+
 stigma                                                      오명/낙인   
 famine                                                      기근 
-exquisite                                                   정교한
 converge                                                    수렴하다
-
-confront                                                    직면하다
 harassment                                                  괴롭힘
 hardship                                                    어려움
 aftermath                                                   여파
-eloquent                                                    유창한 
-exploit                                                     착취하다 
 humiliate                                                   굴욕을 주다
-implicate                                                   연루시키다 
 loathe                                                      혐오하다 
 call off                                                    취소하다 
 put off                                                     미루다 

@@ -1,5 +1,5 @@
 assert                                                      주장하다
-ascertain                                                   확인하다
+ascertain                                                   확인하다/알아내다
 deliberate                                                  숙고하다/고의적인
 
 bolster                                                     지지하다/개선하다  

@@ -5,6 +5,7 @@ brisk                                                       바쁜
 reverie                                                     몽상 
 assorted                                                    여러가지의
 consultation                                                협의
+perish                                                      비명횡사하다
 
 intent                                                      강한 관심을 보이는
 innate                                                      선천적인
@@ -15,7 +16,6 @@ prosaic                                                     평범한
 eccentric                                                   기이한
 disinfectant                                                소독약
 clad                                                       ~(옷)을 입은 
-perish                                                      비명횡사하다
 encroach                                                    침해하다
 
 compromise                                                  타협하다

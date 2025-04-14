@@ -1,6 +1,3 @@
-contempt                                                    경멸
-intent                                                      강한 관심을 보이는
-depreciate                                                  평가절하하다
 eradicate                                                   근절하다
 erratic                                                     변덕스러운
 
@@ -15,6 +12,9 @@ implicate                                                   연루시키다
 exploit                                                     착취하다 
 eloquent                                                    유창한 
 
+contempt                                                    경멸
+intent                                                      강한 관심을 보이는
+depreciate                                                  평가절하하다
 equitable                                                   공평한
 epitomize                                                   전형적으로 보여주다
 disparity                                                   불균형

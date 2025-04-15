@@ -1,18 +1,19 @@
 appoint                                                     임명하다
 afflict                                                     괴롭히다
 amenable                                                    순응하는
-coax                                                        설득하다
-embellish                                                   꾸미다
 distraught                                                  비통한
 
 debilitate                                                  약화시키다
 dormant                                                     휴면상태의
-anecdote                                                    일화
-daunting                                                    위압적인
-clamor                                                      소란
 arduous                                                     힘든
 censure                                                     질책하다
+cordial                                                     정중한
+embellish                                                   꾸미다
+coax                                                        설득하다
 
+anecdote                                                    일화
+clamor                                                      소란
+daunting                                                    위압적인
 attain                                                      도달하다
 misogyny                                                    여성혐오
 radiant                                                     빛나는
@@ -20,7 +21,6 @@ gentrify외래어 그대로씀                       빈곤지역을 부자들�
 anoint                                                      기름을 바르다
 comply                                                      준수하다
 conspicuous                                                 눈에 띄는
-cordial                                                     정중한
 cohesive                                                    응집력 있는
 ample                                                       충분한
 cleanse                                                     세척하다

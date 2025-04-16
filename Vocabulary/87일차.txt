@@ -13,6 +13,7 @@ palpable                                                    명백한
 precarious                                                  불안정한
 poignant                                                    가슴아픈
 
+bugbear                                                     근심거리
 myriad                                                      무수함
 lucid                                                       명료한
 ordeal                                                      시련
@@ -26,7 +27,6 @@ perplex                                                     당혹시키다
 prophesy                                                    예언하다
 divest                                                      (옷을)벗다
 inoperable                                                  실행 불가능한
-bugbear                                                     근심거리
 incendiary                                                  방화의/선동적인  
 deflection                                                  굴절
 magnify                                                     확대하다

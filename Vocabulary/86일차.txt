@@ -1,4 +1,3 @@
-direct                                                      지시하다
 frugal                                                      검소한
 furtive                                                     몰래하는
 garble                                                      왜곡하다
@@ -14,6 +13,9 @@ expulsion                                                   축출
 collusion                                                   공모
 sophisticated                                               수준 높은
 
+direct                                                      지시하다
+impetus                                                     자극
+impair                                                      손상시키다
 indefinitely                                                무기한으로
 achivement                                                  성취
 ominous                                                     불길한 
@@ -23,8 +25,6 @@ haphazard                                                   무작위의
 harness                                                     활용하다
 hone                                                        갈다/연마하다
 huddle                                                      웅크리다
-impetus                                                     자극
-impair                                                      손상시키다
 impending                                                   임박한
 impoverish                                                  빈곤하게 하다
 incite                                                      선동하다

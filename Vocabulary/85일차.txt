@@ -1,6 +1,3 @@
-appoint                                                     임명하다
-afflict                                                     괴롭히다
-amenable                                                    순응하는
 distraught                                                  비통한
 
 debilitate                                                  약화시키다
@@ -8,9 +5,13 @@ dormant                                                     휴면상태의
 arduous                                                     힘든
 censure                                                     질책하다
 cordial                                                     정중한
-embellish                                                   꾸미다
-coax                                                        설득하다
+feeble                                                      연약한
 
+appoint                                                     임명하다
+afflict                                                     괴롭히다
+amenable                                                    순응하는
+coax                                                        설득하다
+embellish                                                   꾸미다
 anecdote                                                    일화
 clamor                                                      소란
 daunting                                                    위압적인
@@ -27,7 +28,6 @@ cleanse                                                     세척하다
 cunning                                                     교활한
 divert                                                      전환하다
 eminent                                                     저명한
-feeble                                                      연약한
 foreboding                                                  불길한 예감
 frantic                                                     미친듯한
 

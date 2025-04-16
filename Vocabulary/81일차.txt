@@ -13,6 +13,7 @@ intimate                                                    친밀한
 intimidate                                                  위협하다
 garner                                                      모으다/얻다
 
+implicit                                                    암시적인
 excerpt                                                     발췌
 expedite                                                    신속히 처리하다
 fluctuate                                                   변동하다
@@ -22,7 +23,6 @@ exemplify                                                   모범이되다
 humility                                                    겸손
 humiliate                                                   굴욕을 주다
 gauge                                                       측정하다/평가하다
-implicit                                                    암시적인
 inaugurate                                                  취임시키다
 incidental                                                  부수적인/우연한
 inclusive                                                   포괄적인

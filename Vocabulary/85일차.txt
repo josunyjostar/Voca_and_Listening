@@ -1,12 +1,15 @@
 distraught                                                  비통한
 
+cordial                                                     정중한
+feeble                                                      연약한
+
 debilitate                                                  약화시키다
 dormant                                                     휴면상태의
 arduous                                                     힘든
 censure                                                     질책하다
-cordial                                                     정중한
-feeble                                                      연약한
-
+divert                                                      전환하다
+diverge                                                     분기하다
+divest                                                      (옷을)벗다
 appoint                                                     임명하다
 afflict                                                     괴롭히다
 amenable                                                    순응하는
@@ -26,7 +29,6 @@ cohesive                                                    응집력 있는
 ample                                                       충분한
 cleanse                                                     세척하다
 cunning                                                     교활한
-divert                                                      전환하다
 eminent                                                     저명한
 foreboding                                                  불길한 예감
 frantic                                                     미친듯한

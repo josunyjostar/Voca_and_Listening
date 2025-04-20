@@ -35,7 +35,132 @@ disparity                                                   불균형
 disparity                                                   불균형
 disparity                                                   불균형
 disparity                                                   불균형
+demise - 사망, 종말
+demolish - 철거하다
+demur - 반대하다
+denote - 의미하다, 나타내다
+denounce - 비난하다
+deplete - 고갈시키다
+deploy - 배치하다
+deride - 비웃다
+derive - 유래하다
+desecrate - 모독하다
+desolate - 황량한, 고독한
+despondent - 낙담한
+destitute - 빈곤한
+detached - 분리된, 초연한
+deter - 저지하다
+detest - 혐오하다
+detrimental - 해로운
+deviate - 벗어나다
+devoid - ~이 없는
+devout - 독실한
+dexterous - 능숙한
+dialect - 방언
+diligent - 부지런한
+dilute - 희석하다
+diminish - 감소시키다
+discord - 불화
+discrepancy - 불일치
+discrete - 별개의
+discriminate - 구별하다
+disdain - 경멸하다
+disgruntled - 불만을 품은
+disheveled - 단정치 않은
+dismantle - 해체하다
+disparage - 비하하다
+dispel - 없애다
+disposition - 성향, 배치
+disrupt - 방해하다
+disseminate - 퍼뜨리다
+dissident - 반체제적인
+dissolve - 용해하다, 해산하다
+distill - 증류하다, 추출하다
+distinctive - 독특한
 
+douse - 끄다, 적시다
+
+dreary - 우울한
+
+dwindle - 줄어들다
+earnest - 진지한
+ebb - 쇠퇴하다, 썰물
+ecstatic - 황홀한
+edify - 교화하다, 계몽하다
+efface - 지우다, 없애다
+effervescent - 거품이 나는, 활기찬
+efficacious - 효과적인
+effigy - 인형, 초상
+effortless - 수월한, 노력이 필요 없는
+egregious - 지독한, 극악한
+elated - 의기양양한
+elicit - 끌어내다, 유도하다
+elude - 피하다
+elusive - 잡기 어려운
+embark - 승선하다, 착수하다
+emblematic - 상징적인
+embolden - 담력을 주다
+emboss - 양각하다
+embrace - 포용하다
+embroil - 말려들게 하다
+emerge - 출현하다
+emulate - 본받다, 모방하다
+enchant - 매혹하다
+encompass - 포함하다
+endear - 사랑받게 하다
+endeavor - 노력하다
+endorse - 지지하다
+endure - 견디다
+energetic - 활력이 넘치는
+enfold - 감싸다
+
+engross - 몰두하게 하다
+
+enlighten - 계몽하다
+enlist - 입대하다, 도움을 요청하다
+enliven - 활기를 불어넣다
+enrage - 화나게 하다
+enthrall - 매혹하다
+entice - 유혹하다
+entitle - 자격을 주다
+entreat - 간청하다
+enumerate - 열거하다
+
+ephemeral - 일시적인
+epidemic - 유행병의
+epiphany - 깨달음
+epitome - 전형, 요약
+equate - 동일시하다
+equilibrium - 평형
+
+erroneous - 잘못된
+escalate - 확대하다
+esteem - 존경하다
+estimable - 존경할 만한
+
+ethereal - 가볍고 섬세한
+ethical - 윤리적인
+euphoric - 행복감이 넘치는
+evade - 피하다
+evoke - 불러일으키다
+exacerbate - 악화시키다
+exalt - 높이 평가하다
+
+excel - 뛰어나다
+exceptional - 예외적인
+excruciating - 극심한
+exhilarating - 상쾌한
+expedient - 편의적인
+
+exponent - 지수, 대변자
+extricate - 벗어나게 하다
+exuberant - 풍부한, 활기찬
+
+facade - 외관
+facile - 쉬운, 피상적인
+fallacy - 오류
+fallow - 휴경의, 미개발의
+farce - 희극, 우스꽝스러운 것
 
 
 

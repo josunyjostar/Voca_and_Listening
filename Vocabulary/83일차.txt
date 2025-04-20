@@ -6,6 +6,8 @@ facet                                                       측면
 fathom                                                      이해하다
 dire                                                        지독한
 exquisite                                                   정교한
+depreciate                                                  평가절하하다
+equitable                                                   공평한
 
 eclectic                                                    절충적인
 converge                                                    수렴하다
@@ -14,8 +16,6 @@ exploit                                                     착취하다
 eloquent                                                    유창한 
 contempt                                                    경멸
 intent                                                      강한 관심을 보이는
-depreciate                                                  평가절하하다
-equitable                                                   공평한
 epitomize                                                   전형적으로 보여주다
 disparity                                                   불균형
 congruent                                                   일치하는

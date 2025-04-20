@@ -1,17 +1,17 @@
-monument                                                    기념물
 untruthful                                                  거짓말을 하는
 contrite                                                    참회하는
 contrived                                                   억지스러운
 conventional                                                관례적인
-convey                                                      전달하다
-convivial                                                   명랑한
 covet                                                       갈망하다
-credulous                                                   잘 믿는
 
 decimate                                                    크게 감소시키다
 decorum                                                     품위
 deference                                                   존경
 
+monument                                                    기념물
+credulous                                                   잘 믿는
+convey                                                      전달하다
+convivial                                                   명랑한
 cultivate                                                   재배하다
 daring                                                      대담한
 dearth                                                      부족, 결핍

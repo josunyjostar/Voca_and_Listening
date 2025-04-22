@@ -11,11 +11,11 @@ bureau                                                      사무실
 demise                                                      사망
 deride                                                      비웃다
 demolish                                                    철거하다
-deplete                                                     고갈시키다
-desecrate                                                   모독하다
 despondent                                                  낙담한
 destitute                                                   빈곤한
 
+desecrate                                                   모독하다
+deplete                                                     고갈시키다
 demur                                                       반대하다
 denote                                                      의미하다
 denounce                                                    비난하다

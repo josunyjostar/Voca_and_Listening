@@ -33,35 +33,11 @@ defiant                                                     도전적인
 
 
                                                 
-deter - 저지하다
-detest - 혐오하다
-detrimental - 해로운
-deviate - 벗어나다
-devoid - ~이 없는
-devout - 독실한
-dexterous - 능숙한
-dialect - 방언
-diligent - 부지런한
-dilute - 희석하다
-diminish - 감소시키다
-discord - 불화
-discrepancy - 불일치
-discrete - 별개의
-discriminate - 구별하다
-disdain - 경멸하다
-disgruntled - 불만을 품은
-disheveled - 단정치 않은
-dismantle - 해체하다
-disparage - 비하하다
-dispel - 없애다
-disposition - 성향, 배치
-disrupt - 방해하다
-disseminate - 퍼뜨리다
+
 dissident - 반체제적인
 dissolve - 용해하다, 해산하다
 distill - 증류하다, 추출하다
 distinctive - 독특한
-
 douse - 끄다, 적시다
 
 dreary - 우울한

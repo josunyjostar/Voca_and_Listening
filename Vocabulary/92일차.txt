@@ -4,13 +4,13 @@ delinquent                                                  체납의
 imminent                                                    임박한
 
 demeanor                                                    태도
-delicate                                                    섬세한
 delude                                                      속이다
-deluge                                                      홍수
+defy                                                        거역하다
 
+delicate                                                    섬세한
+deluge                                                      홍수
 deft                                                        능숙한
 deflect                                                     편향시키다
-defy                                                        거역하다
 deject                                                      낙담시키다
 mindfulness                                                 마음 챙김
 catastrophic                                                처참한

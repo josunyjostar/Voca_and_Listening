@@ -3,9 +3,9 @@ defray                                                      비용을 부담하�
 delinquent                                                  체납의
 imminent                                                    임박한
 
+defy                                                        거역하다
 demeanor                                                    태도
 delude                                                      속이다
-defy                                                        거역하다
 
 delicate                                                    섬세한
 deluge                                                      홍수

@@ -7,11 +7,13 @@ billing codes                                               청구코드
 staples                                                     생필품
 ephemeral                                                   일시적인
 epidemic                                                    유행병의
-epiphany                                                    깨달음
+evoke                                                       불러일으키다
+
 epitome                                                     전형
+erroneous                                                   잘못된
+epiphany                                                    깨달음
 equate                                                      동일시하다
 equilibrium                                                 평형
-erroneous                                                   잘못된
 escalate                                                    확대하다
 esteem                                                      존경하다
 estimable                                                   존경할 만한
@@ -19,4 +21,3 @@ ethereal                                                    가볍고 섬세한
 ethical                                                     윤리적인
 euphoric                                                    행복감이 넘치는
 evade                                                       피하다
-evoke                                                       불러일으키다

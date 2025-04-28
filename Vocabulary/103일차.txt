@@ -28,3 +28,210 @@ imminent                                                    임박한
 imminent                                                    임박한
 imminent                                                    임박한
 imminent                                                    임박한
+
+
+
+
+
+
+conform - 따르다
+congruent - 일치하는
+consequence - 결과
+conserve - 보존하다
+consider - 고려하다
+conspicuous - 눈에 띄는
+constrain - 제약하다
+contemplate - 깊이 생각하다
+contempt - 경멸
+contend - 주장하다
+contentious - 논쟁을 좋아하는
+context - 맥락
+contradict - 모순되다
+contribute - 기여하다
+controversy - 논쟁
+convene - 소집하다
+convert - 전환하다
+convince - 설득하다
+correlate - 연관시키다
+corroborate - 확증하다
+counteract - 대항하다
+counterpart - 상대방
+courteous - 공손한
+covert - 비밀의
+cranky - 까다로운
+credible - 믿을 수 있는
+crucial - 중요한
+culminate - 절정에 달하다
+cunning - 교활한
+curious - 호기심 많은
+cursory - 대충 훑어보는
+curtail - 축소하다
+cynical - 냉소적인
+daunting - 위압적인
+debate - 토론하다
+debilitate - 약화시키다
+dedicate - 헌신하다
+deduct - 공제하다
+deem - 여기다
+deficient - 부족한
+define - 정의하다
+defy - 거역하다
+degenerate - 타락하다
+deliberate - 고의적인
+delicate - 섬세한
+delinquent - 의무를 게을리하는
+delusion - 망상
+demeanor - 태도
+demonstrate - 증명하다
+denounce - 비난하다
+depict - 묘사하다
+deprive - 박탈하다
+derive - 유래하다
+designate - 지정하다
+desirable - 바람직한
+desperate - 절망적인
+detach - 분리하다
+detect - 발견하다
+deter - 막다
+deteriorate - 악화되다
+determine - 결정하다
+deviate - 벗어나다
+devote - 바치다
+dexterity - 솜씨
+dilemma - 곤경
+diligent - 부지런한
+diminish - 감소하다
+dire - 끔찍한
+disclose - 공개하다
+disconcert - 당황케 하다
+discourse - 담론
+discreet - 신중한
+discrepancy - 불일치
+discriminate - 구별하다
+disdain - 경멸하다
+disguise - 위장하다
+dismay - 실망
+disparate - 이질적인
+disparity - 불균형
+dispense - 분배하다
+disperse - 흩뜨리다
+disposition - 성향
+dispute - 논쟁하다
+disseminate - 퍼뜨리다
+dissent - 반대
+distinctive - 독특한
+distort - 왜곡하다
+distract - 산만하게 하다
+distribute - 분배하다
+diverse - 다양한
+divert - 전환하다
+divulge - 누설하다
+docile - 순종적인
+dominate - 지배하다
+dormant - 휴면 상태의
+dubious - 의심스러운
+durable - 내구성 있는
+dynamic - 역동적인
+eccentric - 괴짜인
+ecstatic - 황홀한
+eerie - 섬뜩한
+efficient - 효율적인
+elaborate - 정교한
+eloquent - 능변의
+elusive - 붙잡기 힘든
+embark - 시작하다
+embellish - 장식하다
+embody - 구현하다
+embrace - 포용하다
+emerge - 출현하다
+eminent - 저명한
+empathy - 공감
+emphasize - 강조하다
+empirical - 경험적인
+enable - 가능하게 하다
+enchant - 매혹시키다
+encounter - 마주치다
+endorse - 지지하다
+endure - 견디다
+enhance - 향상시키다
+enigmatic - 수수께끼 같은
+enormous - 거대한
+entail - 수반하다
+entice - 유혹하다
+entrench - 확고히 하다
+enumerate - 열거하다
+envision - 상상하다
+epitome - 전형
+equitable - 공평한
+equivalent - 동등한
+eradicate - 근절하다
+erratic - 변덕스러운
+essential - 필수적인
+establish - 설립하다
+ethical - 윤리적인
+evade - 회피하다
+evoke - 불러일으키다
+exacerbate - 악화시키다
+exaggerate - 과장하다
+exceed - 초과하다
+excel - 뛰어나다
+excessive - 과도한
+exclaim - 외치다
+exclude - 제외하다
+exemplify - 모범이 되다
+exempt - 면제된
+exhaust - 소진시키다
+exhibit - 전시하다
+exhort - 권고하다
+expedite - 촉진하다
+expel - 추방하다
+exploit - 이용하다
+explore - 탐험하다
+exponential - 기하급수적인
+expose - 노출시키다
+exquisite - 정교한
+extend - 확장하다
+extensive - 광범위한
+extinguish - 소멸시키다
+extract - 추출하다
+extraneous - 무관한
+extravagant - 사치스러운
+exuberant - 풍부한
+fabricate - 제작하다
+facilitate - 촉진하다
+fallacy - 오류
+feasible - 실행 가능한
+fervent - 열렬한
+fickle - 변덕스러운
+finite - 유한한
+flourish - 번창하다
+fluctuate - 변동하다
+formidable - 위압적인
+fortify - 강화하다
+foster - 육성하다
+fragile - 연약한
+frantic - 미친 듯한
+fraught - 가득한
+frenzy - 광란
+frugal - 검소한
+futile - 헛된
+garner - 모으다
+gaudy - 현란한
+generalize - 일반화하다
+generate - 생성하다
+generic - 일반적인
+genuine - 진짜의
+gesture - 몸짓
+glaring - 현저한
+glean - 수집하다
+glimpse - 잠깐 보다
+grave - 심각한
+gregarious - 사교적인
+grim - 냉혹한
+grudge - 원한
+guarantee - 보증하다
+habitual - 습관적인
+hamper - 방해하다
+haphazard - 임의의
+harass - 괴롭히다
+harbor - 숨기다

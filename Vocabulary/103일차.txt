@@ -34,22 +34,7 @@ imminent                                                    임박한
 
 
 
-conform - 따르다
-congruent - 일치하는
-consequence - 결과
-conserve - 보존하다
-consider - 고려하다
-conspicuous - 눈에 띄는
-constrain - 제약하다
-contemplate - 깊이 생각하다
-contempt - 경멸
-contend - 주장하다
-contentious - 논쟁을 좋아하는
-context - 맥락
-contradict - 모순되다
-contribute - 기여하다
-controversy - 논쟁
-convene - 소집하다
+
 convert - 전환하다
 convince - 설득하다
 correlate - 연관시키다
@@ -57,8 +42,7 @@ corroborate - 확증하다
 counteract - 대항하다
 counterpart - 상대방
 courteous - 공손한
-covert - 비밀의
-cranky - 까다로운
+
 credible - 믿을 수 있는
 crucial - 중요한
 culminate - 절정에 달하다

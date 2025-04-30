@@ -35,43 +35,9 @@ imminent                                                    임박한
 
 
 
-convert - 전환하다
-convince - 설득하다
-correlate - 연관시키다
-corroborate - 확증하다
-counteract - 대항하다
-counterpart - 상대방
-courteous - 공손한
 
-credible - 믿을 수 있는
-crucial - 중요한
-culminate - 절정에 달하다
-cunning - 교활한
-curious - 호기심 많은
-cursory - 대충 훑어보는
-curtail - 축소하다
-cynical - 냉소적인
-daunting - 위압적인
-debate - 토론하다
-debilitate - 약화시키다
-dedicate - 헌신하다
-deduct - 공제하다
-deem - 여기다
-deficient - 부족한
-define - 정의하다
-defy - 거역하다
-degenerate - 타락하다
-deliberate - 고의적인
-delicate - 섬세한
-delinquent - 의무를 게을리하는
-delusion - 망상
-demeanor - 태도
-demonstrate - 증명하다
-denounce - 비난하다
-depict - 묘사하다
-deprive - 박탈하다
-derive - 유래하다
-designate - 지정하다
+
+
 desirable - 바람직한
 desperate - 절망적인
 detach - 분리하다

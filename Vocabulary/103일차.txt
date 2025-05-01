@@ -1,33 +1,30 @@
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
-imminent                                                    임박한
+crude                                                       원유/미가공의
+shred                                                       자르다[찢다]
+plunge                                                      급락하다 
+surge                                                       급증하다
+slowing economies                                           경기 침체
+coverage                                                    보도[방송]
+spark                                                       불러일으키다
+contribute                                                  (…의)한 원인이 되다
+
+devote                                                      바치다
+dexterity                                                   솜씨
+disconcert                                                  당황케하다
+discreet                                                    신중한
+disparate                                                   이질적인
+extraneous                                                  무관한
+
+desirable                                                   바람직한
+desperate                                                   절망적인
+dilemma                                                     곤경
+disclose                                                    공개하다
+discourse                                                   담론
+disguise                                                    위장하다
+dismay                                                      실망
+disparity                                                   불균형
+exquisite                                                   정교한
+extend                                                      확장하다
+detect                                                      발견하다
 
 
 
@@ -38,56 +35,23 @@ imminent                                                    임박한
 
 
 
-desirable - 바람직한
-desperate - 절망적인
-detach - 분리하다
-detect - 발견하다
-deter - 막다
-deteriorate - 악화되다
-determine - 결정하다
-deviate - 벗어나다
-devote - 바치다
-dexterity - 솜씨
-dilemma - 곤경
-diligent - 부지런한
-diminish - 감소하다
-dire - 끔찍한
-disclose - 공개하다
-disconcert - 당황케 하다
-discourse - 담론
-discreet - 신중한
-discrepancy - 불일치
-discriminate - 구별하다
-disdain - 경멸하다
-disguise - 위장하다
-dismay - 실망
-disparate - 이질적인
-disparity - 불균형
-dispense - 분배하다
-disperse - 흩뜨리다
-disposition - 성향
-dispute - 논쟁하다
-disseminate - 퍼뜨리다
+
+
 dissent - 반대
 distinctive - 독특한
-distort - 왜곡하다
 distract - 산만하게 하다
 distribute - 분배하다
-diverse - 다양한
+
 divert - 전환하다
 divulge - 누설하다
-docile - 순종적인
-dominate - 지배하다
+docile - 유순한
 dormant - 휴면 상태의
-dubious - 의심스러운
 durable - 내구성 있는
-dynamic - 역동적인
-eccentric - 괴짜인
+
+eccentric - 기이한
 ecstatic - 황홀한
 eerie - 섬뜩한
-efficient - 효율적인
-elaborate - 정교한
-eloquent - 능변의
+eloquent - 유창한
 elusive - 붙잡기 힘든
 embark - 시작하다
 embellish - 장식하다
@@ -137,14 +101,7 @@ expedite - 촉진하다
 expel - 추방하다
 exploit - 이용하다
 explore - 탐험하다
-exponential - 기하급수적인
-expose - 노출시키다
-exquisite - 정교한
-extend - 확장하다
-extensive - 광범위한
-extinguish - 소멸시키다
-extract - 추출하다
-extraneous - 무관한
+
 extravagant - 사치스러운
 exuberant - 풍부한
 fabricate - 제작하다

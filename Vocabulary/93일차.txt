@@ -1,10 +1,11 @@
-go ahead                                                    진행되다
-
-deride                                                      비웃다
 destitute                                                   빈곤한
 desolate                                                    황량한
+
+derive                                                      유래하다
+deride                                                      비웃다
 demur                                                       반대하다
 
+go ahead                                                    진행되다
 burgeoning                                                  급증하는 
 plantation                                                  (대규모)농장
 renovate                                                    보수하다
@@ -20,7 +21,6 @@ desecrate                                                   모독하다
 deplete                                                     고갈시키다
 denote                                                      의미하다
 denounce                                                    비난하다
-derive                                                      유래하다
 deploy                                                      배치하다
 detached                                                    분리된
 

@@ -1,3 +1,4 @@
+covert                                                      비밀의
 atrocities                                                  잔학한 행위
 cronyism                                                    친족주의 
 radicals                                                    급진주의자
@@ -5,7 +6,6 @@ associate                                                   연관짓다
 
 conserve                                                    보존하다
 contend                                                     주장하다
-covert                                                      비밀의
 entourage                                                   수행단
 
 revolutionary                                               혁명적인

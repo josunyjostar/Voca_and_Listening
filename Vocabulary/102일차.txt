@@ -11,17 +11,17 @@ do away with                                                폐지하다
 amendment                                                   (법)개정
 
 corroborate                                                 입증하다
-counteract                                                  대항하다
-counterpart                                                 상대방
-cursory                                                     대충 훑어보는
-curtail                                                     축소하다
 delusion                                                    망상
 deprive                                                     박탈하다
-degenerate                                                  타락하다
+counteract                                                  대항하다
+counterpart                                                 상대방
 
+cursory                                                     대충 훑어보는
+curtail                                                     축소하다
+degenerate                                                  타락하다
+correlate                                                   연관시키다
 culminate                                                   절정에 달하다
 courteous                                                   공손한
-correlate                                                   연관시키다
 daunting                                                    위압적인
 deduct                                                      공제하다
 delinquent                                                  의무를 게을리하는

@@ -7,13 +7,13 @@ coverage                                                    보도[방송]
 spark                                                       불러일으키다
 contribute                                                  (…의)한 원인이 되다
 
-devote                                                      바치다
-dexterity                                                   솜씨
-disconcert                                                  당황케하다
-discreet                                                    신중한
 disparate                                                   이질적인
 extraneous                                                  무관한
+devote                                                      바치다
+disconcert                                                  당황케하다
+discreet                                                    신중한
 
+dexterity                                                   솜씨
 desirable                                                   바람직한
 desperate                                                   절망적인
 dilemma                                                     곤경
@@ -25,120 +25,3 @@ disparity                                                   불균형
 exquisite                                                   정교한
 extend                                                      확장하다
 detect                                                      발견하다
-
-
-
-
-
-
-
-
-
-
-
-
-dissent - 반대
-distinctive - 독특한
-distract - 산만하게 하다
-distribute - 분배하다
-
-divert - 전환하다
-divulge - 누설하다
-docile - 유순한
-dormant - 휴면 상태의
-durable - 내구성 있는
-
-eccentric - 기이한
-ecstatic - 황홀한
-eerie - 섬뜩한
-eloquent - 유창한
-elusive - 붙잡기 힘든
-embark - 시작하다
-embellish - 장식하다
-embody - 구현하다
-embrace - 포용하다
-emerge - 출현하다
-eminent - 저명한
-empathy - 공감
-emphasize - 강조하다
-empirical - 경험적인
-enable - 가능하게 하다
-enchant - 매혹시키다
-encounter - 마주치다
-endorse - 지지하다
-endure - 견디다
-enhance - 향상시키다
-enigmatic - 수수께끼 같은
-enormous - 거대한
-entail - 수반하다
-entice - 유혹하다
-entrench - 확고히 하다
-enumerate - 열거하다
-envision - 상상하다
-epitome - 전형
-equitable - 공평한
-equivalent - 동등한
-eradicate - 근절하다
-erratic - 변덕스러운
-essential - 필수적인
-establish - 설립하다
-ethical - 윤리적인
-evade - 회피하다
-evoke - 불러일으키다
-exacerbate - 악화시키다
-exaggerate - 과장하다
-exceed - 초과하다
-excel - 뛰어나다
-excessive - 과도한
-exclaim - 외치다
-exclude - 제외하다
-exemplify - 모범이 되다
-exempt - 면제된
-exhaust - 소진시키다
-exhibit - 전시하다
-exhort - 권고하다
-expedite - 촉진하다
-expel - 추방하다
-exploit - 이용하다
-explore - 탐험하다
-
-extravagant - 사치스러운
-exuberant - 풍부한
-fabricate - 제작하다
-facilitate - 촉진하다
-fallacy - 오류
-feasible - 실행 가능한
-fervent - 열렬한
-fickle - 변덕스러운
-finite - 유한한
-flourish - 번창하다
-fluctuate - 변동하다
-formidable - 위압적인
-fortify - 강화하다
-foster - 육성하다
-fragile - 연약한
-frantic - 미친 듯한
-fraught - 가득한
-frenzy - 광란
-frugal - 검소한
-futile - 헛된
-garner - 모으다
-gaudy - 현란한
-generalize - 일반화하다
-generate - 생성하다
-generic - 일반적인
-genuine - 진짜의
-gesture - 몸짓
-glaring - 현저한
-glean - 수집하다
-glimpse - 잠깐 보다
-grave - 심각한
-gregarious - 사교적인
-grim - 냉혹한
-grudge - 원한
-guarantee - 보증하다
-habitual - 습관적인
-hamper - 방해하다
-haphazard - 임의의
-harass - 괴롭히다
-harbor - 숨기다

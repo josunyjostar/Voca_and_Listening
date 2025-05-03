@@ -6,10 +6,12 @@ slowing economies                                           경기 침체
 coverage                                                    보도[방송]
 spark                                                       불러일으키다
 contribute                                                  (…의)한 원인이 되다
-
 disparate                                                   이질적인
-extraneous                                                  무관한
+disparity                                                   불균형
+
+devour                                                      걸신 들린 듯 먹다
 devote                                                      바치다
+extraneous                                                  무관한
 disconcert                                                  당황케하다
 discreet                                                    신중한
 
@@ -21,7 +23,6 @@ disclose                                                    공개하다
 discourse                                                   담론
 disguise                                                    위장하다
 dismay                                                      실망
-disparity                                                   불균형
 exquisite                                                   정교한
 extend                                                      확장하다
 detect                                                      발견하다

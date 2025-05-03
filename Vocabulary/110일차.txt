@@ -53,31 +53,7 @@ fervent - 열렬한
 fickle - 변덕스러운
 finite - 유한한
 flourish - 번창하다
-fluctuate - 변동하다
-formidable - 위압적인
-fortify - 강화하다
-foster - 육성하다
-fragile - 연약한
-frantic - 미친 듯한
-fraught - 가득한
-frenzy - 광란
-frugal - 검소한
-futile - 헛된
-garner - 모으다
-gaudy - 현란한
-generalize - 일반화하다
-generate - 생성하다
-generic - 일반적인
-genuine - 진짜의
-gesture - 몸짓
-glaring - 현저한
-glean - 수집하다
-glimpse - 잠깐 보다
-grave - 심각한
-gregarious - 사교적인
-grim - 냉혹한
-grudge - 원한
-guarantee - 보증하다
+
 habitual - 습관적인
 hamper - 방해하다
 haphazard - 임의의

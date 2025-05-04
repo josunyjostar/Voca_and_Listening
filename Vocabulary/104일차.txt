@@ -9,8 +9,7 @@ have nothing to do with                                     ~와 아무 관련�
 make up                                                     ~구성하다
 breakdown                                                   실패[결렬/와해]
 viable                                                      생존 가능한
-fetus                                                       태아
-wary                                                        경계하는
+entrench                                                    확고히하다
 
 distinctive                                                 독특한
 eerie                                                       섬뜩한
@@ -18,8 +17,9 @@ embark                                                      착수하다
 embellish                                                   장식하다/꾸미다
 embody                                                      구현하다
 encounter                                                   마주치다
-entrench                                                    확고히하다
 
+fetus                                                       태아
+wary                                                        경계하는
 dissent                                                     반대
 divert                                                      전환하다
 divulge                                                     누설하다

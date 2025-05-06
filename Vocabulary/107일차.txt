@@ -1,28 +1,27 @@
-sovereign                                                   군주
+sovereign                                                   군주/독립된
 ringleader                                                  우두머리
 apprehend                                                   체포하다
 referendum                                                  국민 투표
 hawkish                                                     강경파의
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
+sovereign nation                                            주권국가
+detention                                                   구금
+parliament                                                  국회
+break away                                                  분리되다
+vandalism                                                   공공기물파손
+quell                                                       진압하다
+
+unrest                                                      불안/불만
+habitual                                                    습관적인
+hamper                                                      방해하다
+harbor                                                      숨기다
+fib                                                         사소한거짓말
+analgesic                                                   진통제 
+ablaze                                                      불길에 휩싸인
+alienate                                                    소원하게 만들다
+
+reproach                                                    비난하다
+bereave                                                     사별하다
+admittance                                                  입장
+beleaguered                                                 사면초가에 몰린
+mob                                                         군중
+rite                                                        의식

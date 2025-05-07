@@ -1,8 +1,8 @@
+commitments                                                 책무
+deprive                                                     박탈하다
 exonerate                                                   무죄임을 밝혀 주다
 convict                                                     유죄를 선고하다
 verdict                                                     (배심원의)평결 
-deprive                                                     박탈하다
-commitments                                                 책무
 corroborate                                                 입증하다
 
 amendment                                                   (법)개정

@@ -31,28 +31,7 @@ designate                                                   지정하다
 
 
 
-jurisdiction - 관할권
-governance - 통치
-insurgent - 반란군
-intervention - 개입
 
-경제/무역
-
-recession - 경기침체
-inflation - 인플레이션
-deficit - 적자
-stimulus - 경기부양책
-tariff - 관세
-devaluation - 평가절하
-subsidy - 보조금
-austerity - 긴축정책
-GDP (Gross Domestic Product) - 국내총생산
-commodity - 상품
-liquidity - 유동성
-fiscal - 재정의
-monetary - 통화의
-volatility - 변동성
-depreciation - 가치하락
 bailout - 구제금융
 trade deficit - 무역적자
 privatization - 민영화

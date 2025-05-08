@@ -6,13 +6,13 @@ deal                                                        협약
 smokestacks                                                 굴뚝
 objective                                                   목적/객관적인
 
+belated                                                     뒤늦은
 disquiet                                                    불안
+flattering                                                  아첨하는
 parasitic                                                   기생하는
 gusty                                                       돌풍이 부는
 rootless                                                    뿌리를 내리지 못하는
-flattering                                                  아첨하는
 pupil                                                       어린학생/눈동자
-belated                                                     뒤늦은
 
 sanctions                                                   제재
 summit                                                      정상회담
@@ -22,11 +22,11 @@ regime                                                      정권
 sovereignty                                                 주권
 coalition                                                   연합
 cabinet                                                     내각
-delegate                                                    대표자/위임하다
-resolution                                                  결의안/해결 
 legislation                                                 법안
-constitution                                                헌법
-constituent                                                 유권자/~을 구성하는
-partisan                                                    당파적인
 mandate                                                     권한
 veto                                                        거부권
+constitution                                                헌법
+constituent                                                 유권자/~을 구성하는
+delegate                                                    대표자/위임하다
+resolution                                                  결의안/해결 
+partisan                                                    당파적인

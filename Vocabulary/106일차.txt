@@ -14,7 +14,7 @@ ritual                                                      의례
 poll                                                        여론 조사
 exclaim                                                     외치다
 exploit                                                     이용하다
-expedite                                                    촉진하다
+expedite                                                    신속히 처리하다
 facilitate                                                  촉진하다
 extravagant                                                 사치스러운
 

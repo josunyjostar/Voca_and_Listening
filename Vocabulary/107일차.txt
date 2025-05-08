@@ -1,53 +1,28 @@
-detention                                                   구금
-quell                                                       진압하다
-break up                                                    해산시키다
-break away                                                  분리되다
-unrest                                                      불안/불만
-reproach                                                    비난하다
-bereave                                                     사별하다
 beleaguered                                                 사면초가에 몰린
+unrest                                                      불안/불만
+detention                                                   구금
+break away                                                  분리되다
+break up                                                    해산시키다
+quell                                                       진압하다
+bereave                                                     사별하다
 
 sovereign                                                   군주/독립된
-ringleader                                                  우두머리
 apprehend                                                   체포하다
 referendum                                                  국민 투표
-hawkish                                                     강경파의
-<<<<<<< Updated upstream
-sovereign nation                                            주권국가
-parliament                                                  국회
-vandalism                                                   공공기물파손
-habitual                                                    습관적인
-hamper                                                      방해하다
-harbor                                                      숨기다
 fib                                                         사소한거짓말
+harbor                                                      숨기다
+hamper                                                      방해하다
 analgesic                                                   진통제 
-ablaze                                                      불길에 휩싸인
-alienate                                                    소원하게 만들다
 admittance                                                  입장
 mob                                                         군중
 rite                                                        의식
-=======
-chills                                                      오한 
-allege                                                      혐의를 주장하다
-accuse                                                      혐의를 주장하다
-cross into                                                  ~넘어가다
-deal                                                        협약
-smokestacks                                                 굴뚝
-objective                                                   목적/객관적인
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
-designate                                                   지정하다
->>>>>>> Stashed changes
+
+alienate                                                    소원하게 만들다
+hawkish                                                     강경파의
+ringleader                                                  우두머리
+reproach                                                    비난하다
+habitual                                                    습관적인
+sovereign nation                                            주권국가
+parliament                                                  국회
+vandalism                                                   공공기물파손
+ablaze                                                      불길에 휩싸인

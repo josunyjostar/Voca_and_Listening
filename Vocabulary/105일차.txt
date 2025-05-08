@@ -1,5 +1,6 @@
 grudge                                                      원한
 animosity                                                   반감
+grim                                                        냉혹한
 
 fortify                                                     강화하다
 frantic                                                     미친듯한
@@ -9,7 +10,6 @@ garner                                                      모으다
 glean                                                       수집하다
 grave                                                       심각한/무덤
 gregarious                                                  사교적인
-grim                                                        냉혹한
 glaring                                                     두드러진 
 
 irreversible                                                되돌릴 수 없는 

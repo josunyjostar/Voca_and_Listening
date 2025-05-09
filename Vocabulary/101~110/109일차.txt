@@ -7,18 +7,18 @@ brink                                                       직전
 grant                                                       보조금/승인하다
 subsidy                                                     보조금
 
-jurisdiction                                                관할권
-insurgent                                                   반란군
-stimulus                                                    경기부양책
-tariff                                                      관세
+fiscal                                                      재정의
+depreciation                                                가치하락
 devaluation                                                 평가절하
 austerity                                                   긴축정책
+jurisdiction                                                관할권
+insurgent                                                   반란군
+tariff                                                      관세
+stimulus                                                    경기부양책
+
 liquidity                                                   유동성
-fiscal                                                      재정의
 monetary                                                    통화의
 volatility                                                  변동성
-depreciation                                                가치하락
-
 commodity                                                   상품
 undocumented workers                                        미등록외국인근로자
 confine                                                     제한하다

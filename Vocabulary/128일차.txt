@@ -26,3 +26,486 @@ reinstate                                                   복귀시키다
 reinstate                                                   복귀시키다
 reinstate                                                   복귀시키다
 reinstate                                                   복귀시키다
+
+default - 채무불이행
+currency - 통화
+exchange rate - 환율
+conflict - 분쟁
+terrorism - 테러리즘
+insurgency - 반란
+extremist - 극단주의자
+militant - 무장군인
+hostage - 인질
+ceasefire - 휴전
+casualties - 사상자
+collateral damage - 부수적 피해
+humanitarian crisis - 인도주의적 위기
+refugee - 난민
+asylum - 망명
+genocide - 대량학살
+ethnic cleansing - 인종청소
+civil war - 내전
+occupation - 점령
+coup - 쿠데타
+rebellion - 반란
+peacekeeping - 평화유지
+disarmament - 군비축소
+nuclear proliferation - 핵확산
+deterrence - 억제력
+retaliation - 보복
+intelligence - 정보기관
+espionage - 간첩행위
+surveillance - 감시
+drone strike - 드론 공격
+counterterrorism - 대테러
+missile - 미사일
+armament - 무장
+
+사법/법률
+
+legislation - 법안
+jurisdiction - 관할권
+prosecution - 기소
+defendant - 피고
+plaintiff - 원고
+testimony - 증언
+allegations - 혐의
+indictment - 기소장
+litigation - 소송
+arbitration - 중재
+adjudication - 판결
+subpoena - 소환장
+affidavit - 선서진술서
+deposition - 증언녹취
+precedent - 선례
+statute - 법령
+constitutional - 헌법의
+civil liberties - 시민자유
+due process - 적법절차
+appeal - 항소
+ruling - 판결
+injunction - 금지명령
+immunity - 면책
+extradition - 범죄인인도
+plea bargain - 유죄협상
+probation - 집행유예
+felony - 중범죄
+misdemeanor - 경범죄
+acquittal - 무죄선고
+culpability - 책임
+
+미디어/언론
+
+headline - 헤드라인
+press conference - 기자회견
+editorial - 사설
+correspondent - 특파원
+anchor - 앵커
+byline - 기사작성자
+source - 출처
+anonymous - 익명의
+bulletin - 속보
+breaking news - 속보
+exclusive - 단독보도
+censorship - 검열
+propaganda - 선전
+media coverage - 언론보도
+journalist - 기자
+press - 언론
+broadcast - 방송
+pundit - 전문가평론가
+bias - 편향
+objectivity - 객관성
+credibility - 신뢰성
+disclosure - 공개
+investigative journalism - 탐사보도
+column - 칼럼
+op-ed - 외부칼럼
+retraction - 취소(정정)
+sensationalism - 선정주의
+leak - 기밀누설
+fact-checking - 사실확인
+circulation - 발행부수
+
+환경/기후
+
+climate change - 기후변화
+global warming - 지구온난화
+emissions - 배출량
+carbon footprint - 탄소발자국
+greenhouse gases - 온실가스
+renewable energy - 재생에너지
+sustainable - 지속가능한
+biodiversity - 생물다양성
+deforestation - 삼림벌채
+conservation - 보전
+pollution - 오염
+contamination - 오염
+ecosystem - 생태계
+drought - 가뭄
+flood - 홍수
+hurricane - 허리케인
+tsunami - 쓰나미
+wildfire - 산불
+desertification - 사막화
+ozone depletion - 오존층 파괴
+fossil fuels - 화석연료
+extraction - 추출
+waste management - 폐기물관리
+recycling - 재활용
+mitigation - 완화
+adaptation - 적응
+resilience - 회복력
+summit - 정상회의
+accord - 협약
+protocol - 의정서
+
+보건/의학
+
+pandemic - 세계적 대유행
+epidemic - 전염병
+outbreak - 발병
+contagious - 전염성의
+vaccine - 백신
+vaccination - 예방접종
+quarantine - 격리
+mortality rate - 사망률
+morbidity - 병률
+immunization - 면역
+infectious - 감염성의
+pathogen - 병원체
+strain - 균주
+variant - 변이
+asymptomatic - 무증상의
+transmission - 전파
+screening - 선별검사
+prevention - 예방
+treatment - 치료
+clinical trial - 임상시험
+therapeutic - 치료적인
+pharmaceutical - 제약의
+diagnosis - 진단
+prognosis - 예후
+epidemic curve - 유행곡선
+containment - 봉쇄
+herd immunity - 집단면역
+antibody - 항체
+mutation - 돌연변이
+incubation period - 잠복기
+inequality - 불평등
+discrimination - 차별
+prejudice - 편견
+marginalized - 소외된
+vulnerable - 취약한
+minority - 소수집단
+diversity - 다양성
+inclusion - 포용
+gentrification - 젠트리피케이션
+homelessness - 노숙
+poverty - 빈곤
+unemployment - 실업
+welfare - 복지
+subsistence - 생계
+disparity - 격차
+polarization - 양극화
+disenfranchised - 권리박탈당한
+underprivileged - 혜택받지 못한
+demographic - 인구통계학적인
+census - 인구조사
+migration - 이주
+assimilation - 동화
+integration - 통합
+segregation - 분리
+xenophobia - 외국인혐오
+advocacy - 옹호
+grassroots - 풀뿌리
+activism - 행동주의
+protest - 시위
+demonstration - 시위
+
+일반 시사 용어
+
+alleged - 주장된
+unprecedented - 전례없는
+controversial - 논란이 많은
+escalation - 확대
+de-escalation - 완화
+deterioration - 악화
+stagnation - 정체
+recovery - 회복
+rebounding - 반등
+imminent - 임박한
+inevitable - 불가피한
+substantial - 상당한
+significant - 중요한
+concerning - 우려되는
+dire - 심각한
+drastic - 과감한
+severe - 심각한
+robust - 강력한
+comprehensive - 포괄적인
+sweeping - 광범위한
+incremental - 점진적인
+gradual - 점진적인
+abrupt - 갑작스러운
+sudden - 갑작스러운
+consequential - 중요한 결과를 지닌
+ramifications - 파급효과
+implications - 영향
+aftermath - 여파
+fallout - 여파
+backlash - 반발
+
+동사
+
+implement - 시행하다
+enforce - 집행하다
+impose - 부과하다
+enact - 제정하다
+ratify - 비준하다
+veto - 거부권을 행사하다
+deploy - 배치하다
+withdraw - 철수하다
+retaliate - 보복하다
+negotiate - 협상하다
+mediate - 중재하다
+arbitrate - 중재하다
+facilitate - 촉진하다
+mitigate - 완화하다
+exacerbate - 악화시키다
+alleviate - 완화하다
+curtail - 축소하다
+bolster - 강화하다
+undermine - 약화시키다
+destabilize - 불안정하게 하다
+consolidate - 통합하다
+diminish - 감소시키다
+escalate - 악화시키다
+intensify - 강화하다
+perpetuate - 지속시키다
+advocate - 옹호하다
+oppose - 반대하다
+scrutinize - 면밀히 조사하다
+investigate - 조사하다
+substantiate - 입증하다
+
+명사
+
+allegation - 주장
+controversy - 논란
+dispute - 분쟁
+tension - 긴장
+unrest - 불안
+upheaval - 격변
+instability - 불안정
+volatility - 변동성
+stalemate - 교착상태
+deadlock - 교착상태
+impasse - 난국
+breakthrough - 돌파구
+compromise - 타협
+concession - 양보
+consensus - 합의
+discord - 불화
+friction - 마찰
+animosity - 적의
+hostility - 적대감
+reconciliation - 화해
+aftermath - 여파
+implications - 함의
+ramifications - 파급효과
+consequences - 결과
+repercussions - 반향
+backlash - 반발
+outcry - 항의
+outrage - 분노
+dissent - 반대
+oversight - 감독
+
+형용사
+
+controversial - 논란이 많은
+contentious - 논쟁적인
+divisive - 분열적인
+polarizing - 양극화시키는
+provocative - 도발적인
+incendiary - 선동적인
+inflammatory - 선동적인
+precarious - 불안정한
+volatile - 변덕스러운
+turbulent - 격변의
+dire - 심각한
+critical - 위급한
+severe - 심각한
+acute - 심각한
+grave - 심각한
+imminent - 임박한
+impending - 임박한
+looming - 다가오는
+forthcoming - 다가오는
+inevitable - 불가피한
+unprecedented - 전례 없는
+unparalleled - 비길 데 없는
+extraordinary - 비범한
+monumental - 기념비적인
+substantial - 상당한
+significant - 중요한
+considerable - 상당한
+marginal - 경미한
+negligible - 무시할 만한
+nominal - 명목상의
+
+국제 관계
+
+diplomatic - 외교적인
+geopolitical - 지정학적인
+strategic - 전략적인
+alliance - 동맹
+adversary - 적대국
+neutral - 중립적인
+non-aligned - 비동맹의
+superpower - 초강대국
+hegemony - 패권
+influence - 영향력
+sphere of influence - 영향권
+proxy - 대리인
+deterrence - 억제
+containment - 봉쇄
+appeasement - 유화정책
+engagement - 관여
+isolation - 고립
+withdrawal - 철수
+rapprochement - 관계개선
+detente - 긴장완화
+brinkmanship - 벼랑끝 전술
+escalation - 확대
+de-escalation - 완화
+provocation - 도발
+aggression - 침략
+annexation - 합병
+territorial integrity - 영토보전
+violation - 위반
+sovereignty - 주권
+autonomy - 자치권
+
+경제 용어 추가
+
+recession - 경기침체
+depression - 경제대공황
+boom - 경기호황
+downturn - 경기하락
+upturn - 경기상승
+stagnation - 경기침체
+stagflation - 스태그플레이션
+inflation - 인플레이션
+deflation - 디플레이션
+hyperinflation - 초인플레이션
+liquidity - 유동성
+solvency - 지급능력
+insolvency - 지급불능
+bankruptcy - 파산
+default - 채무불이행
+credit crunch - 신용경색
+bailout - 구제금융
+austerity - 긴축정책
+stimulus - 경기부양책
+fiscal policy - 재정정책
+monetary policy - 통화정책
+quantitative easing - 양적완화
+interest rate - 이자율
+depreciation - 감가상각
+appreciation - 가치상승
+devaluation - 평가절하
+deficit - 적자
+surplus - 흑자
+trade balance - 무역수지
+protectionism - 보호무역주의
+
+기타 유용한 단어
+
+threshold - 임계점
+milestone - 이정표
+benchmark - 기준점
+paradigm - 패러다임
+discourse - 담론
+narrative - 서술
+rhetoric - 수사
+transparency - 투명성
+accountability - 책임
+legitimacy - 정당성
+credibility - 신뢰성
+integrity - 청렴
+corruption - 부패
+nepotism - 족벌주의
+patronage - 후원
+collusion - 공모
+conspiracy - 음모
+disinformation - 허위정보
+misinformation - 오보
+propaganda - 선전
+verification - 검증
+authentication - 인증
+dissemination - 보급
+proliferation - 확산
+resurgence - 부활
+revival - 부흥
+momentum - 추진력
+impetus - 자극
+catalyst - 촉매
+impediment - 장애물
+
+현대 이슈 관련 단어
+
+globalization - 세계화
+digitalization - 디지털화
+automation - 자동화
+artificial intelligence - 인공지능
+cybersecurity - 사이버보안
+hacking - 해킹
+surveillance - 감시
+privacy - 개인정보
+data breach - 데이터 유출
+encryption - 암호화
+decryption - 복호화
+algorithm - 알고리즘
+social media - 소셜미디어
+disinformation - 허위정보
+fake news - 가짜뉴스
+viral - 바이럴(확산되는)
+trending - 인기있는
+censorship - 검열
+firewall - 방화벽
+malware - 악성소프트웨어
+supply chain - 공급망
+disruption - 혼란
+logistics - 물류
+shortage - 부족
+scarcity - 희소성
+surplus - 과잉
+capacity - 용량
+infrastructure - 기반시설
+urbanization - 도시화
+
+
+중요 표현
+
+in light of - ~에 비추어
+with regard to - ~에 관하여
+in response to - ~에 대응하여
+in the wake of - ~의 여파로
+on the heels of - ~에 뒤이어
+in the midst of - ~의 한가운데서
+against the backdrop of - ~을 배경으로
+in conjunction with - ~와 함께
+notwithstanding - ~에도 불구하고
+nevertheless - 그럼에도 불구하고
+furthermore - 더욱이
+consequently - 결과적으로
+presumably - 아마도
+ostensibly - 표면상으로는
+allegedly - 주장에 따르면
+reportedly - 보도에 따르면
+purportedly - 전해지는 바에 따르면
+according to sources - 소식통에 따르면
+by all accounts - 모든 정황으로 볼 때
+as matters stand - 현 상황으로는

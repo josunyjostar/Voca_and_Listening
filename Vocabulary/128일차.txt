@@ -27,22 +27,7 @@ reinstate                                                   복귀시키다
 reinstate                                                   복귀시키다
 reinstate                                                   복귀시키다
 
-default - 채무불이행
-currency - 통화
-exchange rate - 환율
-conflict - 분쟁
-terrorism - 테러리즘
-insurgency - 반란
-extremist - 극단주의자
-militant - 무장군인
-hostage - 인질
-ceasefire - 휴전
-casualties - 사상자
-collateral damage - 부수적 피해
-humanitarian crisis - 인도주의적 위기
-refugee - 난민
-asylum - 망명
-genocide - 대량학살
+
 ethnic cleansing - 인종청소
 civil war - 내전
 occupation - 점령

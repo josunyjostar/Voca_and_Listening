@@ -6,16 +6,16 @@ step up                                                     강화하다
 brink                                                       직전
 grant                                                       보조금/승인하다
 subsidy                                                     보조금
+jurisdiction                                                관할권
 
 fiscal                                                      재정의
 depreciation                                                가치하락
 devaluation                                                 평가절하
 austerity                                                   긴축정책
-jurisdiction                                                관할권
+
 insurgent                                                   반란군
 tariff                                                      관세
 stimulus                                                    경기부양책
-
 liquidity                                                   유동성
 monetary                                                    통화의
 volatility                                                  변동성

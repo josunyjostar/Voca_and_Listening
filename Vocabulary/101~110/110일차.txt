@@ -1,16 +1,11 @@
+runoff                                                     결승투표/(땅위)흐르는빗물
 repudiate                                                   거부하다/부인하다 
 paucity                                                     (수량의)부족
 pejorative                                                  경멸적인
 assuage                                                     누그러뜨리다
 preliminary                                                 예비의 
-runoff                                                     결승투표/(땅위)흐르는빗물
-emergence                                                   (새로운 기술의)부상
-sporadic                                                    산발적인
 
 as well as                                                  ~이기도하다
-project                                                     기획하다/예상하다
-see s.t ahead                                               ~을 예견하다 
-mar                                                         손상시키다
 brew                                                        발생하다
 amid(전치사)                                                ~가운데
 bailout                                                     구제금융
@@ -19,6 +14,11 @@ equity                                                      자본
 privatization                                               민영화
 deregulation                                                규제완화
 
+project                                                     기획하다/예상하다
+see s.t ahead                                               ~을 예견하다 
+mar                                                         손상시키다
+emergence                                                   (새로운 기술의)부상
+sporadic                                                    산발적인
 involvement                                                 개입
 every now and then                                          때때로/가끔
 expenditure                                                 지출
@@ -28,6 +28,7 @@ prosperous                                                  번영한
 stability                                                   안정성
 public affairs                                              사회문제
 world affairs                                               세계문제
+affairs                                                     문제/사건
 rank                                                        계급
 admiral                                                     제독
 naval                                                       해군의

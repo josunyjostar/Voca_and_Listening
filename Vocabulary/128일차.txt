@@ -28,23 +28,6 @@ reinstate                                                   복귀시키다
 reinstate                                                   복귀시키다
 
 
-ethnic cleansing - 인종청소
-civil war - 내전
-occupation - 점령
-coup - 쿠데타
-rebellion - 반란
-peacekeeping - 평화유지
-disarmament - 군비축소
-nuclear proliferation - 핵확산
-deterrence - 억제력
-retaliation - 보복
-intelligence - 정보기관
-espionage - 간첩행위
-surveillance - 감시
-drone strike - 드론 공격
-counterterrorism - 대테러
-missile - 미사일
-armament - 무장
 
 사법/법률
 

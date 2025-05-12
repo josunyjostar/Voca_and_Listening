@@ -8,18 +8,19 @@ revision                                                    개정/수정
 landfill                                                    쓰레기 매립지
 conversion                                                  전환
 
-rebel-controlled                                            반군이 통제하는
+ardent                                                      열정적인 
 surface                                                     공개하다
 clank                                                       철커덕하는 소리를 내다 
 in a bid                                                    노력의 일환으로
 lending body                                                대출 기관
 aptitude                                                    적성
 
+rebel-controlled                                            반군이 통제하는
+deterrence                                                  억제력
 occupation                                                  점령
 peacekeeping                                                평화유지
 disarmament                                                 군비축소
 armament                                                    무장
-deterrence                                                  억제력
 retaliation                                                 보복
 intelligence                                                정보기관
 espionage                                                   간첩행위
@@ -27,4 +28,3 @@ counterterrorism                                            대테러
 nuclear proliferation                                       핵확산
 ethnic cleansing                                            인종청소
 maritime                                                    해양의
-ardent                                                      열정적인 

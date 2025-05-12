@@ -29,24 +29,7 @@ reinstate                                                   복귀시키다
 
 
 
-사법/법률
 
-legislation - 법안
-jurisdiction - 관할권
-prosecution - 기소
-defendant - 피고
-plaintiff - 원고
-testimony - 증언
-allegations - 혐의
-indictment - 기소장
-litigation - 소송
-arbitration - 중재
-adjudication - 판결
-subpoena - 소환장
-affidavit - 선서진술서
-deposition - 증언녹취
-precedent - 선례
-statute - 법령
 constitutional - 헌법의
 civil liberties - 시민자유
 due process - 적법절차

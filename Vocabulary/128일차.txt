@@ -30,27 +30,11 @@ reinstate                                                   복귀시키다
 
 
 
-constitutional - 헌법의
-civil liberties - 시민자유
-due process - 적법절차
-appeal - 항소
-ruling - 판결
-injunction - 금지명령
-immunity - 면책
-extradition - 범죄인인도
-plea bargain - 유죄협상
-probation - 집행유예
-felony - 중범죄
-misdemeanor - 경범죄
-acquittal - 무죄선고
-culpability - 책임
+
 
 미디어/언론
 
-headline - 헤드라인
-press conference - 기자회견
-editorial - 사설
-correspondent - 특파원
+
 anchor - 앵커
 byline - 기사작성자
 source - 출처

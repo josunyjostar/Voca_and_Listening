@@ -13,16 +13,17 @@ precursor                                                   전구체(완성품�
 compound                                                    화합물
 run for                                                     ~에 출마하다
 
+statute                                                     법령/규정
 affidavit                                                   진술서
 subpoena                                                    소환장
 plaintiff                                                   원고
-indictment                                                  기소장
-adjudication                                                판결
 deposition                                                  증언녹취
-statute                                                     법령/규정
 arbitration                                                 중재
 testimony                                                   증언
 litigation                                                  소송
+prosecution                                                 기소
+indictment                                                  기소장
+
+appeal                                                      항소
 defendant                                                   피고
 precedent                                                   선례
-prosecution                                                 기소

@@ -23,6 +23,7 @@ sovereignty                                                 주권
 coalition                                                   연합
 cabinet                                                     내각
 legislation                                                 법안
+litigation                                                  소송
 mandate                                                     권한
 veto                                                        거부권
 constitution                                                헌법

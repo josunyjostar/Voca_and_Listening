@@ -358,23 +358,7 @@ protectionism - 보호무역주의
 
 기타 유용한 단어
 
-threshold - 임계점
-milestone - 이정표
-benchmark - 기준점
-paradigm - 패러다임
-discourse - 담론
-narrative - 서술
-rhetoric - 수사
-transparency - 투명성
-accountability - 책임
-legitimacy - 정당성
-credibility - 신뢰성
-integrity - 청렴
-corruption - 부패
-nepotism - 족벌주의
-patronage - 후원
-collusion - 공모
-conspiracy - 음모
+
 disinformation - 허위정보
 misinformation - 오보
 propaganda - 선전

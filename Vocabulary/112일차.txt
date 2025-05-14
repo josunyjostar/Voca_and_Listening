@@ -3,18 +3,18 @@ inconsistent                                                일관적이지 않�
 Observations                                                관측
 overlook                                                    간과하다
 convoy                                                      호송[수송]대
-stabilize                                                   안정시키다 
-revision                                                    개정/수정
-landfill                                                    쓰레기 매립지
-conversion                                                  전환
-
 ardent                                                      열정적인 
+
 surface                                                     공개하다
 clank                                                       철커덕하는 소리를 내다 
 in a bid                                                    노력의 일환으로
 lending body                                                대출 기관
 aptitude                                                    적성
 
+stabilize                                                   안정시키다 
+revision                                                    개정/수정
+landfill                                                    쓰레기 매립지
+conversion                                                  전환
 rebel-controlled                                            반군이 통제하는
 deterrence                                                  억제력
 occupation                                                  점령

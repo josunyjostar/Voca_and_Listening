@@ -9,9 +9,8 @@ endanger                                                    위험에 빠뜨리�
 rigid                                                       융통성 없는
 Sell in                                                     통하다 
 
-constitutional                                              헌법의
-ruling                                                      판결
 adjudication                                                판결
+ruling                                                      판결
 injunction                                                  금지명령
 immunity                                                    면책
 extradition                                                 범죄인 인도
@@ -20,6 +19,7 @@ misdemeanor                                                 경범죄
 acquittal                                                   무죄선고
 probation                                                   집행유예
 
+constitutional                                              헌법의
 editorial                                                   사설(주관적인관점)
 correspondent                                               특파원
 culpability                                                 책임

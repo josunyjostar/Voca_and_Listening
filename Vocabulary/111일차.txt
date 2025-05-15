@@ -19,7 +19,7 @@ insurgency                                                  반란
 changed A with B                                            A를 B로 바꾸다    
 issue                                                       공표하다
 
-exchange                                                    환율
+exchange rate                                               환율  
 violation                                                   위반
 Constitution                                                헌법
 default                                                     채무불이행

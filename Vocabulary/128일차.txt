@@ -30,33 +30,30 @@ reinstate                                                   복귀시키다
 
 
 
+gradual - 점진적인
+abrupt - 갑작스러운
+sudden - 갑작스러운
+consequential - 중요한 결과를 지닌
+ramifications - 파급효과
+implications - 영향
+aftermath - 여파
+fallout - 여파
+backlash - 반발
 
 
-미디어/언론
 
-
-anchor - 앵커
-byline - 기사작성자
-source - 출처
-anonymous - 익명의
 bulletin - 속보
 breaking news - 속보
-exclusive - 단독보도
-censorship - 검열
 propaganda - 선전
 media coverage - 언론보도
 journalist - 기자
 press - 언론
 broadcast - 방송
 pundit - 전문가평론가
-bias - 편향
-objectivity - 객관성
-credibility - 신뢰성
 disclosure - 공개
 investigative journalism - 탐사보도
 column - 칼럼
 op-ed - 외부칼럼
-retraction - 취소(정정)
 sensationalism - 선정주의
 leak - 기밀누설
 fact-checking - 사실확인
@@ -160,36 +157,7 @@ demonstration - 시위
 
 일반 시사 용어
 
-alleged - 주장된
-unprecedented - 전례없는
-controversial - 논란이 많은
-escalation - 확대
-de-escalation - 완화
-deterioration - 악화
-stagnation - 정체
-recovery - 회복
-rebounding - 반등
-imminent - 임박한
-inevitable - 불가피한
-substantial - 상당한
-significant - 중요한
-concerning - 우려되는
-dire - 심각한
-drastic - 과감한
-severe - 심각한
-robust - 강력한
-comprehensive - 포괄적인
-sweeping - 광범위한
-incremental - 점진적인
-gradual - 점진적인
-abrupt - 갑작스러운
-sudden - 갑작스러운
-consequential - 중요한 결과를 지닌
-ramifications - 파급효과
-implications - 영향
-aftermath - 여파
-fallout - 여파
-backlash - 반발
+
 
 동사
 

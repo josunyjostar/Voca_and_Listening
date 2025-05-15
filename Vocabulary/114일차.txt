@@ -1,4 +1,16 @@
 unilateral                                                  일방적인
+acquittal                                                   무죄선고
+probation                                                   집행유예
+rigid                                                       융통성 없는
+
+adjudication                                                판결
+ruling                                                      판결
+injunction                                                  금지명령
+extradition                                                 범죄인 인도
+
+immunity                                                    면책
+felony                                                      중범죄
+misdemeanor                                                 경범죄
 pragmatic                                                   합리적인
 the status quo                                              현재상태
 inhale                                                      숨을 들이마시다
@@ -6,19 +18,7 @@ claim                                                       주장하다/요구�
 overshadow                                                  그늘을 드리우다
 conservative                                                보수적인
 endanger                                                    위험에 빠뜨리다
-rigid                                                       융통성 없는
 Sell in                                                     통하다 
-
-adjudication                                                판결
-ruling                                                      판결
-injunction                                                  금지명령
-immunity                                                    면책
-extradition                                                 범죄인 인도
-felony                                                      중범죄
-misdemeanor                                                 경범죄
-acquittal                                                   무죄선고
-probation                                                   집행유예
-
 constitutional                                              헌법의
 editorial                                                   사설(주관적인관점)
 correspondent                                               특파원

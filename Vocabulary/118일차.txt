@@ -1,28 +1,30 @@
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
+trapdoor                                                            덫문, 해치
+flak                                                                대공포화
+bearings                                                            방향 감각
+contraption                                                         기계 장치
+warhead                                                             탄두 
+glider                                                              글라이더
+adrenaline                                                          아드레날린
+mouthpiece                                                          마이크 
+rations                                                             배급 식량 
+pilgrims                                                            순례자
+reserve                                                             예비 병력
+rubble                                                              잔해
+lookout                                                             감시자
+midsection                                                          중앙부
+keel                                                                용골
+
+strafe                                                              기총 소사
+fleet                                                               함대
+merch                                                               상품
+buffet                                                              강타하다
+jettison                                                            버리다
+
+stern                                                   선미(the rear part of a ship)
+bow                                                     이물(the front part of a ship)
+bomb bay                                                            폭탄 창고
+makeshift cot                                                       임시 침대
+radio operator                                                      무전수
+explosive release bolt                                              폭발식 분리 볼트
+Buddhist temple                                                     불교 사원
+radar picket                                                        레이더 초계함

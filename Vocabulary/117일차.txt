@@ -12,6 +12,8 @@ grapple                                                     발악하다
 wrestle                                                     겨루다
 buckle                                                      휘어지다
 
+muted                                                       약해진
+subdued                                                     조용한
 sever                                                       절단하다
 cluster                                                     모이다
 deem                                                        간주하다
@@ -22,8 +24,6 @@ resolute                                                    단호한
 stark                                                       뚜렷한
 bleed energy                                                속도 줄이다
 grind to a halt                                             멈추다
-muted                                                       약해진
-subdued                                                     조용한
 undeterred                                                  굴하지 않는
 discouraged                                                 의욕이 꺽인
 desperately                                                 필사적으로

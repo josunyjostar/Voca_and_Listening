@@ -1,7 +1,7 @@
+contraption                                                         기계 장치
 trapdoor                                                            덫문, 해치
 flak                                                                대공포화
 bearings                                                            방향 감각
-contraption                                                         기계 장치
 warhead                                                             탄두 
 glider                                                              글라이더
 adrenaline                                                          아드레날린
@@ -20,8 +20,8 @@ merch                                                               상품
 buffet                                                              강타하다
 jettison                                                            버리다
 
-stern                                                   선미(the rear part of a ship)
-bow                                                     이물(the front part of a ship)
+stern                                                선미(the rear part of a ship)
+bow                                                  이물(the front part of a ship)
 bomb bay                                                            폭탄 창고
 makeshift cot                                                       임시 침대
 radio operator                                                      무전수

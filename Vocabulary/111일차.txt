@@ -1,4 +1,4 @@
-Deformable                                                  변형할 수 있는
+deformable                                                  변형할 수 있는
 decompose                                                   분해하다
 Spherical                                                   구체의 
 consensus                                                   합의
@@ -8,7 +8,7 @@ result in                                                   ~결과를 낳다
 elimination                                                 (질병/빈곤/범죄)퇴치
 surveillance                                                감시
 
-Post                                                        치료소
+post                                                        치료소
 charges                                                     혐의/기소
 on the other side of                                        ~의 반대편에
 defects                                                     결함
@@ -21,7 +21,7 @@ issue                                                       공표하다
 
 exchange rate                                               환율  
 violation                                                   위반
-Constitution                                                헌법
+constitution                                                헌법
 default                                                     채무불이행
 currency                                                    통화
 conflict                                                    분쟁

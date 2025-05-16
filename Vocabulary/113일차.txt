@@ -15,10 +15,10 @@ indictment                                                  기소장
 
 arbitration                                                 중재
 statute                                                     법령/규정
-plaintiff                                                   원고
 subpoena                                                    소환장
 testimony                                                   증언
 appeal                                                      항소
+plaintiff                                                   원고
 defendant                                                   피고
 precedent                                                   선례
 crop up                                                     나타나다

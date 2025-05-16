@@ -1,7 +1,8 @@
-Spatiotemporally                                            시공간적으로 
+spatiotemporally                                            시공간적으로 
 inconsistent                                                일관적이지 않은
-Observations                                                관측
+observations                                                관측
 overlook                                                    간과하다
+lookout                                                     감시자
 convoy                                                      호송[수송]대
 ardent                                                      열정적인 
 

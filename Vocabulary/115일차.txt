@@ -4,15 +4,15 @@ verification                                                검증
 shoot                                                       촬영하다/쏘다
 day's work                                                  하루 일과
 moderate                                                    온건한
-yet(부정문)                                                 아직(부정문)
-given (절or명사구)                                          ~을 고려하면
+legitimacy                                                  정당성
 
 extensive                                                   광범위한
 devastate                                                   파괴하다
 spending cuts                                               예산삭감
 personnel                                                   인원
-legitimacy                                                  정당성
 
+yet(부정문)                                                 아직(부정문)
+given (절or명사구)                                          ~을 고려하면
 threshold                                                   임계점
 milestone                                                   이정표
 benchmark                                                   기준점
@@ -26,3 +26,4 @@ nepotism                                                    친족주의
 patronage                                                   후원
 collusion                                                   공모
 conspiracy                                                  음모
+unemployment                                                실업률

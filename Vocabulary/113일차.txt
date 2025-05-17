@@ -6,8 +6,6 @@ sects                                                       종파
 bill                                                        법안/청구서
 run for                                                     ~에 출마하다
 
-affidavit                                                   진술서
-deposition                                                  증언녹취
 legislation                                                 법안
 litigation                                                  소송
 prosecution                                                 기소

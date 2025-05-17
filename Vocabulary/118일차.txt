@@ -20,11 +20,11 @@ merch                                                               상품
 buffet                                                              강타하다
 jettison                                                            버리다
 
-stern                                                선미(the rear part of a ship)
-bow                                                  이물(the front part of a ship)
+bow                                                 이물(the front part of a ship)
+stern                                               선미(the rear part of a ship)
 bomb bay                                                            폭탄 창고
 makeshift cot                                                       임시 침대
 radio operator                                                      무전수
-explosive release bolt                                              폭발식 분리 볼트
+explosive release bolt                                            폭발식 분리 볼트
 Buddhist temple                                                     불교 사원
 radar picket                                                        레이더 초계함

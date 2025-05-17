@@ -1,10 +1,12 @@
 unilateral                                                  일방적인
+correspondent                                               특파원
+injunction                                                  금지명령
 acquittal                                                   무죄선고
+affidavit                                                   진술서
+deposition                                                  증언녹취
+
 probation                                                   집행유예
 rigid                                                       융통성 없는
-
-injunction                                                  금지명령
-correspondent                                               특파원
 adjudication                                                판결
 ruling                                                      판결
 

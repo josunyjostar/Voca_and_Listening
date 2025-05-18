@@ -1,12 +1,13 @@
 exclusive                                                   독점적인/단독보도
 furloughed                                                  일시적 휴직상태 되었다
 
+Court case                                                  소송(재판사건)
+
 uncertainty                                                 불확실성
 mortagage                                                   담보대출
 propagate                                                   전파하다 
 elective office                                             선거로 선출된 공직
 censorship                                                  검열
-Court case                                                  소송(재판사건)
 Dissident                                                   반체제인사
 advocacy                                                    지지(옹호)
 beyond                                                      ~넘어서
@@ -14,10 +15,9 @@ pursue                                                      추구하다
 bowel                                                       창자
 in the bowels of                                            내부에
 we've made it                                               우리가 해냈어(관용)
-
 retraction                                                  취소(정정)
 alleged                                                     주장된
-allege                                                      혐의를 제기하다[주장하다]
+allege                                                      혐의를 주장하다
 deterioration                                               악화
 stagnation                                                  정체
 rebounding                                                  반등

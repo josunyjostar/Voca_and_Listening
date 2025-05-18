@@ -1,5 +1,5 @@
 go off                                                      폭발하다
-Tap out                                                     모스 부호 메시지를 보내다
+Tap out                                                  모스 부호 메시지를 보내다
 Back out                                                    포기하다
 Settle down                                                 자리를 잡다
 Open up                                                     발사하다
@@ -21,16 +21,13 @@ round                                                       회차
 municipalities                                              지방자치제
 disturb                                                     방해하다
 put forward                                                 제시하다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
+adjourn                                                     휴정하다
+legislature                                                 입법부
+along with                                                  ~와 마찬가지로
+administration                                              행정부
+counts                                                      항목들
+grand jury                                                  대배심
+bonds                                                       대출
+anniversary                                                 기념일
+exchange                                                    거래소
+take up                                                     다루다/논의하다

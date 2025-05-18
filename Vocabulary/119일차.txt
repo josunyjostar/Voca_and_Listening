@@ -4,27 +4,31 @@ suspended                                                   매달린
 modified                                                    개조된
 tug                                                         잡아당김
 
-slither                                                     미끄러짐
 starboard                                                   (배의)우현
 portside                                                    (배의)좌현
-penetrates                                                  관통하다
-Hurtle                                                      빠르게 돌진하다
-Deafening                                                   귀를 먹먹하게 하는
-Allude                                                      암시하다
-Sacrificial                                                 희생적인
-Subside                                                     가라앉다
-Grit                                                        이를 악물다
-Trudge                                                      터벅터벅 걷다
-Relentlessly                                                끈질기게
-Obliterate                                                  완전히 파괴하다
-helplessly                                                  무력하게 
+hurtle                                                      빠르게 돌진하다
+subside                                                     가라앉다
+grit                                                        이를 악물다
+trudge                                                      터벅터벅 걷다
+relentlessly                                                끈질기게
+obliterate                                                  완전히 파괴하다
 Lieutenant                                                  중위 
 grant                                                       부여하다 
 cadet                                                       해군 생도 
-gravely                                                     심각하게
 
+penetrates                                                  관통하다
+gravely                                                     심각하게
+sacrificial                                                 희생적인
+slither                                                     미끄러짐
+deafening                                                   귀를 먹먹하게 하는
+allude                                                      암시하다
+helplessly                                                  무력하게 
 driven off                                                  격퇴하다
 barrels on                                                  멈추지 않고 돌진하다
 score hit after hit                                         계속 명중시키다
 take out                                                    제거하다
+take back                                                   회수하다/취소하다
+take up                                                     다루다/논의하다
+take something up                                           ~을 시작하다
+take over                                                   물려받다
 slams into                                                  강하게 충돌하다

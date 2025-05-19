@@ -4,16 +4,16 @@ suspended                                                   매달린
 modified                                                    개조된
 tug                                                         잡아당김
 
+hurtle                                                      빠르게 돌진하다
+obliterate                                                  완전히 파괴하다
 starboard                                                   (배의)우현
 portside                                                    (배의)좌현
-hurtle                                                      빠르게 돌진하다
 subside                                                     가라앉다
 grit                                                        이를 악물다
 trudge                                                      터벅터벅 걷다
 relentlessly                                                끈질기게
-obliterate                                                  완전히 파괴하다
 Lieutenant                                                  중위 
-grant                                                       부여하다 
+grant                                                       승인하다/부여하다/보조금
 cadet                                                       해군 생도 
 
 penetrates                                                  관통하다

@@ -30,17 +30,6 @@ reinstate                                                   복귀시키다
 
 
 
-gradual - 점진적인
-abrupt - 갑작스러운
-sudden - 갑작스러운
-consequential - 중요한 결과를 지닌
-ramifications - 파급효과
-implications - 영향
-aftermath - 여파
-fallout - 여파
-backlash - 반발
-
-
 
 bulletin - 속보
 breaking news - 속보
@@ -68,17 +57,10 @@ carbon footprint - 탄소발자국
 greenhouse gases - 온실가스
 renewable energy - 재생에너지
 sustainable - 지속가능한
-biodiversity - 생물다양성
+
 deforestation - 삼림벌채
 conservation - 보전
-pollution - 오염
-contamination - 오염
 ecosystem - 생태계
-drought - 가뭄
-flood - 홍수
-hurricane - 허리케인
-tsunami - 쓰나미
-wildfire - 산불
 desertification - 사막화
 ozone depletion - 오존층 파괴
 fossil fuels - 화석연료
@@ -161,32 +143,22 @@ demonstration - 시위
 
 동사
 
-implement - 시행하다
-enforce - 집행하다
-impose - 부과하다
-enact - 제정하다
-ratify - 비준하다
+
 veto - 거부권을 행사하다
 deploy - 배치하다
 withdraw - 철수하다
 retaliate - 보복하다
 negotiate - 협상하다
 mediate - 중재하다
-arbitrate - 중재하다
 facilitate - 촉진하다
 mitigate - 완화하다
-exacerbate - 악화시키다
-alleviate - 완화하다
-curtail - 축소하다
 bolster - 강화하다
 undermine - 약화시키다
 destabilize - 불안정하게 하다
 consolidate - 통합하다
-diminish - 감소시키다
 escalate - 악화시키다
 intensify - 강화하다
 perpetuate - 지속시키다
-advocate - 옹호하다
 oppose - 반대하다
 scrutinize - 면밀히 조사하다
 investigate - 조사하다
@@ -216,14 +188,9 @@ hostility - 적대감
 reconciliation - 화해
 aftermath - 여파
 implications - 함의
-ramifications - 파급효과
 consequences - 결과
 repercussions - 반향
-backlash - 반발
-outcry - 항의
-outrage - 분노
-dissent - 반대
-oversight - 감독
+
 
 형용사
 

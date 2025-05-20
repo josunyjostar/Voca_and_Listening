@@ -21,12 +21,12 @@ implement                                                   시행하다
 enforce                                                     집행하다
 impose                                                      부과하다
 enact                                                       제정하다
-ratify                                                      비준하다
 abrupt                                                      갑작스러운
 consequential                                               중요한 결과를 지닌
-ramifications                                               파급효과
-implications                                                영향
 aftermath                                                   여파
 backlash                                                    반발
+ramifications                                               파급효과
+implications                                                영향
+ratify                                                      비준하다
 outcry                                                      항의
 oversight                                                   감독

@@ -76,11 +76,7 @@ protocol - 의정서
 
 보건/의학
 
-pandemic - 세계적 대유행
-epidemic - 전염병
-outbreak - 발병
-contagious - 전염성의
-vaccine - 백신
+
 vaccination - 예방접종
 quarantine - 격리
 mortality rate - 사망률
@@ -144,18 +140,8 @@ demonstration - 시위
 동사
 
 
-veto - 거부권을 행사하다
-deploy - 배치하다
-withdraw - 철수하다
-retaliate - 보복하다
-negotiate - 협상하다
-mediate - 중재하다
-facilitate - 촉진하다
-mitigate - 완화하다
-bolster - 강화하다
-undermine - 약화시키다
-destabilize - 불안정하게 하다
-consolidate - 통합하다
+
+
 escalate - 악화시키다
 intensify - 강화하다
 perpetuate - 지속시키다
@@ -166,11 +152,7 @@ substantiate - 입증하다
 
 명사
 
-allegation - 주장
-controversy - 논란
-dispute - 분쟁
-tension - 긴장
-unrest - 불안
+
 upheaval - 격변
 instability - 불안정
 volatility - 변동성
@@ -194,12 +176,6 @@ repercussions - 반향
 
 형용사
 
-controversial - 논란이 많은
-contentious - 논쟁적인
-divisive - 분열적인
-polarizing - 양극화시키는
-provocative - 도발적인
-incendiary - 선동적인
 inflammatory - 선동적인
 precarious - 불안정한
 volatile - 변덕스러운
@@ -227,16 +203,7 @@ nominal - 명목상의
 
 국제 관계
 
-diplomatic - 외교적인
-geopolitical - 지정학적인
-strategic - 전략적인
-alliance - 동맹
-adversary - 적대국
-neutral - 중립적인
-non-aligned - 비동맹의
-superpower - 초강대국
-hegemony - 패권
-influence - 영향력
+
 sphere of influence - 영향권
 proxy - 대리인
 deterrence - 억제

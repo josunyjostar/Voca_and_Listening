@@ -31,13 +31,7 @@ reinstate                                                   복귀시키다
 
 
 
-bulletin - 속보
-breaking news - 속보
-propaganda - 선전
-media coverage - 언론보도
-journalist - 기자
-press - 언론
-broadcast - 방송
+
 pundit - 전문가평론가
 disclosure - 공개
 investigative journalism - 탐사보도
@@ -77,17 +71,7 @@ protocol - 의정서
 보건/의학
 
 
-vaccination - 예방접종
-quarantine - 격리
-mortality rate - 사망률
-morbidity - 병률
-immunization - 면역
-infectious - 감염성의
-pathogen - 병원체
-strain - 균주
-variant - 변이
-asymptomatic - 무증상의
-transmission - 전파
+
 screening - 선별검사
 prevention - 예방
 treatment - 치료
@@ -142,9 +126,7 @@ demonstration - 시위
 
 
 
-escalate - 악화시키다
-intensify - 강화하다
-perpetuate - 지속시키다
+
 oppose - 반대하다
 scrutinize - 면밀히 조사하다
 investigate - 조사하다
@@ -191,11 +173,7 @@ looming - 다가오는
 forthcoming - 다가오는
 inevitable - 불가피한
 unprecedented - 전례 없는
-unparalleled - 비길 데 없는
-extraordinary - 비범한
-monumental - 기념비적인
-substantial - 상당한
-significant - 중요한
+
 considerable - 상당한
 marginal - 경미한
 negligible - 무시할 만한
@@ -266,13 +244,7 @@ misinformation - 오보
 propaganda - 선전
 verification - 검증
 authentication - 인증
-dissemination - 보급
-proliferation - 확산
-resurgence - 부활
-revival - 부흥
-momentum - 추진력
-impetus - 자극
-catalyst - 촉매
+
 impediment - 장애물
 
 현대 이슈 관련 단어

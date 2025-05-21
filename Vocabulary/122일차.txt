@@ -1,3 +1,4 @@
+unrest                                                      불안
 now that i'm here                                           ~이니까(여기 와보니까)
 raises                                                      급여인상
 detective                                                   형사
@@ -8,19 +9,18 @@ down from 수량                                              ~에서 감소햇�
 sit 거리 away                                               ~만큼 거리에 위치해 있다
 give out                                                    배분하다/할당하다
 
-geopolitical                                                지정학적인
-adversary                                                   적대국
-hegemony                                                    패권
 consolidate                                                 통합하다
 provocative                                                 도발적인
 divisive                                                    분열을 초래하는 
 polarizing                                                  양극화시키는
 
+geopolitical                                                지정학적인
+adversary                                                   적대국
+hegemony                                                    패권
 superpower                                                  초강대국
 neutral                                                     중립적인
 incendiary                                                  선동적인
 tension                                                     긴장
-unrest                                                      불안
 mediate                                                     중재하다
 mitigate                                                    완화하다
 bolster                                                     강화하다

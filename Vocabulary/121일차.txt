@@ -16,6 +16,7 @@ secretary                                                   장관
 embers                                                      불씨
 rustic                                                      시골의
 coal                                                        석탄
+backlash                                                    반발
 
 implement                                                   시행하다
 enforce                                                     집행하다
@@ -24,7 +25,6 @@ enact                                                       제정하다
 abrupt                                                      갑작스러운
 consequential                                               중요한 결과를 지닌
 aftermath                                                   여파
-backlash                                                    반발
 ramifications                                               파급효과
 implications                                                영향
 ratify                                                      비준하다

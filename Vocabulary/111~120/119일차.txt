@@ -1,11 +1,10 @@
-salute                                                      경례를 하다
+obliterate                                                  완전히 파괴하다
 descend                                                     내려가다
 suspended                                                   매달린
 modified                                                    개조된
 tug                                                         잡아당김
 
 hurtle                                                      빠르게 돌진하다
-obliterate                                                  완전히 파괴하다
 starboard                                                   (배의)우현
 portside                                                    (배의)좌현
 subside                                                     가라앉다
@@ -16,6 +15,7 @@ Lieutenant                                                  중위
 grant                                                       승인하다/부여하다/보조금
 cadet                                                       해군 생도 
 
+salute                                                      경례를 하다
 penetrates                                                  관통하다
 gravely                                                     심각하게
 sacrificial                                                 희생적인

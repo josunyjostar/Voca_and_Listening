@@ -1,28 +1,30 @@
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
+date back                                                   ~이래 계속 존재하고 있다
+treetop                                                     우듬지
+overrule                                                    기각하다
+mural                                                       벽화
+publication                                                 출판
+bulletin                                                    공고
+
+morbidity                                                   질병 걸린 비율
+pathogen                                                    병원체
+strain                                                      균주
+asymptomatic                                                무증상의
+transmission                                                전파
+
+perpetuate                                                  지속시키다
+unparalleled                                                비길 데 없는
+dissemination                                               보급
+resurgence                                                  부활
+impetus                                                     자극
+catalyst                                                    촉매
+vaccination                                                 예방접종
+
+immunization                                                면역
+infectious                                                  감염성의
+variant                                                     변이
+intensify                                                   강화하다
+revival                                                     부흥/부활
+momentum                                                    추진력
+breaking news                                               속보
+media coverage                                              언론보도
+mortality rate                                              사망률

@@ -1,9 +1,6 @@
 unrest                                                      불안
-now that i'm here                                           ~이니까(여기 와보니까)
-raises                                                      급여인상
-detective                                                   형사
+unmet                                                       충족되지 않는
 assignment                                                  업무배정
-city-state                                                  도시국가
 goes on                                                     일어나다
 down from 수량                                              ~에서 감소햇다
 sit 거리 away                                               ~만큼 거리에 위치해 있다
@@ -29,3 +26,7 @@ destabilize                                                 불안정하게 하�
 outbreak                                                    발병
 contagious                                                  전염성의
 non-aligned                                                 비동맹의
+now that i'm here                                           ~이니까(여기 와보니까)
+raises                                                      급여인상
+detective                                                   형사
+city-state                                                  도시국가

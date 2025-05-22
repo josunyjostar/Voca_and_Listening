@@ -10,16 +10,21 @@ instruction                                                 설명/지시
 aloof                                                       냉담한
 close election                                              박빙의 선거
 recount                                                     재검표하다 
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
+pest                                                        해충
+fruit fly                                                   초파리
+fungal                                                      진균
+spore                                                       포자
+convention                                                  관습/조약
+approve                                                     찬성하다/인가하다
+extent                                                      크기/규모
+from A through B                                            A부터 B까지
+discrimination                                              차별
+dismissal                                                   해고/묵살
+restrictive                                                 제한하는
+stab                                                        찌르다
+incident                                                    사건
+rate                                                        등급이 매겨지다
+blunt                                                       노골적인
+
+next to last                                                끝에서 두번째
+She is with ~                                               ~소속이다

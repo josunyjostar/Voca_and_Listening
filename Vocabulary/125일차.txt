@@ -1,28 +1,32 @@
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
-reinstate                                                   복귀시키다
+parrots                                                     앵무새
+outage                                                      정전
+induct                                                      가입시키다
+remnant                                                     나머지
+sedate                                                      진정제를 주다
+attendant                                                   안내원
+attendance                                                  첨삭자 수/출석
+stuff                                                       쑤셔넣다/채워넣다
+bring down                                                  붕괴시키다
+rich                                                        다채로운
+theorems                                                    정리(증명된 명제나 법칙)
+recurrence                                                  반복
+Gains                                                       증가
+
+cuff                                                        압박대
+readings                                                    측정/수치
+hypertension                                                고혈압
+measles                                                     홍역
+polio                                                       소아마비
+meningitis                                                  수막염
+share                                                       비율
+herd                                                        목축하다
+livestock                                                   가축
+
+work on                                                     노력하다
+Systolic(의학)                                              수축기
+diastolic(의학)                                             확장기
+yet(시간부사)                                                하지만(부정문)
+yet(시간부사)                                               아직(부정의 의미가 없음)
+life force                                                  생명력
+on 교통수단                                                  대중교통 / 큰 교통수단
+in 교통수단                                                  개인 교통수단 / 작은 교통수단

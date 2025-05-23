@@ -11,7 +11,8 @@ verification                                                검증
 shoot                                                       촬영하다/쏘다
 day's work                                                  하루 일과
 wrestle                                                     씨름하다/겨루다
-yet(부정문)                                                 아직(부정문)
+yet(시간부사)                                                하지만(부정문)
+yet(시간부사)                                               아직(부정의 의미가 없음)
 given (절or명사구)                                          ~을 고려하면
 threshold                                                   임계점
 milestone                                                   이정표

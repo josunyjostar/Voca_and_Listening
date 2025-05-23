@@ -1,15 +1,14 @@
 date back                                                   ~이래 계속 존재하고 있다
 publication                                                 출판
+perpetuate                                                  지속시키다
+dissemination                                               보급
+transmission                                                전파
 
 morbidity                                                   질병 걸린 비율
 pathogen                                                    병원체
 strain                                                      균주
 catalyst                                                    촉매
 asymptomatic                                                무증상의
-transmission                                                전파
-
-dissemination                                               보급
-perpetuate                                                  지속시키다
 resurgence                                                  부활
 impetus                                                     자극
 vaccination                                                 예방접종

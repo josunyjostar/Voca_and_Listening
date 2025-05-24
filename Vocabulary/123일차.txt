@@ -4,9 +4,9 @@ perpetuate                                                  지속시키다
 dissemination                                               보급
 transmission                                                전파
 
+strain                                                      균주
 morbidity                                                   질병 걸린 비율
 pathogen                                                    병원체
-strain                                                      균주
 catalyst                                                    촉매
 asymptomatic                                                무증상의
 resurgence                                                  부활

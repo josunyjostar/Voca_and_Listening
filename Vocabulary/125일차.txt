@@ -16,14 +16,14 @@ cuff                                                        압박대
 readings                                                    측정/수치
 share                                                       비율
 hypertension                                                고혈압
-measles                                                     홍역
 polio                                                       소아마비
+measles                                                     홍역
 meningitis                                                  수막염
 herd                                                        목축하다
 livestock                                                   가축
 
 work on                                                     노력하다
-Systolic(의학)                                              수축기
+systolic(의학)                                              수축기
 diastolic(의학)                                             확장기
 yet(시간부사)                                                하지만(부정문)
 yet(시간부사)                                               아직(부정의 의미가 없음)

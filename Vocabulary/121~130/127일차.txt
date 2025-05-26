@@ -28,4 +28,5 @@ automation                                                  자동화
 privacy                                                     개인정보
 reportedly                                                  보도에 따르면
 presumably                                                  아마도
+resume                                                      재개하다
 sphere of influence                                         영향권

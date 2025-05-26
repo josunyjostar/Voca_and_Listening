@@ -7,8 +7,8 @@ down from 수량                                              ~에서 감소햇�
 sit 거리 away                                               ~만큼 거리에 위치해 있다
 give out                                                    배분하다/할당하다
 
-consolidate                                                  도발적인
-divisive                                                  통합하다
+consolidate                                                 통합하다
+divisive                                                    분열을 초래하는
 polarizing                                                  양극화시키는
 
 geopolitical                                                지정학적인

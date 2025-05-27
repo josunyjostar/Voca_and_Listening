@@ -1,3 +1,4 @@
+bring down                                                  붕괴시키다
 parrots                                                     앵무새
 outage                                                      정전
 induct                                                      가입시키다
@@ -6,7 +7,6 @@ sedate                                                      진정제를 주다
 attendant                                                   안내원
 attendance                                                  참석자 수/출석
 stuff                                                       쑤셔넣다/채워넣다
-bring down                                                  붕괴시키다
 rich                                                        다채로운
 theorems                                                    정리(증명된 명제나 법칙)
 recurrence                                                  반복

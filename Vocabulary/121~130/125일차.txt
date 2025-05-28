@@ -8,9 +8,9 @@ attendant                                                   안내원
 attendance                                                  참석자 수/출석
 stuff                                                       쑤셔넣다/채워넣다
 rich                                                        다채로운
-theorems                                                    정리(증명된 명제나 법칙)
+theorems                                                  정리(증명된 명제나 법칙)
 recurrence                                                  반복
-Gains                                                       증가
+gains                                                       증가
 
 cuff                                                        압박대
 readings                                                    측정/수치
@@ -28,5 +28,5 @@ diastolic(의학)                                             확장기
 yet(접속사)                                                 하지만(부정문)
 yet(시간부사)                                               아직(부정문에서 사용)
 life force                                                  생명력
-on 교통수단                                                  대중교통 / 큰 교통수단
-in 교통수단                                              개인 교통수단 / 작은 교통수단
+on 교통수단                                                  대중교통/큰 교통수단
+in 교통수단                                            개인 교통수단/작은 교통수단

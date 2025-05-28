@@ -2,7 +2,7 @@ devastate                                                   엄청난 충격을 
 lethal                                                      치명적인
 seclusion                                                   은둔/격리
 makeup                                                      (사물의)구조
-educated guess                                              경험에서 우러난 추측   
+educated guess                                           경험에서 우러난 추측   
 seagull                                                     갈매기
 oil rig                                                     석유 굴착 장치
 offshore                                                    바다위의
@@ -12,16 +12,27 @@ somehow                                                     어쨋든
 dispatch                                                    파견하다/보내다
 obedient                                                    순종하는
 ploy                                                        계책
+interrogate                                                 심문하다
+desert                                                      탈주하다
+intruder                                                    침입자
+sick bay                                                    의무실
+unmanned                                                무인의/승무원이 타지 않은
 
-Come across                                                 우연히 만나다
+go down                                                     기록하다
+go off                                                      폭발하다
+go back on                                                  (약속을)어기다
+go up against                                              ~와 맞서다
+go after                                                   ~를 추적하다
+go through                                                  경험하다/검토하다
+go ahead                                                    진행되다
+go by                                                       지나가다
+
 reach out                                                  ~와 접촉하려고 하다 
-reach out to                                                연락하다/도움을 요청하다
+reach out to                                             연락하다/도움을 요청하다
 Not when 절                                                ~할 때는 예외다
 word came in that 절                                       ~소식이 들려왓다
 be done with someone                                       ~와 끝을 보다
-go by                                                       지나가다
-go up against                                              ~와 맞서다
-go after                                                   ~를 추적하다
+
 What's [something] for?                                    [s.t]은 왜 그래?
 territorial waters                                          영해
 decoy                                                       미끼

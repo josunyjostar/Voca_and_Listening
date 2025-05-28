@@ -20,7 +20,6 @@ convalescent                                                    요양중인
 drivel                                                          쓸데없는말
 compliance                                                      준수/(명령에)따름
 chuckle                                                         싱긋웃다
-go down                                                         기록하다
 
 groundbreaking                                                  (건설현장)기공식\
 ingenious                                                       기발한

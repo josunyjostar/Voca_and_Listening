@@ -1,5 +1,5 @@
 prediction                                                  예측
-Hydraulic                                                   수압시스템의/수압의
+hydraulic                                                   수압시스템의/수압의
 grumpy                                                      성격이 나쁜
 overcrowding                                                과잉수용
 unmet                                                       충족되지 않는

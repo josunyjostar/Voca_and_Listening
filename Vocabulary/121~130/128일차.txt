@@ -26,6 +26,7 @@ go after                                                   ~를 추적하다
 go through                                                  경험하다/검토하다
 go ahead                                                    진행되다
 go by                                                       지나가다
+go by                                                       ~라는 이름으로 불리다
 
 reach out                                                  ~와 접촉하려고 하다 
 reach out to                                             연락하다/도움을 요청하다

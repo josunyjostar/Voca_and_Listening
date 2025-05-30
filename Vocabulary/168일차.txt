@@ -39,17 +39,7 @@ protocol - 의정서
 
 
 
-screening - 선별검사
-prevention - 예방
-treatment - 치료
-clinical trial - 임상시험
-therapeutic - 치료적인
-pharmaceutical - 제약의
-diagnosis - 진단
-prognosis - 예후
-epidemic curve - 유행곡선
-containment - 봉쇄
-herd immunity - 집단면역
+
 antibody - 항체
 mutation - 돌연변이
 incubation period - 잠복기
@@ -214,18 +204,7 @@ globalization - 세계화
 data breach - 데이터 유출
 encryption - 암호화
 decryption - 복호화
-algorithm - 알고리즘
-social media - 소셜미디어
-disinformation - 허위정보
-fake news - 가짜뉴스
-viral - 바이럴(확산되는)
-trending - 인기있는
-censorship - 검열
-firewall - 방화벽
-malware - 악성소프트웨어
-supply chain - 공급망
-disruption - 혼란
-logistics - 물류
+
 shortage - 부족
 scarcity - 희소성
 surplus - 과잉

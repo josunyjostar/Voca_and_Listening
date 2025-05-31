@@ -1,11 +1,8 @@
 
 pundit - 전문가평론가
-disclosure - 공개
 investigative journalism - 탐사보도
-column - 칼럼
-op-ed - 외부칼럼
+
 sensationalism - 선정주의
-leak - 기밀누설
 fact-checking - 사실확인
 circulation - 발행부수
 
@@ -45,21 +42,10 @@ mutation - 돌연변이
 incubation period - 잠복기
 inequality - 불평등
 discrimination - 차별
-prejudice - 편견
-marginalized - 소외된
-vulnerable - 취약한
-minority - 소수집단
-diversity - 다양성
+
 inclusion - 포용
 gentrification - 젠트리피케이션
-homelessness - 노숙
-poverty - 빈곤
-unemployment - 실업
-welfare - 복지
-subsistence - 생계
-disparity - 격차
-polarization - 양극화
-disenfranchised - 권리박탈당한
+
 underprivileged - 혜택받지 못한
 demographic - 인구통계학적인
 census - 인구조사
@@ -103,12 +89,6 @@ consensus - 합의
 discord - 불화
 friction - 마찰
 animosity - 적의
-hostility - 적대감
-reconciliation - 화해
-aftermath - 여파
-implications - 함의
-consequences - 결과
-repercussions - 반향
 
 
 형용사
@@ -120,19 +100,9 @@ turbulent - 격변의
 dire - 심각한
 critical - 위급한
 severe - 심각한
-acute - 심각한
-grave - 심각한
-imminent - 임박한
-impending - 임박한
-looming - 다가오는
-forthcoming - 다가오는
-inevitable - 불가피한
-unprecedented - 전례 없는
 
-considerable - 상당한
-marginal - 경미한
-negligible - 무시할 만한
-nominal - 명목상의
+
+
 
 국제 관계
 
@@ -145,9 +115,7 @@ detente - 긴장완화
 brinkmanship - 벼랑끝 전술
 escalation - 확대
 de-escalation - 완화
-provocation - 도발
-aggression - 침략
-annexation - 합병
+
 territorial integrity - 영토보전
 violation - 위반
 sovereignty - 주권
@@ -189,11 +157,7 @@ protectionism - 보호무역주의
 기타 유용한 단어
 
 
-disinformation - 허위정보
-misinformation - 오보
-propaganda - 선전
-verification - 검증
-authentication - 인증
+
 
 impediment - 장애물
 

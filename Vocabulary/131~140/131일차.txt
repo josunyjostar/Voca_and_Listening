@@ -4,8 +4,10 @@ prance                                                      (거리를)활보하
 sketchy                                                     의심스러운
 massacre                                                    대학살
 cost                                                       ~에게 손실을 입히다
-capital                                                     자본/수도
+containment                                                 봉쇄
+disruption                                                  혼란
 
+capital                                                     자본/수도
 screening                                                   선별검사
 prevention                                                  예방
 treatment                                                   치료
@@ -13,13 +15,11 @@ therapeutic                                                 치료적인
 pharmaceutical                                              제약의
 diagnosis                                                   진단
 prognosis                                                   예후
-containment                                                 봉쇄
 grave                                                       심각한
 forthcoming                                                 다가오는
 disinformation                                              허위정보
 viral                                                       바이럴(확산되는)
 trending                                                    인기있는
-disruption                                                  혼란
 logistics                                                   물류
 epidemic curve                                              유행곡선
 herd immunity                                               집단면역

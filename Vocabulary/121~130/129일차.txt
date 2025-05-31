@@ -38,7 +38,7 @@ do over                                                     다시하다
 do away with                                                폐지하다
 having to do with                                           ~와 관련된
 
-put off                                                     미루다
+put off*                                                     미루다
 put on                                                      (옷)입다/(라이트)켜다
 put upon                                                    도입하다(impose)
 put away                                                    제자리에 두다
@@ -46,7 +46,7 @@ put out (fires)                                             불을 끄다/진압
 put up with                                              참다 견디다(부정적인 것)
 put forward                                                 제시하다
 
-work through                                                극복하다
+work through*                                                극복하다
 work up                                                     (용기 등을)키우다
 work around                                                 우회하다
 work on                                                ~에 대해 작업하다/노력하다

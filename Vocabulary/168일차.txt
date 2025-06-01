@@ -1,7 +1,6 @@
 
 pundit - 전문가평론가
 investigative journalism - 탐사보도
-
 sensationalism - 선정주의
 fact-checking - 사실확인
 circulation - 발행부수
@@ -15,37 +14,22 @@ carbon footprint - 탄소발자국
 greenhouse gases - 온실가스
 renewable energy - 재생에너지
 sustainable - 지속가능한
-
 deforestation - 삼림벌채
 conservation - 보전
 ecosystem - 생태계
 desertification - 사막화
 ozone depletion - 오존층 파괴
 fossil fuels - 화석연료
-extraction - 추출
-waste management - 폐기물관리
-recycling - 재활용
-mitigation - 완화
-adaptation - 적응
-resilience - 회복력
-summit - 정상회의
-accord - 협약
 protocol - 의정서
 
 보건/의학
-
-
-
-
 antibody - 항체
 mutation - 돌연변이
 incubation period - 잠복기
 inequality - 불평등
 discrimination - 차별
-
 inclusion - 포용
 gentrification - 젠트리피케이션
-
 underprivileged - 혜택받지 못한
 demographic - 인구통계학적인
 census - 인구조사
@@ -60,53 +44,7 @@ activism - 행동주의
 protest - 시위
 demonstration - 시위
 
-일반 시사 용어
-
-
-
-동사
-
-
-
-
-
-oppose - 반대하다
-scrutinize - 면밀히 조사하다
-investigate - 조사하다
-substantiate - 입증하다
-
-명사
-
-
-
-stalemate - 교착상태
-deadlock - 교착상태
-impasse - 난국
-breakthrough - 돌파구
-compromise - 타협
-concession - 양보
-consensus - 합의
-discord - 불화
-friction - 마찰
-animosity - 적의
-
-
-형용사
-
-inflammatory - 선동적인
-precarious - 불안정한
-volatile - 변덕스러운
-turbulent - 격변의
-dire - 심각한
-critical - 위급한
-severe - 심각한
-
-
-
-
 국제 관계
-
-
 
 isolation - 고립
 withdrawal - 철수
@@ -115,7 +53,6 @@ detente - 긴장완화
 brinkmanship - 벼랑끝 전술
 escalation - 확대
 de-escalation - 완화
-
 territorial integrity - 영토보전
 violation - 위반
 sovereignty - 주권
@@ -153,28 +90,6 @@ deficit - 적자
 surplus - 흑자
 trade balance - 무역수지
 protectionism - 보호무역주의
-
-기타 유용한 단어
-
-
-
-
-impediment - 장애물
-
-현대 이슈 관련 단어
-
-globalization - 세계화
-
-data breach - 데이터 유출
-encryption - 암호화
-decryption - 복호화
-
-shortage - 부족
-scarcity - 희소성
-surplus - 과잉
-capacity - 용량
-infrastructure - 기반시설
-urbanization - 도시화
 
 
 중요 표현

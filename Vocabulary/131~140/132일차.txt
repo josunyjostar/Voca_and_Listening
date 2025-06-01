@@ -35,3 +35,5 @@ aggression                                                  침략
 annexation                                                  합병
 authentication                                              인증
 have yet to + 동사원형                                      아직 ~하지 않았다
+Maybe i should                                              ~해볼까나
+i wonder if i should                                        ~해볼까나

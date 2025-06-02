@@ -13,11 +13,7 @@ emissions - 배출량
 carbon footprint - 탄소발자국
 greenhouse gases - 온실가스
 renewable energy - 재생에너지
-sustainable - 지속가능한
-deforestation - 삼림벌채
-conservation - 보전
-ecosystem - 생태계
-desertification - 사막화
+
 ozone depletion - 오존층 파괴
 fossil fuels - 화석연료
 protocol - 의정서
@@ -32,52 +28,19 @@ inclusion - 포용
 gentrification - 젠트리피케이션
 underprivileged - 혜택받지 못한
 demographic - 인구통계학적인
-census - 인구조사
-migration - 이주
-assimilation - 동화
-integration - 통합
-segregation - 분리
-xenophobia - 외국인혐오
-advocacy - 옹호
-grassroots - 풀뿌리
-activism - 행동주의
-protest - 시위
-demonstration - 시위
 
-국제 관계
-
-isolation - 고립
-withdrawal - 철수
-rapprochement - 관계개선
-detente - 긴장완화
-brinkmanship - 벼랑끝 전술
-escalation - 확대
-de-escalation - 완화
-territorial integrity - 영토보전
-violation - 위반
-sovereignty - 주권
-autonomy - 자치권
 
 경제 용어 추가
 
 recession - 경기침체
 depression - 경제대공황
-boom - 경기호황
 downturn - 경기하락
 upturn - 경기상승
-stagnation - 경기침체
-stagflation - 스태그플레이션
-inflation - 인플레이션
-deflation - 디플레이션
-hyperinflation - 초인플레이션
 liquidity - 유동성
 solvency - 지급능력
 insolvency - 지급불능
 bankruptcy - 파산
 default - 채무불이행
-credit crunch - 신용경색
-bailout - 구제금융
-austerity - 긴축정책
 stimulus - 경기부양책
 fiscal policy - 재정정책
 monetary policy - 통화정책
@@ -89,7 +52,6 @@ devaluation - 평가절하
 deficit - 적자
 surplus - 흑자
 trade balance - 무역수지
-protectionism - 보호무역주의
 
 
 중요 표현
@@ -106,8 +68,3 @@ notwithstanding - ~에도 불구하고
 nevertheless - 그럼에도 불구하고
 furthermore - 더욱이
 consequently - 결과적으로
-
-purportedly - 전해지는 바에 따르면
-according to sources - 소식통에 따르면
-by all accounts - 모든 정황으로 볼 때
-as matters stand - 현 상황으로는

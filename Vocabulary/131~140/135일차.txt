@@ -1,30 +1,37 @@
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
+sparse                                                      드문드문한
+irreparably                                                 돌이킬 수 없을 정도로
+ingest                                                      섭취하다
+purge                                                       제거하다/몰아내다
+cure                                                        염장하다/건조시키다
+respiratory                                                 호흡의
+pervasive                                                   만연하는
+mundane                                                     일상적인
+compelling                                                  설득력 있는
+succinct                                                    간결한
+apt                                                      적절한/~하는 경향이 있는
+laboratory-confirmed case                                   실험실 확진 사례
+
+recession                                                   경기침체
+depression                                                  경제대공황
+downturn                                                    경기하락
+upturn                                                      경기상승
+solvency                                                    지급능력
+insolvency                                                  지급불능
+stimulus                                                    경기부양책
+pundit                                                      전문가/평론가
+circulation                                                 발행부수
+sensationalism                                              선정주의
+investigative journalism                                    탐사보도
+
+Back up                                                 지원하다/(데이터)백업하다
+Blow up                                                 폭발하다/화내다
+Face up to                                                  직면하다
+Fill in (for)                                               대신하다
+Look down on                                                깔보다
+
+Get away with                                           (처벌 받지 않고)해내다
+He got away with cheating on the test because the teacher didn't notice.
+Zero in on                                                  집중하다
+Let's zero in on the main problem instead of discussing minor details.
+Live up to                                                  기대에 부응하다
+The new restaurant really lives up to its reputation for excellent food.

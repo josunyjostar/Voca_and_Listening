@@ -3,14 +3,15 @@ emerge                                                 드러나다/나오다
 eligible                                               ~을 가질 수 있는
 enthusiasm                                             열광
 conduct                                                (특정활동을)하다
+imperative                                             반드시 해야하는 
 
 determine                                              밝혀내다
 perceive                                               감지하다 
 associate                                              연상하다
-pleasant                                               상냥한      
 throughout                                             도처에
+transportation                                         유배        
+pleasant                                               상냥한      
 
-imperative                                             반드시 해야하는 
 sustain                                                지속시키다
 circumstance                                           환경/정황/형편
 demonstrate                                            입증하다
@@ -19,7 +20,6 @@ sustainable                                            지속가능한
 instrument                                             (정교한)기구 
 develop                                                성장하다 
 acknowledge                                            인정하다
-transportation                                         유배        
 estimate                                               추정
 relevant                                               관련있는
 persuade                                               설득하다

@@ -1,9 +1,5 @@
 
-pundit - 전문가평론가
-investigative journalism - 탐사보도
-sensationalism - 선정주의
-fact-checking - 사실확인
-circulation - 발행부수
+
 
 환경/기후
 
@@ -32,17 +28,7 @@ demographic - 인구통계학적인
 
 경제 용어 추가
 
-recession - 경기침체
-depression - 경제대공황
-downturn - 경기하락
-upturn - 경기상승
-liquidity - 유동성
-solvency - 지급능력
-insolvency - 지급불능
-bankruptcy - 파산
-default - 채무불이행
-stimulus - 경기부양책
-fiscal policy - 재정정책
+
 monetary policy - 통화정책
 quantitative easing - 양적완화
 interest rate - 이자율

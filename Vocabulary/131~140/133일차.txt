@@ -1,14 +1,14 @@
+impasse                                                         난국
+impediment                                                      장애물
 scarcity                                                        희소성/부족
-scrutinize                                                    면밀히 조사하다
-subsistence                                                     생계
 substantiate                                                    입증하다
+subsistence                                                     생계
+scrutinize                                                    면밀히 조사하다
 concession                                                      양보
 consensus                                                       합의
-impasse                                                         난국
 stalemate                                                       교착상태
 deadlock                                                        교착상태
 discord                                                         불화
-impediment                                                      장애물
 
 literate                                                   글을 읽고 쓸 줄 아는
 embryo                                                           배아
@@ -17,7 +17,7 @@ oppose                                                           반대하다
 investigate                                                      조사하다
 breakthrough                                                     돌파구
 compromise                                                       타협
-surplus                                                          과잉
+surplus                                                          과잉/흑자
 friction                                                         마찰
 animosity                                                        적의
 volatile                                                         변덕스러운
@@ -29,11 +29,11 @@ accord                                                           협약
 breach                                                           위반
 data breach                                                      데이터 유출
 
-Run over                                                     (차로)치다/넘어가다
+run over                                                     (차로)치다/넘어가다
+try out                                                          시험해 보다
+get all fancy                                                    과시하려 들다
+go over                                                          이해 못하다
 break down                                     복잡한 것을 쉽게 설명하다/분석하다
 Rule out                                                         배제하다
 Stand out                                                        두드러지다
 Stick to                                                         충실하다
-Try out                                                          시험해 보다
-get all fancy                                                    과시하려 들다
-go over                                                          이해 못하다

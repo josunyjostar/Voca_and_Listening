@@ -1,26 +1,9 @@
 
 
 
-환경/기후
-
-climate change - 기후변화
-global warming - 지구온난화
-emissions - 배출량
-carbon footprint - 탄소발자국
-greenhouse gases - 온실가스
-renewable energy - 재생에너지
-
-ozone depletion - 오존층 파괴
-fossil fuels - 화석연료
-protocol - 의정서
 
 보건/의학
-antibody - 항체
-mutation - 돌연변이
-incubation period - 잠복기
-inequality - 불평등
-discrimination - 차별
-inclusion - 포용
+
 gentrification - 젠트리피케이션
 underprivileged - 혜택받지 못한
 demographic - 인구통계학적인
@@ -50,7 +33,3 @@ on the heels of - ~에 뒤이어
 in the midst of - ~의 한가운데서
 against the backdrop of - ~을 배경으로
 in conjunction with - ~와 함께
-notwithstanding - ~에도 불구하고
-nevertheless - 그럼에도 불구하고
-furthermore - 더욱이
-consequently - 결과적으로

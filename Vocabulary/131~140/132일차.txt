@@ -12,6 +12,7 @@ refuge                                                      피난
 refugee                                                     난민
 take cover                                                  지형을 이용하여 숨다
 wreckage                                                    잔해
+observant                                                   관찰력있는
 
 op-ed                                                       외부칼럼
 disclosure                                                  공개
@@ -25,6 +26,7 @@ reconciliation                                              화해
 implications                                                결과/영향
 repercussions                                               반향
 
+catch on                                                    알아채다
 acute                                                       심각한
 considerable                                                상당한
 marginal                                                    경미한

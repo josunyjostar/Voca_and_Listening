@@ -15,21 +15,21 @@ irrigate                                                    관개하다/물을�
 diabetes                                                    당뇨병
 deplete                                                     대폭 감소시키다
 
+ozone depletion                                             오존층 파괴
 emissions                                                   배출량
 antibody                                                    항체
 inequality                                                  불평등
 inclusion                                                   포용
 incubation period                                           잠복기
 carbon footprint                                            탄소발자국
-ozone depletion                                             오존층 파괴
 
-Give out                                                    배포하다/고장 나다
-Hand in                                                     제출하다
-Hold back                                                   억제하다
-Pass out                                                    기절하다/나눠주다
-Pay back                                                    갚다/복수하다
-Point out                                                   지적하다
-notwithstanding                                             그러하긴 하지만
+hold back                                                   억제하다
+notwithstanding                                             그렇긴 하지만
 nevertheless                                                그럼에도 불구하고
 furthermore                                                 더욱이
 consequently                                                결과적으로
+give out                                                    배포하다/고장 나다
+Hand in                                                     제출하다
+pass out                                                    기절하다/나눠주다
+pay back                                                    갚다/복수하다
+point out                                                   지적하다

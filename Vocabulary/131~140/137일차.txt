@@ -1,30 +1,39 @@
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
+disaggregate                                                분산된/분해된
+coarse                                                      거친
+primitives                                                  기본요소
+secretary-general                                           사무국장
+empirical                                                   경험에 의거한
+skewed                                                      치우친/편향된
+traversal                                                   순회
+exploit                                                     이용하다
+proportional to                                             ~에 비례하는
+commensurately                                              비례하여
+compliant                                                   준수하는
+utilization                                                 사용률
+subset                                                      부분집합
+strain                                                      부담(감)
+populating                                                  데이터를 채워넣는것
+residing                                                    존재하는
+set to become                                               ~가 될 예정이다
+holds true                                                  유효하다
+brink of                                                    ~의 직전에
+privileged                                                  특권을 가진
+underprivileged                                             혜택받지 못한
+quantitative                                                양적인
+depreciation                                                감가상각
+appreciation                                                가치상승
+devaluation                                                 평가절하
+quantitative easing                                         양적완화
+interest rate                                               이자율
+trade balance                                               무역수지
+
+draw up                                                     (계획)세우다
+brush up (on)                                               복습하다
+get by                                                      근근이 살아가다
+count on                                                    의지하다
+drop off                                                    내려주다
+fall behind                                                 뒤처지다
+Run out of                                                  다 떨어지다
+catch up (with)                                             따라잡다
+come down with                                              (병에) 걸리다
+cut down on                                                 줄이다

@@ -22,14 +22,11 @@ pundit                                                      전문가/평론가
 circulation                                                 발행부수
 sensationalism                                              선정주의
 investigative journalism                                    탐사보도
-
-Fill in (for)                                               대신하다
+zero in on                                                  집중하다
+fill in (for)                                               대신하다
 
 get away with                                           (처벌 받지 않고)해내다
 He got away with cheating on the test 
-
-zero in on                                                  집중하다
-Let's zero in on the main problem 
 
 live up to                                                  기대에 부응하다
 The new restaurant really lives up to its reputation for excellent food.

@@ -1,4 +1,5 @@
 disaggregate                                                분산된/분해된
+commensurately                                              비례하여
 coarse                                                      거친
 primitives                                                  기본요소
 secretary-general                                           사무국장
@@ -7,13 +8,14 @@ skewed                                                      치우친/편향된
 traversal                                                   순회
 exploit                                                     이용하다
 proportional to                                             ~에 비례하는
-commensurately                                              비례하여
 compliant                                                   준수하는
 utilization                                                 사용률
 subset                                                      부분집합
 strain                                                      부담(감)
+strain                                                      균주
 populating                                                  데이터를 채워넣는것
 residing                                                    존재하는
+affluent                                                    부유한
 set to become                                               ~가 될 예정이다
 holds true                                                  유효하다
 brink of                                                    ~의 직전에
@@ -31,6 +33,7 @@ draw up                                                     (계획)세우다
 brush up (on)                                               복습하다
 get by                                                      근근이 살아가다
 count on                                                    의지하다
+go off of                                                   의지하다
 drop off                                                    내려주다
 fall behind                                                 뒤처지다
 Run out of                                                  다 떨어지다

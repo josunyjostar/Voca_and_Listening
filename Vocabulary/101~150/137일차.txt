@@ -1,4 +1,7 @@
+affluent                                                    부유한
+compliant                                                   준수하는
 disaggregate                                                분산된/분해된
+
 commensurately                                              비례하여
 coarse                                                      거친
 primitives                                                  기본요소
@@ -8,14 +11,12 @@ skewed                                                      치우친/편향된
 traversal                                                   순회
 exploit                                                     이용하다
 proportional to                                             ~에 비례하는
-compliant                                                   준수하는
 utilization                                                 사용률
 subset                                                      부분집합
 strain                                                      부담(감)
 strain                                                      균주
 populating                                                  데이터를 채워넣는것
 residing                                                    존재하는
-affluent                                                    부유한
 set to become                                               ~가 될 예정이다
 holds true                                                  유효하다
 brink of                                                    ~의 직전에

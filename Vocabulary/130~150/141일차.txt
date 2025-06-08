@@ -27,7 +27,7 @@ drench - 흠뻑 적시다
 drowsy - 졸린, 나른한
 dull - 둔한, 지루한
 dwindle - 줄어들다, 감소하다
-makeup                                                      구조
+tabulate                                                    표로 만들다
 makeup                                                      구조
 makeup                                                      구조
 makeup                                                      구조

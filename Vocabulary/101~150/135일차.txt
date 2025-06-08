@@ -1,16 +1,16 @@
+ingest                                                      섭취하다
+apt                                                      적절한/~하는 경향이 있는
+
 sparse                                                      드문드문한
 respiratory                                                 호흡의
 irreparably                                                 돌이킬 수 없을 정도로
-ingest                                                      섭취하다
 purge                                                       제거하다/몰아내다
 cure                                                        염장하다/건조시키다
 pervasive                                                   만연하는
 mundane                                                     일상적인
 compelling                                                  설득력 있는
 succinct                                                    간결한
-apt                                                      적절한/~하는 경향이 있는
 laboratory-confirmed case                                   실험실 확진 사례
-
 depression                                                  경제대공황
 recession                                                   경기침체
 upturn                                                      경기상승
@@ -18,7 +18,7 @@ downturn                                                    경기하락
 solvency                                                    지급능력
 insolvency                                                  지급불능
 stimulus                                                    경기부양책
-pundit                                                      전문가/평론가
+pundit                                                      전문가/평론가(사회쪽)
 circulation                                                 발행부수
 sensationalism                                              선정주의
 investigative journalism                                    탐사보도

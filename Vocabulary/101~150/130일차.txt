@@ -17,6 +17,7 @@ lead                                                        단서
 whereabouts                                                 행방
 busted                                                      체포되다
 up-front                                                    선불로
+follow up on                                               ~를 추적조사하다
 
 call on                                                     촉구하다
 call for                                                    요구하다
@@ -43,7 +44,6 @@ run for it                                                  도망치다
 drop in on                                                  불쑥 방문하다
 step up                                                     나서다
 help s.b out                                               ~를 도와주다
-follow up on                                               ~를 추적조사하다
 
 rock bottom                                                 최악의 상황
 leave one's mark                                            자신의 흔적을 남기다

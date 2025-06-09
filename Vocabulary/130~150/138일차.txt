@@ -1,13 +1,14 @@
+depress                                                     우울하게 만들다
+covert                                                      은밀한 
+furtive                                                     은밀한 
 banal                                                       따분한
 fatuous                                                     어리석은
 agitate                                                     뒤흔들다
 strive                                                      분투하다
 traverse                                                    가로지르다
-covert                                                      은밀한 
-furtive                                                     은밀한 
 adept                                                       능숙한
+adopt                                                       채택하다
 cover                                                       다루다
-depress                                                     우울하게 만들다
 conjunction                                                 (현상/사건의)결합
 wiped out                                                   전멸하다
 conducive                                                   도움이 되는
@@ -29,7 +30,7 @@ go off                                                      폭발하다/맛이�
 symmetry                                                    대칭/균형
 dispensable                                                 불필요한
 incompressible                                              압축 불가능한
-fuzzy                                                       모호한, 흐릿한
+fuzzy                                                       모호한/흐릿한
 turbulence                                                  난기류, 혼란
 continuity                                                  연속성
 up in the air                                               미정인 상태

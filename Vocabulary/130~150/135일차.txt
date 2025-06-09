@@ -1,4 +1,5 @@
 ingest                                                      섭취하다
+intake                                                      섭취
 apt                                                      적절한/~하는 경향이 있는
 
 sparse                                                      드문드문한

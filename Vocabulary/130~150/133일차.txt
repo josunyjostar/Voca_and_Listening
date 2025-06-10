@@ -1,15 +1,15 @@
+precarious                                                      불안정한
+substantiate                                                    입증하다
 concession                                                      양보
 impasse                                                         난국
 impediment                                                      장애물
 scarcity                                                        희소성/부족
-substantiate                                                    입증하다
 subsistence                                                     생계
 scrutinize                                                    면밀히 조사하다
 consensus                                                       합의
 stalemate                                                       교착상태
 deadlock                                                        교착상태
 discord                                                         불화
-precarious                                                      불안정한
 
 literate                                                   글을 읽고 쓸 줄 아는
 embryo                                                           배아
@@ -34,6 +34,6 @@ try out                                                          시험해 보�
 get all fancy                                                    과시하려 들다
 go over                                                          이해 못하다
 break down                                     복잡한 것을 쉽게 설명하다/분석하다
-Rule out                                                         배제하다
-Stand out                                                        두드러지다
-Stick to                                                         충실하다
+rule out                                                         배제하다
+stand out                                                        두드러지다
+stick to                                                         충실하다

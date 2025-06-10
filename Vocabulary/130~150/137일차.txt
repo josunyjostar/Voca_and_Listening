@@ -3,6 +3,7 @@ compliant                                                   준수하는
 disaggregate                                                분산된/분해된
 
 commensurately                                              비례하여
+proportional to                                             ~에 비례하는
 coarse                                                      거친
 primitives                                                  기본요소
 secretary-general                                           사무국장
@@ -10,7 +11,6 @@ empirical                                                   경험에 의거한
 skewed                                                      치우친/편향된
 traversal                                                   순회
 exploit                                                     이용하다
-proportional to                                             ~에 비례하는
 utilization                                                 사용률
 subset                                                      부분집합
 strain                                                      부담(감)

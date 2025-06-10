@@ -1,6 +1,7 @@
 detente                                                     긴장완화(데탕트)
-up to                                               ~의 권한/책임 하에 두다
 out of + 감정/동기                                          ~때문에   
+up to                                                       ~의 권한/책임 하에 두다
+purportedly                                                 전해지는 바에 따르면
 by means of                                                 ~를 써서
 instrument                                                  기구
 deployment                                                  배치
@@ -15,7 +16,6 @@ census                                                      인구조사
 assimilation                                                동화
 segregation                                                 분리
 
-purportedly                                                 전해지는 바에 따르면
 rapprochement                                               화해/관계개선
 migration                                                   이주
 integration                                                 통합

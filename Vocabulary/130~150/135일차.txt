@@ -1,6 +1,7 @@
 ingest                                                      섭취하다
 intake                                                      섭취
 apt                                                      적절한/~하는 경향이 있는
+compelling                                                  설득력 있는
 
 sparse                                                      드문드문한
 respiratory                                                 호흡의
@@ -9,7 +10,6 @@ purge                                                       제거하다/몰아�
 cure                                                        염장하다/건조시키다
 pervasive                                                   만연하는
 mundane                                                     일상적인
-compelling                                                  설득력 있는
 succinct                                                    간결한
 laboratory-confirmed case                                   실험실 확진 사례
 depression                                                  경제대공황

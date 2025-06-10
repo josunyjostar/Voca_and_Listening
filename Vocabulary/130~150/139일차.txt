@@ -6,6 +6,7 @@ aversion                                                    혐오
 bewilder                                                    당황시키다
 bleak                                                       절망적인 
 brag                                                        허풍떨다/자랑하다
+insolent                                                    버릇없는
 
 banish                                                      추방하다
 benevolent                                                  친절한
@@ -13,7 +14,6 @@ astray                                                      잘못된 방향으�
 ascent                                                      상승
 aptitude                                                    적성
 arbitrary                                                   임의적인/독단적인
-insolent                                                    버릇없는
 get down to                                                 이제 집중해서 시작하다
 push back                                                   미루다
 hard calls                                                  어려운 결정

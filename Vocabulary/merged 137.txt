@@ -4085,7 +4085,8 @@ ramifications                                               파급효과
 implications                                                영향
 ratify                                                      비준하다
 outcry                                                      항의
-oversight                                                   감독unrest                                                      불안
+oversight                                                   감독
+unrest                                                      불안
 unmet                                                       충족되지 않는
 assignment                                                  업무배정
 provocative                                                 도발적인 
@@ -4131,7 +4132,7 @@ resurgence                                                  부활
 impetus                                                     자극
 vaccination                                                 예방접종
 
-intensify                                                   강화하다
+intensify                                                   심해지다/강화하다
 revival                                                     부흥/부활
 momentum                                                    추진력
 breaking news                                               속보
@@ -4757,4 +4758,3 @@ in conjunction with                                         ~와 함께
 
 go off of                                                   의지하다
 we don’t have any new clues to go off of
-

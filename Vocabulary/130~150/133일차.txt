@@ -27,12 +27,13 @@ adaptation                                                       적응
 resilience                                                       회복력
 accord                                                           협약
 breach                                                           위반
+expectation                                                      기대
 data breach                                                      데이터 유출
 
 run over                                                     (차로)치다/넘어가다
 try out                                                          시험해 보다
 get all fancy                                                    과시하려 들다
-go over                                                          이해 못하다
+go over                                                          검토하다/반복설명하다/넘어가다
 break down                                     복잡한 것을 쉽게 설명하다/분석하다
 rule out                                                         배제하다
 stand out                                                        두드러지다

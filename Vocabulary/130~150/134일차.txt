@@ -34,12 +34,7 @@ according to sources                                        소식통에 따르�
 by all accounts                                             모든 정황으로 볼 때
 as matters stand                                            현 상황으로는
 
-과거의 습관/상태	used to + 동사원형	~하곤 했다 (지금은 안 함)	
-I used to swim a lot.
-
-~에 익숙하다	be used to + 명사/동명사	~에 익숙하다	
-I am used to living alone.
-
-~에 익숙해지다 (과정)	get used to + 명사/동명사	
-~에 익숙해지다 (점점 익숙해지는 중)
-I'm getting used to the noise.
+be used to + 동사원형       (목적을 위해 사용되다)
+used to + 동사원형	        ~하곤 했다 (지금은 안 함) 과거의 습관/상태
+be used to + 명사/동명사	~에 익숙하다 ~에 익숙하다	
+get used to + 명사/동명사	~에 익숙해지다(과정)

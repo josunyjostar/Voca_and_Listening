@@ -1,9 +1,10 @@
-dwindle                                                     줄어들다/감소하다
+dwindle*                                                    줄어들다/감소하다
+despicable*                                                 비열한/경멸할 만한
 downcast                                                    의기소침한/우울한
 delirious                                                   정신없는
-despicable                                                  비열한/경멸할 만한
 devious                                                     교활한
 disposition                                                 성격/배치
+patent                                                      특허를 받다
 delve                                                       파헤치다/조사하다
 dawdle                                                      꾸물거리다
 desolate                                                    황폐한/쓸쓸한
@@ -32,7 +33,6 @@ dull                                                        둔한
 tabulate                                                    표로 만들다
 
 causation(발음)                                             인과적 관계
-patent                                                      특허를 받다
 exclusive                                                   독점적인
 extensive                                                   광범위한
 sawdust                                                     톱밥

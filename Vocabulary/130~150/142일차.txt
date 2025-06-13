@@ -3,6 +3,7 @@ exhaustive                                                  철저한, 완전한
 ephemeral                                                   일시적인, 덧없는
 arbitrage                                                   차익거래
 benefit                                                     이득을보다(자동사)
+insecurity                                                  불안감
 
 strike down                                                 폐지하다/(판결을)뒤집다
 reaction appears mixed                                      반응이 엇갈려 보인다
@@ -12,7 +13,6 @@ coordination                                                조화
 undernourished                                              영양결핍의
 nourish                                                     영양분을 공급하다
 secure                                                      확보하다/보호하다/안전한
-insecurity                                                  불안감
 effect                                                      영향
 start out on                                                ~을 시작하다
 significance                                                중요성/의미

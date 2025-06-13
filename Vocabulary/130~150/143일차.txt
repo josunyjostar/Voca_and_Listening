@@ -1,14 +1,14 @@
+discharged                                                  퇴원/석방하다/해고하다
+confidentiality                                             비밀리        
 refrain                                                     삼가다
 dither                                                      망설이다
-vacillate                                                   망설이다
-falter                                                      망설이다/흔들리다 
+vacillate                                                   망설이다/흔들리다 
+falter                                                      망설이다
 stall                                                       망설이다
 intensify                                                   심해지다/강화하다
 intensive                                                   집중적인
-confidentiality                                             비밀리        
 the first set                                               첫 번째 무리/집단      
 pyrexia                                                     발열
-discharged                                                  퇴원/석방하다/해고하다
 aristocratic                                                귀족(적)인
 sorely                                                      너무
 befitting                                                   어울리는
@@ -41,7 +41,9 @@ right on the money                                          정확히 맞다
 third party                                                 제3자
 
 While others were being cautious and reading the room 남들이 눈치보고 분위기 살필 때 
-go out of one's way 
+
+go out of one's way 특별히 노력하다
 He went out of his way to avoid meeting his ex-girlfriend.
-see fit
+
+see fit 적절하다고 생각하다
 I don't see fit to discuss this matter further.

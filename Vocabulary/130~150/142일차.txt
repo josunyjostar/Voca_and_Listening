@@ -4,6 +4,7 @@ ephemeral                                                   일시적인, 덧없
 arbitrage                                                   차익거래
 benefit                                                     이득을보다(자동사)
 insecurity                                                  불안감
+endorse                                                     지지하다, 승인하다
 
 strike down                                                 폐지하다/(판결을)뒤집다
 reaction appears mixed                                      반응이 엇갈려 보인다
@@ -20,14 +21,13 @@ equivocate                                                  애매하게 말하�
 evoke                                                   bring to mind/떠올리게 하다
 exhilarate                                                  흥분시키다
 eccentric                                                   특이한/괴짜 같은
-endorse                                                     지지하다, 승인하다
 articulate                                                  유창한/분명히 표현하다
 erratic                                                     변덕스러운/일정하지 않은
 embrace                                                     포옹하다/받아들이다
 envision                                                    상상하다/그려보다
 
 eclipse                                                     가리다/능가하다
-elate                                                       기쁘게 하다/들뜨게 하다
+elate                                                       기쁘게 하다
 embellish                                                   꾸미다/과장하다
 engulf                                                      삼키다, 압도하다
 explicit                                                    명시적인, 분명한

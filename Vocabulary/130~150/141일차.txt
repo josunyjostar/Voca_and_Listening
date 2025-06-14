@@ -1,5 +1,5 @@
 dwindle*                                                    줄어들다/감소하다
-despicable*                                                 비열한/경멸할 만한
+despicable*                                                 경멸할 만한
 downcast                                                    의기소침한/우울한
 delirious                                                   정신없는
 deliberate                                                  의도적인/신중한
@@ -21,8 +21,8 @@ decree                                                      포고하다/법령
 defiant                                                     반항적인
 deft                                                        능숙한
 demeanor                                                    태도
-disarray                                                    무질서
 demise                                                      죽음
+disarray                                                    무질서
 denounce                                                    비난하다
 depict                                                      묘사하다
 deteriorate                                                 악화되다

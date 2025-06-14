@@ -1,29 +1,39 @@
 gape                                                        입을 벌리다, 멍하니 보다
+gawk                                                        멍하니 보다
 garner                                                      모으다, 획득하다
-garrulous                                                   수다스러운, 말 많은
-gaunt                                                       야윈, 쇠약한
-gawk                                                        멍하니 보다, 구경하다
-genial                                                      다정한, 친근한
+garrulous                                                   수다스러운
+gaunt                                                       야윈
+genial                                                      다정한
 configuration                                               환경 설정
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
+apprehend                                                   체포하다
+apprehensive                                                걱정되는
+apprehensible                                               이해할 수 있는
+happened                                                    우연히 ~이다/(일이)발생하다
+leafy                                                       잎이 무성한
+stimulant                                                   흥분제
+speak up                                                    목소리를 내다
+developments                                                변화/동향/발전
+study                                                       살펴보다/연구하다
+as                                                          ~하는동안에/~때문에/~만큼/~에 따라
+be to blame for                                             ~의 원인이다/~에 대한 책임이 있었다
+
+gruff                                                       퉁명스러운
+grope                                                       더듬다
+graze                                                       스치다, 풀을 뜯다
+grovel                                                      굽신거리다
+gullible                                                    잘 속는
+haggard                                                     초췌한
+guile                                                       교활함
+
+inept                                                       서투른
+grim                                                        냉혹한
+genteel                                                     품위 있는
+grudge                                                      원한
+germane                                                     적절한, 관련 있는
+giddy                                                       어지러운, 들뜬
+glisten                                                     반짝이다
+glutton                                                     대식가
+goad                                                        자극하다
+gratify                                                     만족시키다
+grandiose                                                   웅장한, 거창한
+gracious                                                    정중한

@@ -1,4 +1,4 @@
-agitate                                                     뒤흔들다
+agitate*                                                    뒤흔들다
 depress                                                     우울하게 만들다
 covert                                                      은밀한 
 furtive                                                     은밀한 
@@ -24,15 +24,15 @@ dehumanize                                                  인간성을 말살�
 exempt                                                      면제된
 social stigma                                               사회적낙인
 flawlessly                                                  흠없이
-for once                                                    이례적으로
-go overboard                                                지나치게 ~하다
-go off                                                      폭발하다/맛이가다
 symmetry                                                    대칭/균형
 dispensable                                                 불필요한
 incompressible                                              압축 불가능한
+continuity                                                  연속성
+for once                                                    이례적으로
+go overboard                                                지나치게 ~하다
+go off                                                      폭발하다/맛이가다
 fuzzy                                                       모호한/흐릿한
 turbulence                                                  난기류, 혼란
-continuity                                                  연속성
 up in the air                                               미정인 상태
 at rest                                                     정지해 있는
 rest energy                                                 고유에너지

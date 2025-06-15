@@ -1,60 +1,43 @@
+urge                                                    재촉하다/권고하다/충동
 hale                                                    건강한
-halt                                                    정지하다
-hamper                                                  방해하다
+inhale                                                  숨을 들이마시다
 hapless                                                 불운한
-harass                                                  괴롭히다
 hardy                                                   강인한
-hasty                                                   성급한
 haunt                                                   출몰하다, 괴롭히다
-haven                                                   피난처
 heed                                                    주의하다
 heinous                                                 극악한
-hinder                                                  방해하다
 hoard                                                   비축하다
-hoist                                                   끌어올리다
 homage                                                  경의
 homicide                                                살인
 hone                                                    연마하다
 huddle                                                  웅크리다
 hurl                                                    던지다
 husk                                                    껍질
+immerse                                                 담그다, 몰두하다
+
+imperative                                              필수적인
+impeccable                                              완벽한
+inane                                                   무의미한
+incessant                                               끊임없는
+indelible                                               지워지지 않는
+incongruous                                             어울리지 않는
+impede                                                  방해하다
+indict                                                  기소하다
+indolent                                                게으른
+implacable                                              무자비한
+
+impartial                                               공정한
+impoverish                                              가난하게 하다
+impromptu                                               즉석의
+incite                                                  선동하다
 hypocrite                                               위선자
 idealize                                                이상화하다
 idle                                                    게으른, 한가한
 ignite                                                  점화하다
 illuminate                                              비추다, 밝히다
-immerse                                                 담그다, 몰두하다
-imminent                                                임박한
-impartial                                               공정한
-impeccable                                              완벽한
-impede                                                  방해하다
-imperative                                              필수적인
-impetus                                                 자극, 추진력
-implacable                                              무자비한
-imply                                                   암시하다
-impoverish                                              가난하게 하다
-impromptu                                               즉석의
-inane                                                   무의미한
-incessant                                               끊임없는
-incite                                                  선동하다
-incongruous                                             부조화한
-indelible                                               지워지지 않는
-indict                                                  기소하다
-indolent                                                게으른
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
+hoist                                                   끌어올리다
+haven                                                   피난처
+hamper                                                  방해하다
+hinder                                                  방해하다
+halt                                                    정지하다
+hasty                                                   성급한

@@ -33,3 +33,4 @@ infer                                                       추론하다
 inhabit                                                     거주하다
 innate                                                      타고난
 insulate                                                    절연하다/보호하다
+awhile back                                                 수 개월 전에

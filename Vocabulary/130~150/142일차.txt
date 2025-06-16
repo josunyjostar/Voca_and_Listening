@@ -1,6 +1,6 @@
 underrepresented                                            소외당한
-exhaustive                                                  철저한, 완전한
-ephemeral                                                   일시적인, 덧없는
+exhaustive                                                  철저한/완전한
+ephemeral                                                   일시적인/덧없는
 arbitrage                                                   차익거래
 benefit                                                     이득을보다(자동사)
 insecurity                                                  불안감

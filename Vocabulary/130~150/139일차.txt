@@ -1,7 +1,7 @@
 bewilder                                                    당황시키다
 brisk                                                       활발한/빠른
-seize                                                       체포하다/장악하다/몰수하다
-defeat                                                      무너뜨리다/무산시키다/저지하다
+seize                                                  체포하다/장악하다/몰수하다
+defeat                                               무너뜨리다/무산시키다/저지하다
 archaic                                                     구식의
 aversion                                                    혐오
 bleak                                                       절망적인 
@@ -20,6 +20,7 @@ push back                                                   미루다
 hard calls                                                  어려운 결정
 abusive                                                     학대하는
 terms                                                       조건들
+in terms of                                                 ~의 관점에서
 call                                                        판정
 confederation                                               연합
 accuracy                                                    정확도

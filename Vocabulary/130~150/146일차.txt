@@ -3,7 +3,7 @@ alternately                                                 번갈아가며
 bipartite                                                   이분된
 
 insulate                                                    절연/단열/방음 처리하다
-appeared                                          게재되엇다/발표되엇다/나타나다/…인 것 같다
+appeared                                  게재되엇다/발표되엇다/나타나다/…인 것 같다
 sanction                                                    제재하다/제재/승인
 interest                                                    지분/이자
 reduced demand                                              수요감소
@@ -27,13 +27,13 @@ tractable                                                   다루기쉬운
 odor                                                        냄새
 urine                                                       소변
 stomach                                                     위(장기)
-faint                                                       희미한, 기절하다
-fiend                                                       악마, 광신자
-flair                                                       재능, 감각
-flimsy                                                      얇은, 허술한
+faint                                                       희미한/기절하다
+fiend                                                       악마/광신자
+flair                                                       재능/감각
+flimsy                                                      얇은/허술한
 folly                                                       어리석음
 forbear                                                     참다, 자제하다
-forebode                                                    예감하다, 불길한 징조를 보이다
+forebode                                             예감하다, 불길한 징조를 보이다
 forsake                                                     버리다, 포기하다
 foul                                                        더러운, 반칙의
 fret                                                        초조해하다

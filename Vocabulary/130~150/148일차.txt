@@ -3,7 +3,7 @@ hale                                                    건강한
 inhale                                                  숨을 들이마시다
 hapless                                                 불운한
 hardy                                                   강인한
-haunt                                                   출몰하다, 괴롭히다
+haunt                                                   출몰하다/괴롭히다
 heed                                                    주의하다
 heinous                                                 극악한
 hoard                                                   비축하다
@@ -13,19 +13,21 @@ hone                                                    연마하다
 huddle                                                  웅크리다
 hurl                                                    던지다
 husk                                                    껍질
-immerse                                                 담그다, 몰두하다
-
+immerse                                                 담그다/몰두하다
 imperative                                              필수적인
-impeccable                                              완벽한
+
 inane                                                   무의미한
-incessant                                               끊임없는
+implacable                                              무자비한
 indelible                                               지워지지 않는
+impeccable                                              완벽한
+
+incessant                                               끊임없는
 incongruous                                             어울리지 않는
+indolent                                                게으른
 impede                                                  방해하다
 indict                                                  기소하다
-indolent                                                게으른
-implacable                                              무자비한
 
+illuminate                                              비추다/밝히다
 impartial                                               공정한
 impoverish                                              가난하게 하다
 impromptu                                               즉석의
@@ -34,10 +36,9 @@ hypocrite                                               위선자
 idealize                                                이상화하다
 idle                                                    게으른, 한가한
 ignite                                                  점화하다
-illuminate                                              비추다, 밝히다
 hoist                                                   끌어올리다
 haven                                                   피난처
 hamper                                                  방해하다
 hinder                                                  방해하다
-halt                                                    정지하다
+halt                                                    중단시키다
 hasty                                                   성급한

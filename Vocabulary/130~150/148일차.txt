@@ -1,11 +1,9 @@
 urge                                                    재촉하다/권고하다/충동
-hale                                                    건강한
 inhale                                                  숨을 들이마시다
 hapless                                                 불운한
 hardy                                                   강인한
 haunt                                                   출몰하다/괴롭히다
 heed                                                    주의하다
-heinous                                                 극악한
 hoard                                                   비축하다
 homage                                                  경의
 homicide                                                살인
@@ -20,13 +18,14 @@ inane                                                   무의미한
 implacable                                              무자비한
 indelible                                               지워지지 않는
 impeccable                                              완벽한
+indolent                                                게으른
+heinous                                                 극악한
+hale                                                    건강한
 
 incessant                                               끊임없는
 incongruous                                             어울리지 않는
-indolent                                                게으른
 impede                                                  방해하다
 indict                                                  기소하다
-
 illuminate                                              비추다/밝히다
 impartial                                               공정한
 impoverish                                              가난하게 하다

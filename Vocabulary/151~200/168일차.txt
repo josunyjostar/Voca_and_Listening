@@ -15,23 +15,6 @@ Liable - 책임 있는/~하기 쉬운
 Libel - 명예훼손(문서)
 Linger - 맴돌다/오래 머무르다
 Lithe - 유연한
-Loathe - 혐오하다
-Loom - 어렴풋이 나타나다
-Loot - 약탈품/훔치다
-Lucid - 명료한
-Lucrative - 수익성 있는
-Ludicrous - 터무니없는
-Lugubrious - 침울한
-Lull - 잠깐의 고요/달래다
-Luminous - 빛나는
-Lurk - 숨어 있다
-Lustrous - 광택 있는
-Macabre - 소름 끼치는
-Magnate - 거물(재벌)
-Malady - 질병
-Malaise - 불쾌감/불안
-Malice - 악의
-Malleable - 유연한(성격)/주조 가능한
 Mammoth - 거대한
 Mandate - 권한/명령하다
 Maneuver - 기동/계략
@@ -67,7 +50,19 @@ Menial - 하찮은(일)
 Mentor - 조언자
 Mercenary - 돈에 탐닉하는/용병
 Mercurial - 변덕스러운
-
+jumble                                                      뒤섞이다
+juncture                                                    중요한 순간
+keen                                                        예리한
+kindle                                                      불붙이다/자극하다
+knack                                                       재능
+knead                                                       반죽하다
+lacerate                                                    찢다
+laggard                                                     느림보
+lament                                                      슬퍼하다
+lampoon                                                     풍자하다
+languid                                                     무기력한
+lanky                                                       마르고 길쭉한
+loathe                                                      혐오하다
 
 
 

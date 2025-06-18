@@ -1,5 +1,5 @@
 intensify                                                   심해지다/강화하다
-discharge                                      퇴원시키다/석방,해고하다/방출,배출하다
+discharge                                    퇴원시키다/석방,해고하다/방출,배출하다
 confidentiality                                             비밀
 refrain                                                     삼가다
 dither                                                      망설이다
@@ -7,7 +7,7 @@ vacillate                                                   망설이다/흔들�
 falter                                                      망설이다
 stall                                                       망설이다
 intensive                                                   집중적인
-the first set                                               첫 번째 무리/집단      
+the first set                                             첫 번째 무리/집단      
 pyrexia                                                     발열
 aristocratic                                                귀족(적)인
 sorely                                                      너무

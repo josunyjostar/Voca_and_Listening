@@ -1,41 +1,12 @@
 
-Lapse - 실수/경과하다
-Lash - 채찍질하다/매다
-Latent - 잠재적인
-Laud - 칭찬하다
-Lavish - 풍부한/호화로운
-Lax - 느슨한/부주의한
-Leery - 의심하는
-Legible - 읽기 쉬운
-Lethargic - 무기력한
-Levity - 경박함
-Levy - 부과(세금 등)
-Lewd - 음란한
-Liable - 책임 있는/~하기 쉬운
-Libel - 명예훼손(문서)
-Linger - 맴돌다/오래 머무르다
-Lithe - 유연한
-Mammoth - 거대한
-Mandate - 권한/명령하다
-Maneuver - 기동/계략
-Mangle - 짓이기다
-Manifest - 명백한/나타내다
-Miffed - 화가 난
-Mirth - 웃음/유쾌함
-Mischievous - 장난스러운
-Miser - 구두쇠
-Mitigate - 완화하다
-Modest - 겸손한/적당한
-Mollify - 달래다
-Momentous - 중대한
-Monotonous - 단조로운
+
+
+
+
 Morbid - 병적인/불길한
-Morsel - 작은 조각
-Mundane - 평범한
 Munificent - 아주 관대한
 Murky - 흐릿한/의심스러운
 Muse - 숙고하다/영감
-Nadir - 최저점
 Narcissist - 자기애적 인간
 Nefarious - 사악한
 Negligent - 태만한
@@ -49,12 +20,7 @@ Meek - 온순한
 Menial - 하찮은(일)
 Mentor - 조언자
 Mercenary - 돈에 탐닉하는/용병
-Mercurial - 변덕스러운
-jumble                                                      뒤섞이다
-juncture                                                    중요한 순간
-keen                                                        예리한
-kindle                                                      불붙이다/자극하다
-knack                                                       재능
+
 knead                                                       반죽하다
 lacerate                                                    찢다
 laggard                                                     느림보

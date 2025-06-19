@@ -4,34 +4,34 @@ dementia                                                    치매
 probability                                                 개연성/확률
 lapse                                                       실수/경과하다
 latent                                                      잠재적인
-lavish                                                      풍부한/호화로운
+lavish                                                      호화로운
+lithe(발음)                                                 유연한
 legible                                                     읽기 쉬운
 liable                                                      책임 있는/~하기 쉬운
 
-lithe(발음)                                                 유연한
 lethargic                                                   무기력한
-lax                                                         느슨한/부주의한
-leery                                                       의심하는
-levity                                                      경박함
 levy                                                        추가 부담금/세금
 libel                                                       명예훼손(문서)
 linger                                                      맴돌다/오래 머무르다
 mollify                                                     달래다
 maneuver                                                    계략/기동
-manifest                                                    명백한/나타내다
+juncture                                                    중요한 순간
+jumble                                                      뒤섞이다
+mangle                                                      짓이기다
+morsel                                                      작은 조각
 
+leery                                                       의심하는
+lax                                                         느슨한/부주의한
+levity                                                      경박함
+manifest                                                    명백한/나타내다
 modest                                                      적당한
 momentous                                                   중대한
 monotonous                                                  단조로운
-morsel                                                      작은 조각
 nadir                                                       최저점
-mangle                                                      짓이기다
-jumble                                                      뒤섞이다
-juncture                                                    중요한 순간
 keen                                                        예리한
 kindle                                                      불붙이다/자극하다
 knack                                                       재능/요령
-Whatshisface                                                뭐시기
+whatshisface                                                뭐시기
 fugitive(발음)                                              도망자
 
 we're all about transparency these days. 

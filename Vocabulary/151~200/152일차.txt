@@ -1,30 +1,30 @@
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
-makeup                                                      구조
+relentless                                                  끈질긴
+passages                                                    지문(문단)
+powered through                                             해내왔다
+pull off                                                    (힘든일을)해내다
+pay off                                                     성과를 내다
+
+de facto                                                    사실상의
+ubiquitous                                                  매우 흔한/어디에나 있는
+asymptotically                                              점근적으로
+redistribution                                              재분배
+concatenation                                               연결/결합
+underflow                                                   최소치 미만
+extrapolation                                               추정/외삽
+interpolation                                               보간/삽입
+concurrency                                                 동시성
+encipherment                                                암호화
+latency                                                     대기 시간
+contention                                                  경쟁/충돌/논쟁
+replication                                                 복제
+parameterized                                               매개변수화된
+compression                                                 압축
+tradeoff                                                    거래/교환
+
+carry out                                                   수행하다
+trade off                                                   균형을 맞추다/절충하다
+page in                                                     메모리로 불러오다
+lock down                                                   잠그다
+runaway overhead                                            통제 불가능한 오버헤드
+on the fly                                                  즉석에서/실시간으로
+flavor similar to                                           ~와 유사한 특징

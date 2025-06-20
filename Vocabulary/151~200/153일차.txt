@@ -1,26 +1,24 @@
 m-ary                                                       m개 분기를 가진
 fanout                                                      분기 수/확산도
-traversal                                                   순회/탐색
 clustered                                                   클러스터된/집약된
 aggregate                                                   집계하다/총합하다
 disaggregate*                                               분산된/분해된
-interval                                                    구간/간격
 sequential                                                  순차적인
 predecessor                                                 전임자, 이전 노드
 successor                                                   후임자, 다음 노드
 lexicographic                                               알파벳 순서의
 decompression                                               압축 해제
-extension                                                   확장
 implementing                                                구현하다
 solidity                                                    견고함
 endurance                                                   내구성
 uncivilized                                                 미개한/야만적인
 elaborate                                                   자세히 설명하다/정교한
-vicinity                                                    근처, 인근
+vicinity                                                    근처/인근
+come to terms with                                          받아들이다/인정하다
 
-branching factor                                            분기 인수
 split up                                                    분할하다
 work back up                                                다시 거꾸로 올라가다
+branching factor                                            분기 인수
 fan out                                                     부채꼴로 퍼지다
 take up                                                     차지하다
 bring up                                                    제기하다
@@ -30,5 +28,5 @@ aggregate into                                              ~로 집계하다
 in turn                                                     차례로, 결과적으로
 no more than                                                ~보다 많지 않은
 on the order of                                             대략 ~정도의
-erring on the side of caution                               신중함을 택하다
+erring on the side of caution                               안전한 쪽을 택하다
 as outlined above                                           위에서 설명한 대로

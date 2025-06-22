@@ -4,30 +4,22 @@
 
 
 
-Murky - 흐릿한/의심스러운
-Muse - 숙고하다/영감
-Narcissist - 자기애적 인간
-Nefarious - 사악한
-Negligent - 태만한
-Nimble - 재빠른
-Mar - 손상시키다
-Marvel - 경이로움
-Meager - 빈약한
-Meddle - 간섭하다
-Mediocre - 평범한/중간 정도의
-Meek - 온순한
-Menial - 하찮은(일)
-Mentor - 조언자
-Mercenary - 돈에 탐닉하는/용병
+murky - 흐릿한/의심스러운
+muse - 숙고하다/영감
+narcissist - 자기애적 인간
+nefarious - 사악한
+negligent - 태만한
+nimble - 재빠른
+mar - 손상시키다
+marvel - 경이로움
+meager - 빈약한
+meddle - 간섭하다
+mediocre - 평범한/중간 정도의
+meek - 온순한
+menial - 하찮은(일)
 
-knead                                                       반죽하다
-lacerate                                                    찢다
-laggard                                                     느림보
-lament                                                      슬퍼하다
-lampoon                                                     풍자하다
-languid                                                     무기력한
-lanky                                                       마르고 길쭉한
-loathe                                                      혐오하다
+
+
 
 
 

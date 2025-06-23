@@ -243,24 +243,110 @@ he's been cooped up in some hideout this whole time?
 -Or he might have assumed someone else's identity.
 ------ 라자로 스키너 평판
 
+------ 쉘터 컴퍼니
+-A company that sells survival shelters?
 
+-Yes.
 
+There's a record of Skinner buying one from them eight years ago.
 
+-Makes sense.
+He definitely could spend years in a bunker without having any contact with the outside world.
 
+-The only problem is that company isn't currently reachable by phone or email...
 
+-Axel and Chris will go check out the shelter.
+Doug and Leland, you two pay a visit to the their offices.
+Elaina, access as many surveillance cameras around the world as you can
+and then run facial recognition for Dr. Skinner.
 
+-Sure thing.
 
+-If he changed his appearance somehow, this won't work.
+But this is the only chance we have.
+------ 쉘터 컴퍼니
 
+------ 라자로 팀 합류 계기 죄목 (악셀-크리스)
+-So, hey, you were doing time in the slammer, right?
 
+-Yeah. Sort of.
 
+-How many years did you get?
+Like, what'd you do?
 
+-Let me see...
+I think it's up to 888 years.
 
+[ Tires screech ]
 
+-Get the hell out of here, you psycho!
 
+-What?
 
+-I'm not driving with freakin' Leatherface!
 
+-Hold on!
 
+-That's not a sentence you get for just killing, one person!
 
+-Let me explain...
 
+-How many people did you murder?
 
+-Be cool...
 
+Did'ja know that they double your sentence every time you break out of prison?
+
+-And?
+
+-Well, I was originally got three years,
+but I kept escaping so much that before I knew it, 
+my sentence had grown to some ridiculous number.
+
+-Ah...
+
+Why would you try to escape so many times?
+
+-Let's just say...
+it's a hobby of mine.
+
+-You've gotta be kidding me.
+Weirdo.
+------ 라자로 팀 합류 계기 죄목 (악셀-크리스)
+
+------ 라자로 팀 합류 계기 죄목 (더그-릴랜드)
+-Hey, Doug, I noticed you've got one of those things on your wrist...
+What does Hersch have on you?
+
+-Why do you wanna know?
+
+-Just curious.
+
+-You know, curiosity killed the cat.
+
+-Did you really do something that bad?
+
+-I'm just messing with you, Leland.
+In my case I got roped into this for some lousy misdemeanor...
+
+-Misdemeanor... really?
+
+-Enough about me, now it's your turn...
+-Honestly, there's nothing crazy about my story,
+Just some small-time petty thefts.
+
+-I would say you're pretty much minor-league.
+
+-Ugh...
+
+-On the other hand, Elaina is not minor-league.
+
+-Really? Are you serious?
+
+-She's a notorious hacker who's committed crimes on a global scale.
+
+-Wow.
+She's always so quiet when I'm around her...
+
+-She might just be the biggest wildcard on the team.
+------ 라자로 팀 합류 계기 죄목 (더그-릴랜드)

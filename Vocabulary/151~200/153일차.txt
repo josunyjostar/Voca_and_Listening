@@ -27,9 +27,9 @@ aggregate into                                              ~로 집계하다
 in turn                                                     차례로, 결과적으로
 bring up                                                    제기하다
 no more than                                                ~보다 많지 않은
-on the order of                                             대략 ~정도의
 erring on the side of caution                               안전한 쪽을 택하다
 as outlined above                                           위에서 설명한 대로
+on the order of                                             대략 ~정도의
 
 The process takes on the order of two hours.
 그 과정은 대략 2시간 정도 걸린다

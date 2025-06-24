@@ -113,7 +113,6 @@ Or selling it for a ton of money.
 
 -Don't even start.
 Listen up, everyone...
-
 This team wasn't formed for personal gain or profit.
 
 -Okay then, what's it for?
@@ -126,15 +125,12 @@ We're here to save the world.
 -That's cool.
 We're like the Avengers or something.
 
--Huh?
-
 -In any case, Finding Skinner is the only thing that matters now.
 
 -Okay...
 I just need to know one thing.
 Now don't be shy...
 Has anybody here used Hapna?
-
 ------
 -For the time being, this will be our base of operations.
 And just so we're clear, I was against you joining us.
@@ -143,11 +139,10 @@ And just so we're clear, I was against you joining us.
 
 -People like you who run around showboating are nothing but a burden to the team.
 
-I gotta say,
+boo, I gotta say,
 don't cha think this place a bit too rundown for us world-saving superheroes?
 
 -It's a "vintage style" disguise.
-
 -Hold out your hand,
 it'll scan your vein pattern to unlock.
 
@@ -156,22 +151,20 @@ it'll scan your vein pattern to unlock.
 -We did it while you were sleeping.
 ------라자로 팀 첫 미팅
 
-------라자로팀 스키너 배경 설명
+------ 스키너 배경 설명1
 -This is Deniz Skinner, Born in Istanbul.
 Assuming he's still alive, he would be 56 years old.
 Lost both parents to local unrest at the age of 12.
 He's remained alone ever since.
 No wife, no kids.
--All alone in the world, literally.
 
 -He enrolled at ETH Zurich when he was 16,
 got into Cambridge at 20,
-and while there made many significant accomplishments.
-
+and while there /made many significant accomplishments.
 People were starting to call him the next Einstein...
-------라자로팀 스키너 배경 설명
+------ 스키너 배경 설명1
 
-------라자로팀 스키너 범죄동기 설명
+------ 스키너 배경 설명2
 -Question!
 Shouldn't we be focused on other stuff,
 like his personality or whatever else can give us insight into his motives?
@@ -193,8 +186,7 @@ where he would press countries to do more.
 
 This speech here
 was one of the most famous he gave at the UN.
-
-------라자로팀 스키너 범죄동기 설명
+------ 스키너 배경 설명2
 
 ------스키너 un 연설
 -I am simply here as a scientist who is stating the facts.

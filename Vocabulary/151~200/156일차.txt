@@ -1,15 +1,11 @@
-celsius                                                     섭씨의
-discoloration                                               변색
+compendious                                                 필요한 내용을 담은
 knead                                                       반죽하다
-lacerate                                                    찢다
 laggard                                                     느림보
-lament                                                      슬퍼하다
+lament                                                      한탄하다
 lampoon                                                     풍자하다
 languid                                                     무기력한
-lanky                                                       마르고 길쭉한
-loathe                                                      혐오하다
-compendious                                                 필요한 내용을 담은
 
+lacerate                                                    찢다
 murky                                                       흐릿한/의심스러운
 muse                                                        사색하다/영감
 nefarious                                                   사악한
@@ -21,15 +17,19 @@ subtle                                                      미묘한
 insensible                                                  무감각한
 gutter                                                      배수로
 
+lanky                                                       마르고 길쭉한
+loathe                                                      혐오하다
+celsius                                                     섭씨의
+discoloration                                               변색
 callow                                                      미숙한
 enfold                                                      감싸다/안다
 erstwhile                                                   지금까지의
 impassive                                                   무표정한
-be subjected to + 명사                                      ~을 당하다
 tend                                                        돌보다
 shed                                                        밝히다
 coop up                                                     칩거하다
 fall for                                                    …에 속다  
+be subjected to + 명사                                      ~을 당하다
 
 All employees will be subjected to a background check
 모든 직원들은 신원조사를 받게 될 것이다.

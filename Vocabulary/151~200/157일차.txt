@@ -9,6 +9,7 @@ blow over                                                   (폭풍등이) 가�
 branch out                                                  (새 분야로) 진출하다/확장하다
 brush off                                                   무시하다/일축하다
 buckle down                                                 본격적으로 착수하다/열심히 하다
+
 nimble                                                      재빠른
 mar                                                         손상시키다
 marvel                                                      경이로움
@@ -25,6 +26,7 @@ outline                                                     개요를 제시하�
 azimuthal				                                    방위각의
 perturbation				                                작은 변화
 interleave                                                  번갈아가며 실행하다
+
 take into account                                           ~을 고려하다
 degrade to                                                  ~으로 저하되다
 resemble                                                    ~와 닮다

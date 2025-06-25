@@ -1,10 +1,10 @@
 compendious                                                 필요한 내용을 담은
 knead                                                       반죽하다
-laggard                                                     느림보
 lament                                                      한탄하다
-lampoon                                                     풍자하다
 languid                                                     무기력한
 
+laggard                                                     느림보
+lampoon                                                     풍자하다
 lacerate                                                    찢다
 murky                                                       흐릿한/의심스러운
 muse                                                        사색하다/영감

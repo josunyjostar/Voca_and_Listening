@@ -24,7 +24,7 @@ fan out                                                     부채꼴로 퍼지�
 shift over                                                  이동하다
 distribute across                                           ~에 걸쳐 분산하다
 aggregate into                                              ~로 집계하다
-in turn                                                     차례로, 결과적으로
+in turn                                                     차례로/결과적으로
 bring up                                                    제기하다
 no more than                                                ~보다 많지 않은
 erring on the side of caution                               안전한 쪽을 택하다
@@ -33,3 +33,6 @@ on the order of                                             대략 ~정도의
 
 The process takes on the order of two hours.
 그 과정은 대략 2시간 정도 걸린다
+
+Work problems are taking up all my mental energy.
+업무 문제들이 내 정신적 에너지를 모두 차지하고 있다

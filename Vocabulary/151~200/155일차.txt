@@ -28,7 +28,7 @@ monotonically increasing                                        단조 증가
 vertical strip                                                  수직 영역
 incremental method                                              점진적 방법
 two-dimensional normal distribution                             이차원 정규 분포
-it follows that                                                 ~라는 결론이 도출된다
+it follows that                                             ~라는 결론이 도출된다
 with respect to                                                 ~에 관하여
 in terms of                                                     ~의 관점에서
 assume that                                                     ~라고 가정하자

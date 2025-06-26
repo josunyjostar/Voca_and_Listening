@@ -19,7 +19,7 @@ parameterized                                               매개변수화된
 compression                                                 압축
 tradeoff                                                    거래/교환
 asymptotically                                              점근적으로
-ubiquitous                                                  매우 흔한/어디에나 있는
+ubiquitous                                                매우 흔한/어디에나 있는
 de facto                                                    사실상의
 carry out                                                   수행하다
 trade off                                                   균형을 맞추다/절충하다

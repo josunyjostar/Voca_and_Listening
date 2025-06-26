@@ -1,15 +1,11 @@
-be all about ~                                              ~을 중시하다
 variety                                                     품종/다양성
-dementia                                                    치매
 probability                                                 개연성/확률
-lapse                                                       실수/경과하다
 latent                                                      잠재적인
-lavish                                                      호화로운
 lithe(발음)                                                 유연한
+lethargic(발음)                                             무기력한
+
 legible                                                     읽기 쉬운
 liable                                                      책임 있는/~하기 쉬운
-
-lethargic(발음)                                             무기력한
 levy                                                        추가 부담금/세금
 libel                                                       명예훼손(문서)
 maneuver                                                    계략/기동
@@ -17,6 +13,9 @@ manifest                                                    명백한/나타내�
 juncture                                                    중요한 순간
 linger                                                      맴돌다/오래 머무르다
 
+dementia                                                    치매
+lapse                                                       실수/경과하다
+lavish                                                      호화로운
 mollify                                                     달래다
 jumble                                                      뒤섞이다
 mangle                                                      짓이기다
@@ -33,5 +32,6 @@ kindle                                                      불붙이다/자극�
 knack                                                       재능/요령
 whatshisface                                                뭐시기
 fugitive(발음)                                              도망자
+be all about ~                                              ~을 중시하다
 
 we're all about transparency these days. 

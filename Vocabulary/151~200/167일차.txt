@@ -14,13 +14,11 @@ end up - 결국 ~하게 되다
 face up to - 직시하다
 fall for - 속다, 사랑에 빠지다
 fend off - 막아내다
-ferret out - 찾아내다
-figure out - 이해하다, 해결하다
-fill in - 대신하다
+
 fizzle out - 흐지부지 끝나다
 flare up - 확 타오르다, 악화되다
 freak out - 기겁하다
-gear up - 준비하다
+
 get ahead - 성공하다
 get along - 잘 지내다
 get at - 의미하다
@@ -28,7 +26,7 @@ get by - 그럭저럭 살아가다
 get over - 극복하다
 give in - 굴복하다
 go about - 처리하다
-go against - 반대하다
+
 go for - 선택하다
 go under - 파산하다
 grow on - 점점 좋아지다
@@ -42,7 +40,7 @@ hold off - 미루다
 hold over - 연기하다
 hunker down - 단단히 준비하다
 keep at - 포기하지 않고 계속하다
-keep up - 유지하다
+
 kick around - 논의하다
 knock off - 그만두다
 lash out - 마구 화를 내다

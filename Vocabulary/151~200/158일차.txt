@@ -2,11 +2,9 @@ nonchalant                                                  무심한/태연한
 noxious                                                     유해한
 obnoxious                                                   불쾌한
 obstinate                                                   완고한
-account                                                     목격담
-set out                                                     착수하다
 obscure                                                   모호한/잘 알려지지 않은
-
 oblivious                                                   알아차리지 못하는
+
 nullify                                                     무효로 만들다
 obsess                                                      집착하다
 obsolete                                                    한물간/구식의
@@ -16,7 +14,9 @@ undermine                                                   약화시키다
 quote                                                       인용하다
 deputy minister                                             차관
 novelty                                                     새로움/신기함
+account                                                     목격담
 
+set out                                                     착수하다
 come up short                                               실패하다
 clamp down                                                  단속하다/억제하다
 crack down                                                  단속하다

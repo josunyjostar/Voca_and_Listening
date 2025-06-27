@@ -16,10 +16,10 @@ substantially                                               상당히/본질적�
 considerable                                                상당한
 exceptional                                                 예외적인
 variation                                                   변형/변화
+for the sake of                                             ~를 위해서
+to this end                                                 이를 위해
 it is worth noting that                              ~라는 점을 주목할 가치가 있다
 it should be noted that                                 ~라는 점에 주목해야 한다
-to this end                                                 이를 위해
-for the sake of                                             ~를 위해서
 working set                                                 작업 집합
 bulk-loading                                                대량 로딩
 memory footprint                                            메모리 사용량

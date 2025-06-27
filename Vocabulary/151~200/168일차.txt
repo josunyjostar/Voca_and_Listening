@@ -1,10 +1,6 @@
 
 
-paragon - 모범, 전형
-paramount - 가장 중요한
-partake - 참여하다
-paucity - 부족
-peek - 훔쳐보다, 살짝 보다
+
 peevish - 짜증을 잘 내는
 penchant - 강한 기호, 애호
 pensive - 수심에 잠긴, 깊은 생각에 잠긴
@@ -33,9 +29,7 @@ ponder - 곰곰이 생각하다
 posterity - 후세
 potent - 강력한
 pragmatic - 실용적인
-precarious - 불안정한
-precedent - 선례
-precise - 정확한
+
 predicament - 곤경
 preposterous - 말도 안 되는
 presume - 추정하다

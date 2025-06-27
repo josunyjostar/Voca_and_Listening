@@ -1,6 +1,7 @@
 variety                                                     품종/다양성
 probability                                                 개연성/확률
 latent                                                      잠재적인
+lament                                                      한탄하다
 lithe(발음)                                                 유연한
 lethargic(발음)                                             무기력한
 

@@ -16,8 +16,8 @@ elaborate                                                   자세히 설명하�
 vicinity(발음)                                              근처/인근
 come to terms with                                          받아들이다/인정하다
 
-split up                                                    분할하다
 take up                                                     차지하다
+split up                                                    분할하다
 work back up                                                다시 거꾸로 올라가다
 branching factor                                            분기 인수
 fan out                                                     부채꼴로 퍼지다

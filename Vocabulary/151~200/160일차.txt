@@ -3,7 +3,7 @@ paucity                                                     부족
 rehabilitation                                              재활
 heterogeneous                                        여러 다른 종류들로 이뤄진    
 homogeneous                                                 동종의
-serial                                                      순차적인
+serial*                                                     순차적인
 interventions*                                              해결책
 insecticide                                                 살충제
 bed nets                                                    침대용 모기장
@@ -12,7 +12,7 @@ administer                                                  시행하다/관리�
 paragon                                                     귀감/모범
 paramount                                                   가장 중요한
 peek                                                        훔쳐보다/살짝 보다
-precarious                                                  불안정한
+precarious*                                                 불안정한
 precedent                                                   선례
 
 ferret out                                                  찾아내다

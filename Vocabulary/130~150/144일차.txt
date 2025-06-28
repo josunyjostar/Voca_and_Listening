@@ -1,4 +1,4 @@
-station                                                     배치하다/주둔시키다/역
+station*                                                    배치하다/주둔시키다/역
 shape up                                                    전개되다
 stunting                                                    발육부진
 stretch*                                                    압박하다
@@ -36,7 +36,7 @@ it is spot on 정확합니다
 
 prospective students - 예비 학생들
 prospective suitors - 예비 구혼자들
-prospective writer  - 작가 지망생
+prospective writer* - 작가 지망생
 
 easier on ~에게 더 부드럽다, 덜 해롭다, 부담을 덜 준다 관용구
 their production methods are easier on the environment.

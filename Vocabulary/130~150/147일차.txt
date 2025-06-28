@@ -3,7 +3,7 @@ goad                                                        자극하다
 inept                                                       서투른
 
 genial                                                      다정한
-configuration                                               환경 설정
+configuration*                                              환경 설정
 apprehend                                                   체포하다
 apprehensive                                                걱정되는
 apprehensible                                               이해할 수 있는

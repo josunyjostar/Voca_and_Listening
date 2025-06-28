@@ -11,7 +11,7 @@ dawdle                                                      꾸물거리다
 desolate                                                    황폐한/쓸쓸한
 
 dazzle                                                      눈부시게 하다/현혹하다
-discreet                                                    비밀스런/신중한
+discreet*                                                   비밀스런/신중한
 
 drench                                                      흠뻑 적시다
 deceit                                                      속임수
@@ -31,8 +31,8 @@ dote                                                        맹목적으로 사�
 drab                                                        칙칙한/단조로운
 drowsy                                                      졸린/나른한
 dull                                                        둔한
-tabulate                                                    표로 만들다
-causation(발음)                                             인과적 관계
+tabulate*                                                   표로 만들다
+causation*(발음)                                            인과적 관계
 exclusive                                                   독점적인
 extensive                                                   광범위한
 sawdust                                                     톱밥

@@ -2,8 +2,8 @@ conspicuous*                                                눈에 띄는
 confide*                                                    털어놓다/신뢰하다
 consecutive*                                                연속적인
 coax*                                                       달래다/꾀어내다
-contrive                                                    고안하다
-condense                                                    요약하다/응축하다
+contrive*                                                   고안하다
+condense*                                                   요약하다/응축하다
 
 adopt                                                       채택하다
 burly                                                       건장한

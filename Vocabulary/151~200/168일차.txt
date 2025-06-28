@@ -78,10 +78,3 @@ reprieve - 유예, 집행 연기
 reprimand - 질책하다
 reprisal - 보복
 reproach - 꾸짖다
-
-reticent - 말이 없는
-retract - 취소하다
-reverberate - 울려 퍼지다
-reverent - 숭배하는
-revile - 욕하다
-rife - 만연한

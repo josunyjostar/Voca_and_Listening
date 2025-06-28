@@ -10,8 +10,6 @@ opulent                                                     부유한/호화로�
 ostentatious                                                과시하는/허세 부리는
 own up                                                      자백하다
 pack in                                                     그만두다
-mop up                                                      마무리하다
-pan out                                                     성공하다
 opt out                                                     빠지다
 oust                                                        내쫓다
 overbearing                                                 고압적인/거만한
@@ -27,3 +25,5 @@ ornate                                                      화려하게 장식�
 omnipotent                                                  전능한
 onset                                                       시작
 nod off                                                     꾸벅꾸벅 졸다
+mop up                                                      마무리하다
+pan out                                                     성공하다

@@ -17,7 +17,7 @@ elaborate*                                                  자세히 설명하�
 vicinity(발음)                                              근처/인근
 come to terms with                                          받아들이다/인정하다
 
-take up                                                     차지하다
+take up                                             시작/계속/차지하다/받아들이다
 split up                                                    분할하다
 work back up                                                다시 거꾸로 올라가다
 branching factor                                            분기 인수
@@ -35,5 +35,14 @@ on the order of                                             대략 ~정도의
 The process takes on the order of two hours.
 그 과정은 대략 2시간 정도 걸린다
 
+I want to take up guitar lessons next month.
+다음 달에 기타 레슨을 시작하고 싶어.
+
 Work problems are taking up all my mental energy.
 업무 문제들이 내 정신적 에너지를 모두 차지하고 있다
+
+I'll take up your offer to help with the project. 받아들이다
+프로젝트 도움 제안을 받아들이겠습니다
+
+Let's take up where we left off yesterday
+어제 중단한 부분부터 계속하자.

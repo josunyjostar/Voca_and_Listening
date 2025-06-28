@@ -1,11 +1,11 @@
-auxiliary                                                   보조의
-alternately                                                 번갈아가며 
+auxiliary*                                                  보조의
+alternately*                                                번갈아가며 
 bipartite                                                   이분된
 
 insulate                                                    절연/단열/방음 처리하다
 appeared                                  게재되엇다/발표되엇다/나타나다/…인 것 같다
 sanction                                                    제재하다/제재/승인
-interest                                                    지분/이자
+interest*                                                   지분/이자
 reduced demand                                              수요감소
 long-term                                                   장기
 near-term                                                   단기

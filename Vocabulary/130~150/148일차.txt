@@ -12,7 +12,7 @@ huddle                                                  웅크리다
 hurl                                                    던지다
 husk                                                    껍질
 immerse                                                 담그다/몰두하다
-imperative                                              필수적인
+imperative*                                             필수적인
 
 inane                                                   무의미한
 implacable                                              무자비한

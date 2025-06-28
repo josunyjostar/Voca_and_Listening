@@ -2,7 +2,7 @@ subsume                                                     포함하다
 inhibit                                                     억제하다
 succinct                                                    간결한
 elicit                                                      끌어내다
-fluctuation                                                 변동
+fluctuation*                                                변동
 
 repercussion                                                (부정적인)영향
 implement(carry out)                                        시행하다 
@@ -18,13 +18,13 @@ deviate                                                     벗어나다
 impede                                                      지연시키다
 congested                                                   혼잡한
 relief                                                      구호물자
-subsequent                                                  그 다음의
+subsequent*                                                 그 다음의
 plausible                                                   그럴듯한
 coerce                                                      강제로 ~하게 하다
 implication                                                 함축/영향/암시
-transient                                                   일시적인
+transient*                                                  일시적인
 underway                                                    진행중인
-redundant                                                   불필요한/중복된
+redundant*                                                  불필요한/중복된
 articulate                                                  명확히 표현하다
 recur                                                       재발하다
 touchdown                                                   착륙

@@ -1,6 +1,6 @@
-uniformly                                                       균일하게
-interpret                                                       해석하다/이해하다
-inequality                                                      부등식/불평등
+uniformly*                                                      균일하게
+interpret*                                                      해석하다/이해하다
+inequality*                                                     부등식/불평등
 
 segment                                                         부분
 intersect                                                       교차하다

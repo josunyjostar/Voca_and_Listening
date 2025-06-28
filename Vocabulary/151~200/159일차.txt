@@ -1,8 +1,8 @@
-assume                                              (타인의신분을)취하다/추정하다
+assume*                                             (타인의신분을)취하다/추정하다
 refute                                                      반박하다
 regress                                                     퇴보하다
 reiterate                                                   반복하다
-onerous                                                     부담스러운
+onerous(발음)                                               부담스러운
 
 palatable                                                   맛있는/받아들일 만한
 pacify                                                      진정시키다
@@ -13,17 +13,17 @@ pack in                                                     그만두다
 mop up                                                      마무리하다
 pan out                                                     성공하다
 opt out                                                     빠지다
-nod off                                                     꾸벅꾸벅 졸다
-
-ornate                                                      화려하게 장식된
-omnipotent                                                  전능한
-onset                                                       시작
 oust                                                        내쫓다
 overbearing                                                 고압적인/거만한
 recluse                                                     은둔자
-redundant                                                   불필요한/중복의
+redundant*                                                  불필요한/중복의
 refrain                                                     삼가다
+
 move on                                                     넘어가다
 nail down                                                   확정하다
 miss out                                                    놓치다
 mix up                                                      혼동하다
+ornate                                                      화려하게 장식된
+omnipotent                                                  전능한
+onset                                                       시작
+nod off                                                     꾸벅꾸벅 졸다

@@ -9,8 +9,8 @@ blow over                                             (폭풍등이) 가라앉�
 branch out                                           (새 분야로) 진출하다/확장하다
 brush off                                                   무시하다/일축하다
 buckle down                                        본격적으로 착수하다/열심히 하다
-meddle                                                      간섭하다
-mediocre                                                    평범한/중간 정도의
+meddle*                                                     간섭하다
+mediocre*                                                   평범한/중간 정도의
 
 nimble                                                      재빠른
 mar                                                         손상시키다
@@ -18,14 +18,14 @@ marvel                                                      경이로움
 meager                                                      빈약한
 meek                                                        온순한
 menial                                                      하찮은(일)
-practice                                                    수행하다/실천하다/관행
+practice*                                                   수행하다/실천하다/관행
 alloy                                                       합금
-deposit                                                     매장층/보증금
+deposit*                                                    매장층/보증금
 openness                                                    개방성
 outline                                                     개요를 제시하다
-azimuthal				                                    방위각의
-perturbation				                                작은 변화
-interleave                                                  번갈아가며 실행하다
+azimuthal*				                                    방위각의
+perturbation*			                                    작은 변화
+interleave*                                                 번갈아가며 실행하다
 
 take into account                                           ~을 고려하다
 degrade to                                                  ~으로 저하되다

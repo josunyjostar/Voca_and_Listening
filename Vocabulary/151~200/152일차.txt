@@ -4,7 +4,7 @@ powered through                                             해내왔다
 pull off                                                    (힘든일을)해내다
 pay off                                                     성과를 내다
 on the fly                                                  즉석에서/실시간으로
-contention                                                  경쟁/충돌/논쟁
+contention*                                                 경쟁/충돌/논쟁
 concatenation*                                              연결/결합
 
 underflow                                                   최소치 미만

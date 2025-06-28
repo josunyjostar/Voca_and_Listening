@@ -3,7 +3,8 @@ fanout                                                      분기 수/확산도
 clustered                                                   클러스터된/집약된
 aggregate                                                   집계하다/총합하다
 disaggregate*                                               분산된/분해된
-sequential                                                  순차적인
+sequential*                                                 순차적인
+serial*                                                     순차적인
 predecessor                                                 전임자, 이전 노드
 successor                                                   후임자, 다음 노드
 lexicographic                                               알파벳 순서의
@@ -12,7 +13,7 @@ implementing                                                구현하다
 solidity                                                    견고함
 endurance                                                   내구성
 uncivilized                                                 미개한/야만적인
-elaborate                                                   자세히 설명하다/정교한
+elaborate*                                                  자세히 설명하다/정교한
 vicinity(발음)                                              근처/인근
 come to terms with                                          받아들이다/인정하다
 

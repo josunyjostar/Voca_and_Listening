@@ -1,4 +1,4 @@
-affirm                                              단언하다 
+affirm*                                             단언하다 
 overt                                               공공연연한
 vacillate                                           (의견이)흔들리다 
 venerate      	                                    숭배하다
@@ -6,7 +6,7 @@ imbibe                                              마시다
 recede                                              물러나다
 proclaim                                            선포하다 
 yield                                               생산하다/양도하다
-delineate     	                                    기술하다
+delineate    	                                    기술하다
 
 portend                                             징후이다 
 abide                                               참다/견디다

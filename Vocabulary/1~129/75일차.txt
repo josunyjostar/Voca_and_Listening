@@ -1,17 +1,17 @@
-As it turns out,                                            결과적으로/뜻밖에도
-interdependent                                              상호의존적인
+as it turns out,                                            결과적으로/뜻밖에도
+interdependent*                                             상호의존적인
 wave front                                                  파면
 entail                                                      수반하다
 envision                                                    구상하다
 engulf                                                      완전히 에워싸다
 crest                                                 그래프(극점)/꼭대기
 fine                                                        질 높은
-susceptible                                                 민감한/예민한 
+susceptible*                                                민감한/예민한 
 
 was made public                                             공개되었다
 had the support                                             지지받았다
 name                                                        선정하다
-By the time                                                 ~할 때쯤
+by the time                                                 ~할 때쯤
 periodic                                                    주기적인
 realm                                                       영역
 ad hoc                                                  특정 상황에 맞춰진 것
@@ -28,7 +28,7 @@ dominate                                             지배하다/두드러지�
 versus                                                      ~에 비해
 wavelength                                                  파장
 amplitude                                                   진폭
-constraint                                                  제약조건
+constraint*                                                 제약조건
 dynamics                                                    역동성
 in a convincing  manner                                     설득력있는 방법으로
 derivative                                                  미분

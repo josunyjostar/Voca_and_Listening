@@ -27,7 +27,7 @@ levity                                                      경박함
 modest                                                      적당한
 momentous                                                   중대한
 monotonous                                                  단조로운
-nadir                                                       최저점
+nadir*                                                      최저점
 keen                                                        예리한
 kindle                                                      불붙이다/자극하다
 knack                                                       재능/요령

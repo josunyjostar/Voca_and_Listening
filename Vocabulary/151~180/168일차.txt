@@ -1,12 +1,7 @@
 
 
 
-peevish - 짜증을 잘 내는
-penchant - 강한 기호, 애호
-pensive - 수심에 잠긴, 깊은 생각에 잠긴
-peril - 위험
-perish - 죽다, 소멸하다
-permeate - 스며들다
+
 perplex - 혼란스럽게 하다
 persevere - 인내하며 계속하다
 pertinent - 적절한

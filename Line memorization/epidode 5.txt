@@ -29,100 +29,62 @@ Delta Medicinal was in charge of Hapna's clinical trials.
 -Which means it's highly likely 
 that Delta Medicinal knew exactly
 how dangerous the drug was.
-(즉, 델타 메디시널이 그 약이 얼마나 위험한지 정확히 알고 있었을 가능성이 매우 높다는 뜻입니다.)
 
 -And then, there's this image...
-(그리고, 이 이미지가 있습니다...)
 
 -Mm. What exactly are we looking at?
-(음. 정확히 뭘 보고 있는 거죠?)
 
 -It was among the files we took from 909.
-(909에게서 가져온 파일들 중에 있었습니다.)
 I have no idea what it is.
-(무엇인지 전혀 모르겠습니다.)
 
 -What if the company was conspiring with Skinner?
-(회사가 스키너와 공모하고 있었다면 어쩌죠?)
 Then all the trials and approvals could've been faked.
-(그렇다면 모든 시험과 승인이 조작되었을 수도 있습니다.)
 
 -That's definitely a possibility.
-(그것은 확실히 가능성이 있습니다.)
 The bottom line is
-(결론은)
 they must have some kind of connection to Skinner.
-(그들이 스키너와 어떤 식으로든 관련이 있다는 것입니다.)
 
 -How's it coming, Elaina? Have you found anything?
-(어떻게 되어가고 있어, 일라이나? 뭔가 찾았어?)
 
 -I'm not seeing any data from the clinical trials.
-(임상 시험 데이터는 보이지 않습니다.)
 However, I did come across something weird.
-(하지만, 이상한 것을 발견했습니다.)
 Someone at Delta Medicinal
-(델타 메디시널의 누군가가)
 has been uploading music from their servers weekly
-(매주 서버에서 음악을 업로드하고 있습니다.)
 to an audio site called SoundCloud.
-(사운드클라우드라는 오디오 사이트에.)
 
 -What's so strange about that?
-(그게 뭐가 그렇게 이상해?)
 
 -Yeah, it could have been a music-loving employee.
-(그래, 음악을 좋아하는 직원이었을 수도 있지.)
 
 Check this out.
-(이것 좀 봐.)
 
 -What the hell is that?
-(저게 뭐야?)
 
 -I'll admit it, this music sounds pretty weird.
-(인정할게, 이 음악은 꽤 이상하게 들려.)
 
 -Hold on.
-(잠깐만.)
 Elaina, can you open it as an image file instead?
-(일라이나, 대신 이미지 파일로 열 수 있어?)
 
 -Let me try.
-(시도해 볼게요.)
-
-[ Monitor blooping ]
-([모니터에서 삑 소리])
 
 -Well, now...
-(음, 이제...)
 -This is the clinical trial data for Hapna.
-(이것이 합나의 임상 시험 데이터입니다.)
 
 -You can tell?
-(알아볼 수 있다고?)
 
 -Huh? Yes, on a basic level.
-(네, 기본적으로는요.)
 
 -Hold on.
-(잠깐만.)
-Why would they encode their trial data and then uploaded it to a social media site?
-(왜 그들이 시험 데이터를 암호화해서 소셜 미디어 사이트에 업로드했을까?)
+Why would they encode their trial data 
+and then uploaded it to a social media site?
 
 -Because they...
-(왜냐하면 그들은...)
 probably want it to reach a recipient who would like to remain hidden.
-(아마도 숨어있고 싶어 하는 수신자에게 도달하기를 원할 겁니다.)
 
 -Does that mean...?
-(그게 무슨 뜻이야...?)
 
 -It's Skinner!
-(스키너야!)
 
 -All right. We've got plenty of dirt on them now.
-(좋아. 이제 그들에 대한 충분한 정보를 얻었어.)
 Let's go say hello.
-(가서 인사나 하자.)
 ------ 델타 메디시널 음악 업로드 

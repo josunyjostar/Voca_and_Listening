@@ -20,7 +20,7 @@ ozone depletion                                             오존층 파괴
 emissions                                                   배출량
 antibody                                                    항체
 inequality                                                  불평등
-inclusion                                                   포용
+inclusion*                                                  포용
 incubation                                                  배양
 incubation period                                           잠복기
 carbon footprint                                            탄소발자국

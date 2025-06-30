@@ -49,7 +49,3 @@ lighten up - 기분을 풀다
 live down - 잊히게 하다
 lock in - 확정하다
 log off - 로그아웃하다
-look into - 조사하다
-make for - 향하다
-make out - 해내다, 알아보다
-mess up - 망치다

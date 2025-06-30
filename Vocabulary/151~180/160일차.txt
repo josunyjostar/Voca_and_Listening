@@ -6,6 +6,7 @@ homogeneous                                                 동종의
 serial*                                                     순차적인
 interventions*                                              해결책
 insecticide                                                 살충제
+pesticide                                                   농약
 bed nets                                                    침대용 모기장
 intermittent*                                               간헐적인
 administer                                                  시행하다/관리하다

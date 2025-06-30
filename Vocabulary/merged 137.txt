@@ -1086,7 +1086,7 @@ ingenuous                                                   순진한
 levy                                                        추가부담금
 
 declaim                                                     열변을 토하다
-inclusion                                                   포용
+inclusion*                                                  포용
 aspiration                                                  열망
 intricate                                                   복잡한
 flagrant                                                    노골적인

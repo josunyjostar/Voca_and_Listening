@@ -11,7 +11,7 @@ evoke                                                       불러일으키다
 
 epitome                                                     전형
 erroneous                                                   잘못된
-epiphany                                                    깨달음
+epiphany*                                                   깨달음
 equate                                                      동일시하다
 equilibrium                                                 평형
 escalate                                                    확대하다

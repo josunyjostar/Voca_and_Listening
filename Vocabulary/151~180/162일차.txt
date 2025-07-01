@@ -1,3 +1,4 @@
+reticent(발음)                                              말이 없는
 ledger                                                      (거래내역)장부
 plummet                                                     급락하다
 retrieve*                                                   되찾아오다
@@ -6,7 +7,6 @@ underlying*                                                 기반이되는
 anatomy*                                                    구조분석
 directive*                                                  명령어
 resolution*                                            결의안/해결/결심/해상도 
-reticent(발음)                                              말이 없는
 retract                                                     취소하다
 reverberate                                                 울려 퍼지다
 reverent                                                    숭배하는

@@ -14,7 +14,7 @@ undermine                                                   약화시키다
 quote                                                       인용하다
 deputy minister                                             차관
 novelty                                                     새로움/신기함
-account*                                                    목격담
+account*                                                    목격담/간주하다/계좌
 
 set out                                                     착수하다
 come up short                                               실패하다

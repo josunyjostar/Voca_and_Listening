@@ -27,6 +27,7 @@ foray                                                       시도
 awry                                                        빗나간
 denominate                                                  명명하다/액수를 매기다
 loot                                                        약탈품/약탈하다
+plunder                                                     약탈하다   
 luminous                                                    빛나는
 magnate                                                     거물(재벌)
 malice                                                      악의

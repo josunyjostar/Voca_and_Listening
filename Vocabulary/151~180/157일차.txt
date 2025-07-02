@@ -26,6 +26,7 @@ outline                                                     개요를 제시하�
 azimuthal*				                                    방위각의
 perturbation*			                                    작은 변화
 interleave*                                                 번갈아가며 실행하다
+interleave 자료형구조를 의미하는게 잇음 정점(pos/color/uv) <-이런 구조
 
 take into account                                           ~을 고려하다
 degrade to                                                  ~으로 저하되다

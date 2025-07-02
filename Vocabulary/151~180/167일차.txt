@@ -15,11 +15,7 @@ fizzle out - 흐지부지 끝나다
 flare up - 확 타오르다, 악화되다
 freak out - 기겁하다
 
-get ahead - 성공하다
-get along - 잘 지내다
-get at - 의미하다
-get by - 그럭저럭 살아가다
-get over - 극복하다
+
 give in - 굴복하다
 go about - 처리하다
 
@@ -38,7 +34,6 @@ knock off - 그만두다
 lash out - 마구 화를 내다
 lay into - 거칠게 비난하다
 lead up to - 결국 ~에 이르다
-leave off - 그만두다
 let on - 누설하다
 let up - 약해지다
 lighten up - 기분을 풀다

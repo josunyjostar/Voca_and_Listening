@@ -3423,6 +3423,9 @@ fractious                                           짜증잘내는
 arrant                                              순전한(안좋은강조)
 unmitigated                                         완전한(안좋은강조)
 utter                                               완전한
+acclimate                                           (풍토에)익숙해지다
+maroon                                              고립시키다
+affix                                               부착하다
 nasty                                               못된
 coherent                                            일관성있는
 
@@ -3430,10 +3433,7 @@ cinch                                               아주 쉬운일
 rate                                                속도/비율/요금
 conscientious                                       양심적인
 audacious                                           대담한
-pious                                               독실한
-acclimate                                           (풍토에)익숙해지다
-maroon                                              고립시키다
-affix                                               부착하다
+pious                                               경건한/독실한
 cling                                               매달리다
 odour                                               악취
 blob                                                (작은)방울
@@ -3449,7 +3449,8 @@ frolic                                              장난
 dispensable                                         없어도되는
 disposable                                          일회용의
 legislate                                           법률을 제정하다
-compel                                              강요하다covert                                                      비밀의
+compel                                              강요하다
+covert                                                      비밀의
 covet                                                       갈망하다
 atrocities                                                  잔학한 행위
 cronyism                                                    친족주의 

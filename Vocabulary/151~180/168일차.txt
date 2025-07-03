@@ -10,17 +10,11 @@ plagiarize - 표절하다
 plethora - 과잉, 지나침
 plight - 역경, 고난
 poignant - 가슴 아픈, 감동적인
-polarize - 양극화하다
 pompous - 거만한, 잘난 체하는
 
 
-predicament - 곤경
-preposterous - 말도 안 되는
-presume - 추정하다
 
-pristine - 원래 그대로의, 아주 깨끗한
 
-procrastinate - 미루다
 prodigal - 낭비하는
 prodigious - 엄청난
 profane - 불경스러운
@@ -37,12 +31,11 @@ pugnacious - 싸우기 좋아하는
 punctual - 시간을 잘 지키는
 pungent - 톡 쏘는, 자극적인
 quaint - 예스러운 매력이 있는
-quell - 진압하다
 quench - (갈증 등을) 해소하다
 query - 질문, 의문
 quibble - 트집 잡다
 quirk - 기이한 버릇
-rampant - 만연한
+
 rancid - 악취나는
 rant - 고함치다, 열변을 토하다
 rapport - 친밀한 관계

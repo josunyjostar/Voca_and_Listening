@@ -8,15 +8,25 @@ pious                                                       경건한
 plausible                                                   그럴듯한
 prevalent                                                   일반적인/널리 퍼진
 probity                                                     정직성
+bait                                                        미끼를 놓다
+solution*                                                   용액/해결책
 
 sweep under the rug                                         은폐하다
-take on                                                    (어떤 특성이나 모양을)띠다
+take on                                                  (어떤 특성이나 모양을)띠다
 leave off                                                   그만두다
 get at                                                      의미하다
 get ahead                                                   성공하다
 get along                                                   잘 지내다
 get by                                                      그럭저럭 살아가다
 get over                                                    극복하다
+put up                                                      저항하다
+break in                                                    침입하다
+follow through                                       (약속이나 계획을)실행하다
+
+He promised to help me move, but he didn't follow through
+그는 이사를 도와주겠다고 약속했지만 실행하지 않았다.
+
+we cannot afford to let it get swept under the rug.
 
 take on (어떤 특성이나 모양을)띠다
 Its eyes became discolored,

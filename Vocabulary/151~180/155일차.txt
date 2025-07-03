@@ -10,7 +10,7 @@ co-vertical                                                     수직으로 일
 monotonically                                                   단조롭게
 inductively                                                     귀납적으로
 eradicate                                                       근절하다
-assumption                                                      가정  
+assumption*                                                     가정  
 consecutive                                                     연속적인  
 robustness                                                      견고함   
 parallelogram                                                   평행사변형

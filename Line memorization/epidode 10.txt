@@ -1,8 +1,5 @@
-----------------------------
-episode 10 start
 
--- 레이디 이자벨라 start
-
+-------------------- 레이디 이자벨라 ------------
 Such unusual guests we have today.
 And who is it you are again?
 It's been so long now that
@@ -25,9 +22,9 @@ Father went out of his way
 to get you admitted into a good school, 
 and you did nothing but screw it up!
 
--- 레이디 이자벨라 end
+-------------------- 레이디 이자벨라 ------------
 
--- 의사에게 도움 요청 start
+-------------------- 의사에게 도움 요청 ------------
 I quit smoking awhile back.
 But then I figured there's no point in fighting the urge
 when the world is about to end.
@@ -55,10 +52,9 @@ Honestly, I've been waiting for someone to ask me about that.
 After all...
 I can't take this secret to my grave. 
 
---의사에게 도움 요청 end
+-------------------- 의사에게 도움 요청 ------------
 
--- 스키너 비밀 이야기 후 start
-
+-------------------- 스키너 비밀 이야기 후 ------------
 Skinner did undergo surgery for an artificial heart here.
 And the post-op outlook was good.
 But the problem is we can never be sure what might happen
@@ -75,10 +71,9 @@ and made it untraceable.
 We no longer know his whereabouts
 or even if he's still alive...
 
---스키너 비밀 이야기 후  end
+-------------------- 스키너 비밀 이야기 후 ------------
 
--- 릴랜드 아버지 이야기 stat
-
+-------------------- 릴랜드 아버지 이야기------------
 Leland, listen to me.
 I know your father died in that disaster...
 and I believe there's significance to the fact you survived it.
@@ -92,8 +87,9 @@ I can relate to him far more than he thinks,
 since I always gave my parents a hard time, too.
 I remember him saying that.
 
----  릴랜드 아버지 이야기 end
+-------------------- 릴랜드 아버지 이야기------------
 
+-------------------- 기타 좋은 표현 ------------
 
 What's with the getup?
 
@@ -113,8 +109,7 @@ What life is really like for him - What is [무엇] like?" 매우 흔한 질문 
 
 Is it just me or do we seem sorely out of place here? 
 I'm thinking maybe we shouldn't be here for this. 
-
-episode 10 end
+-------------------- 릴랜드 스파이 고백 ------------
 
 
 

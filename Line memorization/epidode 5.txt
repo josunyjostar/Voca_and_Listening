@@ -233,3 +233,24 @@ no matter what.
 I had just forgotten how to put up a good fight.
 I had the best sleep in ages last night.
 ----- 메디시널 사장 독백
+
+----- 일레이나 해킹 대응
+-In case things went south,
+I planted a fake antidote file on the core computer for them to steal.
+We can locate Popcorn Wizard with it.
+
+-Losing the battle to win the war. Huh.
+
+-But the core network is still under their control, so be careful.
+
+-Found them.
+They're at the Islamabad stock exchange in Pakistan!
+
+-I'll put in a call to have the local authorities search the place.
+
+-Every country's stock exchange 
+has specially fortified network infrastructures.
+If tapped into, 
+there's enough bandwidth 
+for hackers to conduct massive cyberattacks.
+----- 일레이나 해킹 대응

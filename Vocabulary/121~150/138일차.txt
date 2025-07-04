@@ -8,7 +8,7 @@ strive                                                      분투하다
 traverse                                                    가로지르다
 adept                                                       능숙한
 adopt                                                       채택하다
-cover                                                       다루다
+cover*                                                      다루다/보도하다
 conjunction                                                 (현상/사건의)결합
 wiped out                                                   전멸하다
 conducive                                                   도움이 되는

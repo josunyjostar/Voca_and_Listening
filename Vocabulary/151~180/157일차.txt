@@ -1,17 +1,9 @@
 act up                                          제대로 작동하지 않다/말썽을 부리다
 add up                                                      말이 되다/이치에 맞다
 back down                                            (주장 등을) 철회하다/물러서다
-bail out                                                    구제하다/구조하다
-barge in                                                    끼어들다
-break in                                                    끼어들다/침입하다
-beef up                                                     강화하다/보강하다
-blow over                                             (폭풍등이) 가라앉다/지나가다
-branch out                                           (새 분야로) 진출하다/확장하다
-brush off                                                   무시하다/일축하다
-buckle down                                        본격적으로 착수하다/열심히 하다
+
 meddle*                                                     간섭하다
 mediocre*                                                   평범한/중간 정도의
-
 nimble                                                      재빠른
 mar                                                         손상시키다
 marvel                                                      경이로움
@@ -28,6 +20,14 @@ perturbation*			                                    작은 변화
 interleave*                                                 번갈아가며 실행하다
 interleave 자료형구조를 의미하는게 잇음 정점(pos/color/uv) <-이런 구조
 
+bail out                                                    구제하다/구조하다
+barge in                                                    끼어들다
+break in                                                    끼어들다/침입하다
+beef up                                                     강화하다/보강하다
+blow over                                             (폭풍등이) 가라앉다/지나가다
+branch out                                           (새 분야로) 진출하다/확장하다
+brush off                                                   무시하다/일축하다
+buckle down                                        본격적으로 착수하다/열심히 하다
 take into account                                           ~을 고려하다
 degrade to                                                  ~으로 저하되다
 resemble                                                    ~와 닮다

@@ -1,21 +1,6 @@
-
-
-
-
-
-
 pique - (감정을) 자극하다, 화나게 하다
 placate - 달래다
-plagiarize - 표절하다
-plethora - 과잉, 지나침
-plight - 역경, 고난
-poignant - 가슴 아픈, 감동적인
 pompous - 거만한, 잘난 체하는
-
-
-
-
-prodigal - 낭비하는
 prodigious - 엄청난
 profane - 불경스러운
 proficient - 능숙한
@@ -35,16 +20,9 @@ quench - (갈증 등을) 해소하다
 query - 질문, 의문
 quibble - 트집 잡다
 quirk - 기이한 버릇
-
 rancid - 악취나는
 rant - 고함치다, 열변을 토하다
 rapport - 친밀한 관계
-rash - 성급한
-ratify - 비준하다
-raucous - 시끄러운
-recede - 물러나다
-reconcile - 화해하다
-rectify - 바로잡다
 rejuvenate - 활력을 되찾게 하다
 relent - 누그러지다
 relish - 즐기다
@@ -55,3 +33,27 @@ reprieve - 유예, 집행 연기
 reprimand - 질책하다
 reprisal - 보복
 reproach - 꾸짖다
+
+fend off - 막아내다
+fizzle out - 흐지부지 끝나다
+flare up - 확 타오르다, 악화되다
+freak out - 기겁하다
+give in - 굴복하다
+hang out - 어울리다
+head off - 막다
+hear out - 끝까지 듣다
+hit it off - 죽이 잘 맞다
+hold off - 미루다
+hold over - 연기하다
+hunker down - 단단히 준비하다
+keep at - 포기하지 않고 계속하다
+kick around - 논의하다
+knock off - 그만두다
+lash out - 마구 화를 내다
+lay into - 거칠게 비난하다
+lead up to - 결국 ~에 이르다
+let on - 누설하다
+let up - 약해지다
+lighten up - 기분을 풀다
+live down - 잊히게 하다
+lock in - 확정하다

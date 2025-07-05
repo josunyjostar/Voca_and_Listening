@@ -1,4 +1,6 @@
-reside                                                      살다/거주하다/위치하다
+get ahead                                                   성공하다
+
+reside*                                                     살다/거주하다/위치하다
 roundup*                                                    요약/총정리
 round off                                                   반올림
 back and forth(부사)                                        앞뒤로
@@ -15,17 +17,19 @@ sweep under the rug                                         은폐하다
 take on                                                  (어떤 특성이나 모양을)띠다
 leave off                                                   그만두다
 get at                                                      의미하다
-get ahead                                                   성공하다
 get along                                                   잘 지내다
 get by                                                      그럭저럭 살아가다
 get over                                                    극복하다
-put up                                                      저항하다
 break in                                                    침입하다
 follow through                                       (약속이나 계획을)실행하다
+
+put up 
+I had just forgotten how to put up a good fight.
 
 follow through (약속이나 계획을)실행하다
 And I agreed to follow through with that advice.
 
+sweep under the rug
 we cannot afford to let it get swept under the rug.
 
 take on (어떤 특성이나 모양을)띠다

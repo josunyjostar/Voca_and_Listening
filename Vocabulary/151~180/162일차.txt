@@ -1,13 +1,14 @@
+retrieve*                                                   되찾아오다
+retract                                                     취소하다
+
 reticent(발음)                                              말이 없는
 ledger                                                      (거래내역)장부
 plummet                                                     급락하다
-retrieve*                                                   되찾아오다
 enable*                                                     활성화시키다
 underlying*                                                 기반이되는
 anatomy*                                                    구조분석
 directive*                                                  명령어
 resolution*                                            결의안/해결/결심/해상도 
-retract                                                     취소하다
 reverberate                                                 울려 퍼지다
 reverent                                                    숭배하는
 revile                                                      욕하다
@@ -22,4 +23,5 @@ grow on                                                     점점 좋아지다
 hang around                                                 어슬렁거리다
 hang in                                                     버티다
 
+get with/cash in 
 Then got with Sam to cash in before the crash.

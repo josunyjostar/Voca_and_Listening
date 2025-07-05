@@ -1,9 +1,11 @@
 preposterous                                                말도 안 되는
+hold off                                                    미루다
 procrastinate                                               미루다
 predicament                                                 곤경
+plight                                                      역경/고난
+presume                                                     추정하다
 
 rampant                                                     만연한
-presume                                                     추정하다
 primer                                                      입문서
 conjugate                                                   켤레
 negated*                                                    부호를 반전시킨
@@ -26,7 +28,10 @@ went south                                                  상황이 나빠지�
 put in                                                      요청하다/전화걸다
 tap into                                                    접속하다/도청하다 
 put up                                                      display/show/내보이다
+put up                                                      저항하다
 
 i'll put in a call to have the local authorities search the place
+
 I had just forgotten how to put up a good fight.
+
 if tapped into, there's enough bandwidth for hackers to conduct massive cyberattacks.

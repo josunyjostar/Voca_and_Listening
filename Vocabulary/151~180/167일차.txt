@@ -1,25 +1,35 @@
 cover*                                                      다루다/보도하다
-enshrine                                                    소중히 모시다
 plagiarize                                                  표절하다
 plethora                                                    과잉/지나침
-plight                                                      역경/고난
-poignant                                                    가슴아픈/감동적인
-rash                                                        성급한
-raucous                                                     시끄러운
-recede                                                      물러나다
-reconcile                                                   화해하다
 ratify                                                      비준하다
 rectify                                                     바로잡다
+plight                                                      역경/고난
+rash                                                        성급한
+poignant                                                    가슴아픈/감동적인
 
-Live off                                                    ~로 생활하다
+go about                                                    처리하다
 face up to                                                  직시하다
+edge out                                                    간신히 이기다
+
+enshrine                                                    소중히 모시다
+raucous                                                     시끄러운
+reconcile                                                   화해하다
+recede                                                      물러나다
+Live off                                                    ~로 생활하다
 duck out                                                    슬그머니 빠져나가다
 ease off                                                    완화되다
-edge out                                                    간신히 이기다
 end up                                                      결국 ~하게 되다
-go about                                                    처리하다
 fall for                                                    속다
+head in                                                     들어가다
 
-Living off the land (땅에서 나는 것으로 살아간다)
-i am not falling for that trick again
+go about
 I don't know how to go about this task
+
+live off
+Living off the land (땅에서 나는 것으로 살아간다)
+
+fall for
+i am not falling for that trick again
+
+head in
+then we'll head in for the rescue

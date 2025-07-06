@@ -1,16 +1,16 @@
-cover*                                                      다루다/보도하다
 plagiarize                                                  표절하다
 plethora                                                    과잉/지나침
-ratify                                                      비준하다
-rectify                                                     바로잡다
 plight                                                      역경/고난
 rash                                                        성급한
-poignant                                                    가슴아픈/감동적인
 
+poignant                                                    가슴아픈/감동적인
 go about                                                    처리하다
 face up to                                                  직시하다
 edge out                                                    간신히 이기다
 
+cover*                                                      다루다/보도하다
+ratify                                                      비준하다
+rectify                                                     바로잡다
 enshrine                                                    소중히 모시다
 raucous                                                     시끄러운
 reconcile                                                   화해하다

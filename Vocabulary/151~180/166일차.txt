@@ -30,8 +30,11 @@ tap into                                                    접속하다/도청�
 put up                                                      display/show/내보이다
 put up                                                      저항하다
 
+put in
 i'll put in a call to have the local authorities search the place
 
+put up
 I had just forgotten how to put up a good fight.
 
+tap into
 if tapped into, there's enough bandwidth for hackers to conduct massive cyberattacks.

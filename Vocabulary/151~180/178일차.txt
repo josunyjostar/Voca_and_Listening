@@ -4,11 +4,7 @@ deform                                                          변형시키다
 deform                                                          변형시키다
 deform                                                          변형시키다
 
-prosaic - 평범한, 지루한
-prosper - 번영하다
-prudent - 신중한
-pugnacious - 싸우기 좋아하는
-punctual - 시간을 잘 지키는
+
 
 rejuvenate - 활력을 되찾게 하다
 relent - 누그러지다
@@ -19,17 +15,14 @@ reprehensible - 비난받을 만한
 reprieve - 유예, 집행 연기
 reprimand - 질책하다
 reprisal - 보복
-reproach - 꾸짖다
 
-fend off - 막아내다
+
 fizzle out - 흐지부지 끝나다
 flare up - 확 타오르다, 악화되다
 freak out - 기겁하다
-
-knock off - 그만두다
 lash out - 마구 화를 내다
+
 lay into - 거칠게 비난하다
-lead up to - 결국 ~에 이르다
 let on - 누설하다
 let up - 약해지다
 lighten up - 기분을 풀다

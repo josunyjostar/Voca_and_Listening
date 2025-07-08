@@ -4,7 +4,7 @@ rancid                                                          악취나는
 
 rant                                                            고함치다
 ascension                                                       승천/승진
-deform                                                          변형시키다
+deform*                                                         변형시키다
 salvage                                                         구조하다/회복하다
 taint                                                           오염시키다 
 inversion                                                       도치

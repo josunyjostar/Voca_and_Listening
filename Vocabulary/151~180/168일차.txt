@@ -1,9 +1,10 @@
-promulgate                                                      공표하다
 proficient                                                      능숙한
-profane                                                         불경스러운
-prodigious                                                      엄청난
 placate                                                         달래다
 pique                                                   (감정을)자극하다/화나게 하다
+
+promulgate                                                      공표하다
+profane                                                         불경스러운
+prodigious                                                      엄청난
 
 deform*                                                         변형시키다
 indoctrination                                                  정치적/종교적 세뇌
@@ -18,11 +19,14 @@ hold over                                                       (일정)연기�
 hear out                                                        끝까지 듣다
 hit it off                                                      죽이 잘 맞다
 
+hold over  
 The meeting was held over until next week.
 회의가 다음 주로 연기되었다.
 
+head off 
 The company took action to head off the strike
 회사는 파업을 막기 위해 조치를 취했다
 
+hear out 
 hear me out  
 끝까지 들어줘

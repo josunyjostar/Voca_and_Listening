@@ -1,23 +1,22 @@
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
+collapsing*                                                     접히는/숨겨지는
+envelope*                                                       한계/현재기술수준
+characteristics*                                                특징
+definite*                                                       확실한  
+playback*                                                       재생(동영상)
+analytical*                                                     해석적
+heuristic*                                                      경험에 의거해 알게된
+anemia                                                          빈혈
+anemic                                                          빈혈의
+millet                                                          수수(곡물종류) 
+dietary                                                         음식물의
+rejuvenate                                                      활력을 되찾게 하다
+relish                                                          즐기다
+lash                                                            채찍질/휘갈기다 
+remorse                                                         후회
+relent                                                          누그러지다
+renounce                                                        포기하다
+
+fizzle out                                                      흐지부지 끝나다
+flare up                                                        확 타오르다/악화되다
+freak out                                                       기겁하다
+lash out                                                        마구 화를 내다

@@ -1,23 +1,36 @@
 testament                                                       증거
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
+ability*                                                        기능/가능성
+identical*                                                      동일한
+impart*                                                         (지식을)전하다
+possessions                                                     소지품
+socio-demographic                                               사회 인구학적
+reprehensible                                                   비난받을 만한
+reprieve                                                        유예/집행 연기
+reprimand                                                       질책하다
+reprisal(발음)                                                  보복
+servings                                                        먹거나 마시는 양
+
+lock in                                                         확정하다
+lighten up                                                      기분을 풀다
+live down                                                       잊히게 하다
+lay into                                                        거칠게 비난하다
+let on                                                          내색하다/누설하다
+let up                                                          약해지다
+
+servings
+One serving of rice  밥 한 공기
+Two servings of juice  주스 두 잔
+The package contains 3 servings  이 포장에는 3인분이 들어 있다
+
+live down
+She's trying to live down her past 
+그녀는 과거를 잊히게 하려고 노력하고있다 (잊으려 x)
+*다른 사람들이 본인의 과거를 기억하지 못하게 하려고 한다는 뜻임
+
+let on 
+don't let on that you're disappointed.
+실망했다는 것을 내색하지마
+
+let on 
+The rain hasn't let up all day.
+비가 하루 종일 약해지지 않았다.

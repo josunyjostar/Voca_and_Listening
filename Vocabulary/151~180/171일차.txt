@@ -5,6 +5,9 @@ definite*                                                       확실한
 playback*                                                       재생(동영상)
 analytical*                                                     해석적
 heuristic*                                                      경험에 의거해 알게된
+relent                                                          누그러지다
+renounce                                                        포기하다
+
 anemia                                                          빈혈
 anemic                                                          빈혈의
 millet                                                          수수(곡물종류) 
@@ -13,8 +16,6 @@ rejuvenate                                                      활력을 되찾
 relish                                                          즐기다
 lash                                                            채찍질/휘갈기다 
 remorse                                                         후회
-relent                                                          누그러지다
-renounce                                                        포기하다
 
 fizzle out                                                      흐지부지 끝나다
 flare up                                                        확 타오르다/악화되다

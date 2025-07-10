@@ -1,0 +1,694 @@
+variety                                                     품종/다양성
+probability*                                                개연성/확률
+latent                                                      잠재적인
+lament                                                      한탄하다
+lithe(발음)                                                 유연한
+lethargic(발음)                                             무기력한
+
+legible                                                     읽기 쉬운
+liable                                                      책임 있는/~하기 쉬운
+levy                                                        추가 부담금/세금
+libel                                                       명예훼손(문서)
+maneuver                                                    계략/기동
+manifest                                                    명백한/나타내다
+juncture                                                    중요한 순간
+linger                                                      맴돌다/오래 머무르다
+
+dementia                                                    치매
+lapse                                                       실수/경과하다
+lavish                                                      호화로운
+mollify                                                     달래다
+jumble                                                      뒤섞이다
+mangle                                                      짓이기다
+morsel(발음)                                                작은 조각
+leery                                                       의심하는
+lax                                                         느슨한/부주의한
+levity                                                      경박함
+modest                                                      적당한
+momentous                                                   중대한
+monotonous                                                  단조로운
+nadir*                                                      최저점
+keen                                                        예리한
+kindle                                                      불붙이다/자극하다
+knack                                                       재능/요령
+whatshisface                                                뭐시기
+fugitive(발음)                                              도망자
+be all about ~                                              ~을 중시하다
+
+we're all about transparency these days. relentless                                                  끈질긴
+passages                                                    지문(문단)
+powered through                                             해내왔다
+pull off                                                    (힘든일을)해내다
+pay off                                                     성과를 내다
+on the fly                                                  즉석에서/실시간으로
+contention*                                                 경쟁/충돌/논쟁
+concatenation*                                              연결/결합
+
+underflow                                                   최소치 미만
+redistribution                                              재분배
+extrapolation                                               추정/외삽
+interpolation                                               보간/삽입
+concurrency                                                 동시성
+encipherment                                                암호화
+latency                                                     대기 시간
+replication                                                 복제
+parameterized                                               매개변수화된
+compression                                                 압축
+tradeoff                                                    거래/교환
+asymptotically                                              점근적으로
+ubiquitous                                                매우 흔한/어디에나 있는
+de facto                                                    사실상의
+carry out                                                   수행하다
+trade off                                                   균형을 맞추다/절충하다
+page in                                                     메모리로 불러오다
+lock down                                                   잠그다
+runaway overhead                                            통제 불가능한 오버헤드
+flavor similar to                                           ~와 유사한 특징
+m-ary                                                       m개 분기를 가진
+fanout                                                      분기 수/확산도
+clustered                                                   클러스터된/집약된
+aggregate                                                   집계하다/총합하다
+disaggregate*                                               분산된/분해된
+sequential*                                                 순차적인
+serial*                                                     순차적인
+predecessor                                                 전임자, 이전 노드
+successor                                                   후임자, 다음 노드
+lexicographic                                               알파벳 순서의
+decompression                                               압축 해제
+implementing                                                구현하다
+solidity                                                    견고함
+endurance                                                   내구성
+uncivilized                                                 미개한/야만적인
+elaborate*                                                  자세히 설명하다/정교한
+vicinity(발음)                                              근처/인근
+come to terms with                                          받아들이다/인정하다
+
+take up                                             시작/계속/차지하다/받아들이다
+split up                                                    분할하다
+work back up                                                다시 거꾸로 올라가다
+branching factor                                            분기 인수
+fan out                                                     부채꼴로 퍼지다
+shift over                                                  이동하다
+distribute across                                           ~에 걸쳐 분산하다
+aggregate into                                              ~로 집계하다
+in turn                                                     차례로/결과적으로
+bring up                                                    제기하다
+no more than                                                ~보다 많지 않은
+erring on the side of caution                               안전한 쪽을 택하다
+as outlined above                                           위에서 설명한 대로
+on the order of                                             대략 ~정도의
+
+The process takes on the order of two hours. 대략 ~정도 걸리다
+그 과정은 대략 2시간 정도 걸린다
+
+I want to take up guitar lessons next month. 시작하다
+다음 달에 기타 레슨을 시작하고 싶어.
+
+Work problems are taking up all my mental energy. 차지하다
+업무 문제들이 내 정신적 에너지를 모두 차지하고 있다
+
+I'll take up your offer to help with the project. 받아들이다
+프로젝트 도움 제안을 받아들이겠습니다
+
+Let's take up where we left off yesterday 계속하다
+어제 중단한 부분부터 계속하자.munificent                                                  아주 관대한
+in a nutshell                                               간단히 말해서
+put simply                                                  간단히 말하면
+drawback                                                    단점/결점
+creditor                                                    채권자
+oversee                                                     감독하다
+morbid                                                      병적인/불길한
+initiation                                                  입문/가입
+
+consumption                                                 소비
+by comparison                                               비교해보면
+discrete*                                                   이산의/분리된
+logarithmic                                                 로그의
+constitute                                                  구성하다
+substantially                                               상당히/본질적으로
+considerable                                                상당한
+exceptional                                                 예외적인
+variation                                                   변형/변화/변종
+for the sake of*                                            ~를 위해서
+to this end                                                 이를 위해
+it is worth noting that                              ~라는 점을 주목할 가치가 있다
+it should be noted that                                 ~라는 점에 주목해야 한다
+working set                                                 작업 집합
+bulk-loading                                                대량 로딩
+memory footprint                                            메모리 사용량
+uniformly*                                                      균일하게
+interpret*                                                      해석하다/이해하다
+inequality*                                                     부등식/불평등
+
+segment                                                         부분
+intersect                                                       교차하다
+coincident                                                      일치하는
+taut                                                            팽팽한
+co-vertical                                                     수직으로 일치하는
+monotonically                                                   단조롭게
+inductively                                                     귀납적으로
+eradicate                                                       근절하다
+assumption*                                                     가정  
+consecutive                                                     연속적인  
+robustness                                                      견고함   
+parallelogram                                                   평행사변형
+convex                                                          볼록한
+concave                                                         오목한
+hull                                                            껍질
+colinear                                                        동일 직선상의
+straddle                                                        가로지르다/걸치다
+line segment                                                    선분
+polar angle                                                     극각
+boundary condition                                              경계 조건
+round-off error                                                 반올림 오차
+prune-and-search                                                가지치기 후 탐색
+monotonically increasing                                        단조 증가
+vertical strip                                                  수직 영역
+incremental method                                              점진적 방법
+two-dimensional normal distribution                             이차원 정규 분포
+it follows that                                             ~라는 결론이 도출된다
+with respect to                                                 ~에 관하여
+in terms of                                                     ~의 관점에서
+assume that                                                     ~라고 가정하자compendious                                                 필요한 내용을 담은
+knead                                                       반죽하다
+lament                                                      한탄하다
+languid                                                     무기력한
+
+laggard                                                     느림보
+lampoon                                                     풍자하다
+lacerate                                                    찢다
+murky                                                       흐릿한/의심스러운
+muse                                                        사색하다/영감
+nefarious                                                   사악한
+negligent                                                   태만한
+detrimental                                                 해로운
+aplomb                                                      침착함
+clammy                                                      축축한
+subtle                                                      미묘한
+insensible                                                  무감각한
+gutter                                                      배수로
+
+lanky                                                       마르고 길쭉한
+loathe                                                      혐오하다
+celsius                                                     섭씨의
+discoloration                                               변색
+callow                                                      미숙한
+enfold                                                      감싸다/안다
+erstwhile                                                   지금까지의
+impassive                                                   무표정한
+tend                                                        돌보다
+shed                                                        밝히다
+coop up                                                     칩거하다
+fall for                                                    …에 속다  
+be subjected to + 명사                                      ~을 당하다
+
+All employees will be subjected to a background check
+모든 직원들은 신원조사를 받게 될 것이다.
+
+The area has been subjected to frequent flooding
+그 지역은 빈번한 홍수를 겪어왔다.act up                                          제대로 작동하지 않다/말썽을 부리다
+add up                                                      말이 되다/이치에 맞다
+back down                                            (주장 등을) 철회하다/물러서다
+
+meddle*                                                     간섭하다
+mediocre*                                                   평범한/중간 정도의
+nimble                                                      재빠른
+mar                                                         손상시키다
+marvel                                                      경이로움
+meager                                                      빈약한
+meek                                                        온순한
+menial                                                      하찮은(일)
+practice*                                                   수행하다/실천하다/관행
+alloy                                                       합금
+deposit*                                                    매장층/보증금
+openness                                                    개방성
+outline                                                     개요를 제시하다
+azimuthal*				                                    방위각의
+perturbation*			                                    작은 변화
+interleave*                                                 번갈아가며 실행하다
+interleave 자료형구조를 의미하는게 잇음 정점(pos/color/uv) <-이런 구조
+
+bail out                                                    구제하다/구조하다
+barge in                                                    끼어들다
+break in                                                    끼어들다/침입하다
+beef up                                                     강화하다/보강하다
+blow over                                             (폭풍등이) 가라앉다/지나가다
+branch out                                           (새 분야로) 진출하다/확장하다
+brush off                                                   무시하다/일축하다
+buckle down                                        본격적으로 착수하다/열심히 하다
+take into account                                           ~을 고려하다
+degrade to                                                  ~으로 저하되다
+resemble                                                    ~와 닮다
+go as far as to + 동사원형                                  ~하기까지 하다
+in any case                                                 어쨋든
+say that                                              ~라고 가정해보자/~라고 치자
+chances are that(관용)                           ~일 가능성이 높다/아마 ~일 것이다
+
+even going as far as to abandon the patents on the drugs that he developed
+(심지어 자신이 개발한 약물의 특허를 포기하기까지 했습니다.)
+nonchalant                                                  무심한/태연한
+noxious                                                     유해한
+obnoxious                                                   불쾌한
+obstinate                                                   완고한
+obscure                                                   모호한/잘 알려지지 않은
+oblivious                                                   알아차리지 못하는
+
+nullify                                                     무효로 만들다
+obsess                                                      집착하다
+obsolete                                                    한물간/구식의
+ominous                                                     불길한
+notorious                                                   악명 높은
+undermine                                                   약화시키다
+quote                                                       인용하다
+deputy minister                                             차관
+novelty                                                     새로움/신기함
+account*                                                    목격담/간주하다/계좌/고려하다
+
+set out                                                     착수하다
+come up short                                               실패하다
+clamp down                                                  단속하다/억제하다
+crack down                                                  단속하다
+conk out                                                    고장나다/기절하다
+crop up                                                     불쑥 나타나다
+cut back                                                    줄이다
+cut in                                                      끼어들다
+catch on                                                    이해하다/눈치채다
+come down with                                              병에 걸리다
+burn out                                                    지치다
+assume*                                             (타인의신분을)취하다/추정하다
+refute                                                      반박하다
+regress                                                     퇴보하다
+reiterate*                                                  반복하다
+mop up                                                      마무리하다
+pan out                                                     성공하다
+
+onerous(발음)                                               부담스러운
+pack in                                                     그만두다
+pacify                                                      진정시키다
+paucity                                                     부족
+palatable                                                   맛있는/받아들일 만한
+opulent                                                     부유한/호화로운
+ostentatious                                                과시하는/허세 부리는
+own up                                                      자백하다
+opt out                                                     빠지다
+oust                                                        내쫓다
+overbearing                                                 고압적인/거만한
+recluse                                                     은둔자
+redundant*                                                  불필요한/중복의
+refrain                                                     삼가다
+
+move on                                                     넘어가다
+nail down                                                   확정하다
+miss out                                                    놓치다
+mix up                                                      혼동하다
+ornate                                                      화려하게 장식된
+omnipotent                                                  전능한
+nod off                                                     꾸벅꾸벅 졸다
+onset                                                       시작partake                                                     참여하다
+pacify                                                      진정시키다
+paucity                                                     부족
+
+rehabilitation                                              재활
+heterogeneous                                        여러 다른 종류들로 이뤄진    
+homogeneous                                                 동종의
+serial*                                                     순차적인
+interventions*                                              해결책
+insecticide                                                 살충제
+pesticide                                                   농약
+bed nets                                                    침대용 모기장
+intermittent*                                               간헐적인
+administer                                                  시행하다/관리하다
+paragon                                                     귀감/모범
+paramount                                                   가장 중요한
+peek                                                        훔쳐보다/살짝 보다
+precarious*                                                 불안정한
+precedent                                                   선례
+
+ferret out                                                  찾아내다
+gear up                                                     준비하다
+figure out                                                  이해하다/해결하다
+keep up                                                     유지하다
+fill in                                                     대신하다
+go against                                                  반대하다
+slammer                                                     교도소
+lousy                                                       엉망인 
+verbosity*                                                  상세도
+abort*                                                      중단시키다
+poll*                                                       주기적으로 확인하다
+respective*                                                 각각의
+executable*                                                 실행파일
+configured*                                                 설정된
+stunt*                                                      꼼수
+the pointer to the instance                                 인스턴스의 포인터
+the pointer to function                                     함수 포인터
+illiteracy                                                  문맹
+caregiver                                                   간병인   
+switch on                                                   기능을 활성화하다
+get roped into                                              억지로 끌려들어가다
+have on                                                 ~에 대한 약점을 잡고 있다
+do time                                                     감옥살이를 하다
+serve time                                                  복역하다
+
+repudiate                                                   거부하다
+rescind                                                     폐지하다
+respite                                                     일시적 중단
+resolute                                                    단호한
+retaliate                                                   보복하다
+
+have on
+What does Hersch have on you?retrieve*                                                   되찾아오다
+retract                                                     취소하다
+go for                                                      선택하다
+
+reticent(발음)                                              말이 없는
+ledger                                                      (거래내역)장부
+plummet                                                     급락하다
+enable*                                                     활성화시키다
+underlying*                                                 기반이되는
+anatomy*                                                    구조분석
+directive*                                                  명령어
+resolution*                                            결의안/해결/결심/해상도 
+reverberate                                                 울려 퍼지다
+reverent                                                    숭배하는
+revile                                                      욕하다
+rife                                                        만연한
+
+keep s.t apart                                            둘을 분리해서 구분하다
+get with                                                    ~와 함께하다
+cash in                                                     현금화하다
+go under                                                    파산하다
+grow on                                                     점점 좋아지다
+hang around                                                 어슬렁거리다
+hang in                                                     버티다
+
+get with/cash in 
+Then got with Sam to cash in before the crash.penchant                                                    애호/강한 기호
+peril                                                       위험
+perish                                                      죽다/소멸하다
+permeate                                                    스며들다
+
+rescind                                                     폐지하다
+repudiate                                                   거부하다
+respite                                                     일시적 중단
+grain*                                                      곡물/입자/결
+pensive                                                 수심에 잠긴/깊은 생각에 잠긴
+ferret out                                                  찾아내다
+gear up                                                     준비하다
+pollen                                                      꽃가루 
+fungicides                                                  살균제
+microorganism                                               미생물
+fungi                                                       곰팡이류/균류
+peevish                                                     짜증을 잘 내는
+
+make for                                                    향하다
+make out                                                    해내다/알아보다
+mess up                                                     망치다
+cause a scene                                               소동을 일으키다
+manage to + 동사원형                                        ~하는 데 성공하다
+pertinent*                                                  적절한
+determine*                                                  알아내다/결정하다
+privy*                                                      알게 된
+persevere*                                                  인내심을 갖고 하다
+
+petty                                                       사소한
+dirt                                                        (평판을 해칠수있는)정보
+recipient                                                   수령인
+nocturnal                                                   야행성의
+sugary                                                      설탕맛이나는
+retina                                                      망막
+ponder                                                      곰곰이 생각하다
+posterity                                                   후세
+potent                                                      강력한
+pragmatic                                                   실용적인
+perplex                                                     혼란스럽게 하다
+philanthropy                                                자선 활동
+pinnacle                                                    정점
+
+do away with                                                폐지하다/없애다
+do up                                                       장식하다
+doze off                                                    깜빡 잠들다
+drag on                                                     질질 끌다
+draw out                                                    길게 끌다
+
+privy
+We were never made privy to his location,get ahead                                                   성공하다
+get at                                                      의미하다
+
+reside*                                                     살다/거주하다/위치하다
+roundup*                                                    요약/총정리
+round off                                                   반올림
+back and forth(부사)                                        앞뒤로
+straightforward                                             간단한     
+mortgage                                                    대출(금)
+pious                                                       경건한
+plausible                                                   그럴듯한
+prevalent                                                   일반적인/널리 퍼진
+probity                                                     정직성
+bait                                                        미끼를 놓다
+solution*                                                   용액/해결책
+
+sweep under the rug                                         은폐하다
+take on                                                  (어떤 특성이나 모양을)띠다
+leave off                                                   그만두다
+get along                                                   잘 지내다
+get by                                                      그럭저럭 살아가다
+get over                                                    극복하다
+break in                                                    침입하다
+follow through                                       (약속이나 계획을)실행하다
+
+put up 
+I had just forgotten how to put up a good fight.
+
+follow through (약속이나 계획을)실행하다
+And I agreed to follow through with that advice.
+
+sweep under the rug
+we cannot afford to let it get swept under the rug.
+
+take on (어떤 특성이나 모양을)띠다
+Its eyes became discolored,
+taking on a pattern that looks like a starry-night.
+
+get at 의미하다
+What are you getting at? 의미하다
+무슨 말씀을 하시려는 건가요?preposterous                                                말도 안 되는
+hold off                                                    미루다
+procrastinate                                               미루다
+predicament                                                 곤경
+plight                                                      역경/고난
+presume                                                     추정하다
+rampant                                                     만연한
+
+primer                                                      입문서
+conjugate                                                   켤레
+negated*                                                    부호를 반전시킨
+vice versa                                                  그 반대도 마찬가지
+limb                                                        팔/다리 (사지)
+trigonometric                                               삼각함수의 
+omit                                                        생략하다 
+offload*                                                    떠넘기다
+intact*                                                     온전한
+temple arm                                                  안경다리
+temple                                                      관자놀이
+irrigation                                                  관개(농업)
+polarize                                                    양극화하다
+
+be in place                                                 시행되다 
+drop off                                                    전달하다/내려주다
+die down                                                    가라앉다
+dress down                                                  호되게 꾸짖다
+went south                                                  상황이 나빠지다
+put in                                                      요청하다/전화걸다
+tap into                                                    접속하다/도청하다 
+put up                                                      display/show/내보이다
+put up                                                      저항하다
+
+put in
+i'll put in a call to have the local authorities search the place
+
+put up
+I had just forgotten how to put up a good fight.
+
+tap into
+if tapped into, there's enough bandwidth for hackers to conduct massive cyberattacks.plagiarize                                                  표절하다
+plethora                                                    과잉/지나침
+plight                                                      역경/고난
+rash                                                        성급한
+
+poignant                                                    가슴아픈/감동적인
+go about                                                    처리하다
+face up to                                                  직시하다
+edge out                                                    간신히 이기다
+
+cover*                                                      다루다/보도하다
+ratify                                                      비준하다
+rectify                                                     바로잡다
+enshrine                                                    소중히 모시다
+raucous                                                     시끄러운
+reconcile                                                   화해하다
+recede                                                      물러나다
+Live off                                                    ~로 생활하다
+duck out                                                    슬그머니 빠져나가다
+ease off                                                    완화되다
+end up                                                      결국 ~하게 되다
+fall for                                                    속다
+head in                                                     들어가다
+
+go about
+I don't know how to go about this task
+
+live off
+Living off the land (땅에서 나는 것으로 살아간다)
+
+fall for
+i am not falling for that trick again
+
+head in
+then we'll head in for the rescueproficient                                                      능숙한
+placate                                                         달래다
+pique                                                   (감정을)자극하다/화나게 하다
+
+promulgate                                                      공표하다
+profane                                                         불경스러운
+prodigious                                                      엄청난
+
+deform*                                                         변형시키다
+indoctrination                                                  정치적/종교적 세뇌
+pompous                                                         거만한/잘난 체하는
+propagate                                                       퍼뜨리다
+propel                                                          나아가게 하다
+propensity                                                      경향
+
+head off                                                        막다
+hold off                                                        미루다
+hold over                                                       (일정)연기하다
+hear out                                                        끝까지 듣다
+hit it off                                                      죽이 잘 맞다
+
+hold over  
+The meeting was held over until next week.
+회의가 다음 주로 연기되었다.
+
+head off 
+The company took action to head off the strike
+회사는 파업을 막기 위해 조치를 취했다
+
+hear out 
+hear me out  
+끝까지 들어줘pungent                                                         톡 쏘는/자극적인
+quench                                                          (갈증 등을)해소하다
+rancid                                                          악취나는
+keep at                                                      포기하지 않고 계속하다
+kick around                                                     논의하다
+
+ascension                                                       승천/승진
+deform*                                                         변형시키다
+salvage                                                         구조하다/회복하다
+taint                                                           오염시키다 
+inversion                                                       도치
+hunker                                                          잠복하다 
+quaint                                                          예스러운 매력이 있는
+query                                                           질문/의문
+rapport(발음)                                                   친밀한 관계
+quibble                                                         트집 잡다
+quirk                                                           별난 점
+rant                                                            고함치다
+
+give in                                                         굴복하다
+hang out                                                        어울리다
+hunker down                                                     단단히 준비하다
+be set to + 동사원형                                            ~할 예정이다
+unmanned                                                        무인의 
+prosaic                                                         평범한/지루한
+prosper                                                         번영하다
+prudent                                                         신중한
+punctual                                                        시간을 잘 지키는
+accredited                                                      승인받은
+undue                                                           과도한 
+pugnacious                                                      싸우기 좋아하는
+
+reproach                                                        꾸짖다
+precipitate                                                     촉발시키다
+yearn                                                           동경하다
+absurd                                                          부조리
+behalf                                                          이익
+affiliate                                                       제휴하다
+adverse                                                         부정적인
+
+put out (fires)                                                 불을 끄다/진압하다
+put out                                                         놓아두다/배치하다
+fend off                                                        막아내다
+knock off                                                       그만두다
+lead up to                                                      결국 ~에 이르다
+collapsing*                                                     접히는/숨겨지는
+envelope*                                                       한계/현재기술수준
+characteristics*                                                특징
+definite*                                                       확실한  
+playback*                                                       재생(동영상)
+analytical*                                                     해석적
+heuristic*                                                      경험에 의거해 알게된
+relent                                                          누그러지다
+renounce                                                        포기하다
+
+anemia                                                          빈혈
+anemic                                                          빈혈의
+millet                                                          수수(곡물종류) 
+dietary                                                         음식물의
+rejuvenate                                                      활력을 되찾게 하다
+relish                                                          즐기다
+lash                                                            채찍질/휘갈기다 
+remorse                                                         후회
+
+fizzle out                                                      흐지부지 끝나다
+flare up                                                        확 타오르다/악화되다
+freak out                                                       기겁하다
+lash out                                                        마구 화를 내다testament                                                       증거
+ability*                                                        기능/가능성
+identical*                                                      동일한
+impart*                                                         (지식을)전하다
+possessions                                                     소지품
+socio-demographic                                               사회 인구학적
+reprehensible                                                   비난받을 만한
+reprieve                                                        유예/집행 연기
+reprimand                                                       질책하다
+reprisal(발음)                                                  보복
+servings                                                        먹거나 마시는 양
+
+lock in                                                         확정하다
+lighten up                                                      기분을 풀다
+live down                                                       잊히게 하다
+lay into                                                        거칠게 비난하다
+let on                                                          내색하다/누설하다
+let up                                                          약해지다
+
+servings
+One serving of rice  밥 한 공기
+Two servings of juice  주스 두 잔
+The package contains 3 servings  이 포장에는 3인분이 들어 있다
+
+live down
+She's trying to live down her past 
+그녀는 과거를 잊히게 하려고 노력하고있다 (잊으려 x)
+*다른 사람들이 본인의 과거를 기억하지 못하게 하려고 한다는 뜻임
+
+let on 
+don't let on that you're disappointed.
+실망했다는 것을 내색하지마
+
+let on 
+The rain hasn't let up all day.
+비가 하루 종일 약해지지 않았다.pragmatist                                                      실용주의자
+denote*                                                         의미하다
+accommodate*                                                    수용하다
+object                                                          객체
+take as input                                                   입력으로 받는다
+incorporate*                                                    포함하다
+coerce*                                                         강제하다
+
+
+take as input 입력으로 받는다
+The Initialize functions take as input the Direct3D device and the name of the Targa image file.
+
+set off 촉발시키다
+The incident set off a chain of protests across the country.
+그 사건은 전국적인 연쇄 시위를 촉발시켰다

@@ -1,0 +1,113 @@
+affirm*                                                     단언하다 
+interdependent*                                             상호의존적인
+susceptible*                                                민감한/예민한 
+constraint*                                                 제약조건
+dimension*                                                  크기/규모/차원
+fluctuation*                                                변동
+subsequent*                                                 그 다음의
+transient*                                                  일시적인
+underway                                                    진행중인
+redundant*                                                  불필요한/중복된
+interdependent*                                             상호의존적인
+susceptible*                                                민감한/예민한 
+constraint*                                                 제약조건
+garner*                                                     모으다
+inclusive*                                                  포용적인
+reinstate*                                                  복귀시키다
+epiphany*                                                   깨달음
+inclusion*                                                  포함/포용
+disaggregate*                                               분산된/분해된
+agitate*                                                    뒤흔들다
+cover*                                                      다루다/보도하다
+conspicuous*                                                눈에 띄는
+confide*                                                    털어놓다/신뢰하다
+consecutive*                                                연속적인
+coax*                                                       달래다/꾀어내다
+contrive*                                                   고안하다
+condense*                                                   요약하다/응축하다
+dwindle*                                                    줄어들다/감소하다
+despicable*                                                 경멸할 만한
+discreet*                                                   비밀스런/신중한
+tabulate*                                                   표로 만들다
+causation*(발음)                                            인과적 관계
+station*                                                    배치하다/주둔시키다/역
+stretch*                                                    압박하다
+prospective writer*                                         작가 지망생
+auxiliary*                                                  보조의
+alternately*                                                번갈아가며
+interest*                                                   지분/이자
+configuration*                                              환경 설정
+imperative*                                                 필수적인
+lucrative*                                                  수익성 있는
+probability*                                                개연성/확률
+nadir*                                                      최저점
+contention*                                                 경쟁/충돌/논쟁
+concatenation*                                              연결/결합
+disaggregate*                                               분산된/분해된
+sequential*                                                 순차적인
+serial*                                                     순차적인
+discrete*                                                   이산의/분리된
+for the sake of*                                            ~를 위해서
+uniformly*                                                  균일하게
+interpret*                                                  해석하다/이해하다
+inequality*                                                 부등식/불평등
+assumption*                                                 가정
+meddle*                                                     간섭하다
+mediocre*                                                   평범한/중간 정도의
+practice*                                                   수행하다/실천하다/관행
+deposit*                                                    매장층/보증금
+azimuthal*				                                    방위각의
+perturbation*			                                    작은 변화
+interleave*                                                 번갈아가며 실행하다
+assume*                                             (타인의신분을)취하다/추정하다
+reiterate*                                                  반복하다
+redundant*                                                  불필요한/중복의
+serial*                                                     순차적인
+interventions*                                              해결책
+intermittent*                                               간헐적인
+precarious*                                                 불안정한
+verbosity*                                                  상세도
+abort*                                                      중단시키다
+poll*                                                       주기적으로 확인하다
+respective*                                                 각각의
+executable*                                                 실행파일
+configured*                                                 설정된
+stunt*                                                      꼼수
+retrieve*                                                   되찾아오다
+enable*                                                     활성화시키다
+underlying*                                                 기반이되는
+anatomy*                                                    구조분석
+directive*                                                  명령어
+resolution*                                            결의안/해결/결심/해상도 
+grain*                                                      곡물/입자/결
+pertinent*                                                  적절한
+determine*                                                  알아내다/결정하다
+privy*                                                      알게 된
+persevere*                                                  인내심을 갖고 하다
+reside*                                                     살다/거주하다/위치하다
+roundup*                                                    요약/총정리
+solution*                                                   용액/해결책
+negated*                                                    부호를 반전시킨
+offload*                                                    떠넘기다
+intact*                                                     온전한
+cover*                                                      다루다/보도하다
+deform*                                                     변형시키다
+collapsing*                                                 접히는/숨겨지는
+envelope*                                                   한계/현재기술수준
+characteristics*                                            특징
+definite*                                                   확실한  
+playback*                                                   재생(동영상)
+analytical*                                                 해석적
+heuristic*                                                  경험에 의거해 알게된
+ability*                                                    기능/가능성
+identical*                                                  동일한
+impart*                                                     (지식을)전하다
+possessions                                                 소지품
+denote*                                                     의미하다
+accommodate*                                                수용하다
+incorporate*                                                포함하다
+coerce*                                                     강제하다
+
+put off*                                                    미루다
+work through*                                               극복하다
+hold back*                                                  억제하다

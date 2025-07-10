@@ -1,13 +1,13 @@
 exhort                                                      권고하다
 unleash                                                     촉발시키다
-Set off                                                     촉발시키다
+set off                                                     촉발시키다
 crippling                                            제대로 기능을 못 하게 만들다
-inclusive                                                   포용적인
+inclusive*                                                  포용적인
 exempt                                                      면제된
 proliferation                                               급증
 
 responding to                                               ~에 대응하는것
-annexation                                                  합병
+annexation(발음)                                            합병
 solemn                                                      엄숙한
 collective                                                  공동의
 ritual                                                      의례
@@ -26,3 +26,7 @@ fickle                                                      변덕스러운
 flourish                                                    번창하다
 ambassador                                                  대사
 obligation                                                  의무
+
+set off 촉발시키다
+The incident set off a chain of protests across the country.
+그 사건은 전국적인 연쇄 시위를 촉발시켰다.

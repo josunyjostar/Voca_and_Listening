@@ -1,4 +1,4 @@
-reinstate                                                   복귀시키다
+reinstate*                                                  복귀시키다
 reconnaissance                                              정찰
 pose threat                                                 (위협을)주다
 fight it out                                                끝까지 싸우다

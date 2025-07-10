@@ -6,7 +6,7 @@ fortify                                                     강화하다
 frantic                                                     미친듯한
 frenzy                                                      광란
 futile                                                      헛된
-garner                                                      모으다
+garner*                                                     모으다
 glean                                                       수집하다
 grave                                                       심각한/무덤
 gregarious                                                  사교적인

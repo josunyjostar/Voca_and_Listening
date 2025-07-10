@@ -1,23 +1,25 @@
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
+pragmatist                                                      실용주의자
+denote*                                                         의미하다
+accommodate*                                                    수용하다
+object                                                          객체
+take as input                                                   입력으로 받는다
+incorporate*                                                    포함하다
+coerce*                                                         강제하다
+affair                                                          일, 사건
+approach                                                        접근(법)
+bond                                                            유대, 유대감
+commitment                                                      약속, 헌신
+consensus                                                       합의
+criterion                                                       기준
+distinction                                                     차이/구별
+emphasis                                                        강조
+entity                                                          독립체
+essence                                                         본질
+estate                                                          사유지/재산
+
+take as input 입력으로 받는다
+The Initialize functions take as input the Direct3D device and the name of the Targa image file.
+
+set off 촉발시키다
+The incident set off a chain of protests across the country.
+그 사건은 전국적인 연쇄 시위를 촉발시켰다.

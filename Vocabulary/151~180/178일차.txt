@@ -6,16 +6,7 @@ deform                                                          변형시키다
 
 
 
-expanse: 넓은 공간
-expertise: 전문 지식
-factor: 요인
-finesse: 기교, 솜씨
-hardship: 어려움
-hindsight: 뒤늦은 깨달음
-incentive: 유인책
-incidence: 발생률
-indication: 징후, 표시
-initiative: 주도(권)
+
 integrity: 진실성, 완전성
 junction: 교차점, 연결점
 liability: 책임 
@@ -1023,19 +1014,7 @@ previously: 이전에
 
 primarily: 주로
 
-privately: 개인적으로
 
-probably: 아마
-
-promptly: 신속하게
-
-properly: 적절히
-
-purely: 순전히
-
-rarely: 드물게
-
-readily: 쉽게
 
 relatively: 상대적으로
 
@@ -1134,26 +1113,54 @@ willingly: 기꺼이
 기타 (관용구/연결어 등)
 as a matter of fact: 사실은
 
-at hand: 가까이에
-
-by and large: 대체로
-
-by virtue of: ~ 덕분에
-
-for instance: 예를 들어
-
-in essence: 본질적으로
 
 in lieu of: ~ 대신에
-
 in retrospect: 돌이켜보면
-
 on behalf of: ~을 대신하여
-
-on the contrary: 그와 반대로
-
 on the verge of: ~의 직전에
-
 take for granted: 당연하게 여기다
-
 with regard to: ~에 관하여
+
+It’s not like... – 마치 ~인 것처럼 (부정 표현 강조)
+ e.g., It’s not like I don’t care.
+
+Let alone ~ – ~은 말할 것도 없이
+ e.g., He can’t even cook, let alone bake a cake.
+
+What matters is... – 중요한 건 ~이다
+There’s no telling... – ~는 알 수 없다
+If anything, ... – 오히려, 도리어
+For what it’s worth – 별거 아니지만, 참고로
+
+
+
+bent out of shape – 기분 상한
+better off – 더 나은 (상황)
+big picture – 전체적인 상황, 큰 틀
+by the book – 규칙대로, 원칙대로
+
+down the road – 앞으로, 미래에
+
+in the loop – (정보 공유) 상황을 알고 있는
+
+off the hook – 곤경에서 벗어난
+
+on edge – 예민한, 긴장한
+
+on the same page – 의견이 일치한
+
+on thin ice – 위태로운 상황에 처한
+
+out of the blue – 느닷없이
+
+play it by ear – 즉흥적으로 하다
+
+pull someone's leg – 놀리다
+
+under the weather – 몸이 안 좋은
+
+up in the air – 미정인, 결정되지 않은
+
+walk on eggshells – 눈치를 보다, 조심하다
+
+you name it – 뭐든지 (다 있다)

@@ -1,23 +1,24 @@
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
+truncate*                                                       길이를 줄이다
+incidence*                                                      발생률
+finance                                                         자금을 대다
+expansion                                                       확대
+ranch                                                           목장
+expanse                                                         넓은 공간
+expertise                                                       전문 지식
+factor                                                          요인
+finesse                                                         기교, 솜씨
+hardship                                                        어려움
+hindsight                                                       뒤늦은 깨달음
+incentive                                                       유인책
+indication                                                      징후/표시
+initiative                                                      주도(권)
+readily                                                         쉽게
+
+at hand                                                         가까이에
+by and large                                                    대체로
+by virtue of                                                    덕분에
+for instance                                                    예를 들어
+in essence                                                      본질적으로
+a far cry from                                                  ~와는 거리가 먼
+ahead of the curve                                              시대를 앞서가는
+at the end of the day                                           결국에는 (요약, 결론할 때)

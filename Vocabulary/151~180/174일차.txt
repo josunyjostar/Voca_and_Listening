@@ -1,17 +1,18 @@
-truncate*                                                       길이를 줄이다
+indication                                                      징후/표시
+initiative                                                      주도(권)
 incidence*                                                      발생률
-finance                                                         자금을 대다
+
+truncate*                                                       길이를 줄이다
+expanse                                                         넓은 공간
 expansion                                                       확대
 ranch                                                           목장
-expanse                                                         넓은 공간
 expertise                                                       전문 지식
 factor                                                          요인
 finesse                                                         기교, 솜씨
 hardship                                                        어려움
 hindsight                                                       뒤늦은 깨달음
 incentive                                                       유인책
-indication                                                      징후/표시
-initiative                                                      주도(권)
+finance                                                         자금을 대다
 readily                                                         쉽게
 
 at hand                                                         가까이에

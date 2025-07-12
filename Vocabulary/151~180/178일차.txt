@@ -1,34 +1,9 @@
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-
-
-
-
 integrity: 진실성, 완전성
 junction: 교차점, 연결점
 liability: 책임 
 likelihood: 가능성
-neglect: 소홀
-norm: 규범
-notion: 개념
-premise: 전제
-presence: 존재
-presumption: 추정
-prevalence: 유병률, 보급
-proceeding: 소송, 절차
-profundity: 심오함
-projection: 예측, 투영
-proportion: 비율
-prospect: 전망
-provision: 공급, 대비
-pursuit: 추구
-quandary: 곤경
-quota: 할당량
-rationale: 근거
-relevance: 관련성
+premise                                                             전제
+presence                                                            존재
 remedy: 해결책
 rendition: 연주, 표현
 
@@ -1114,10 +1089,7 @@ willingly: 기꺼이
 as a matter of fact: 사실은
 
 
-in lieu of: ~ 대신에
-in retrospect: 돌이켜보면
-on behalf of: ~을 대신하여
-on the verge of: ~의 직전에
+
 take for granted: 당연하게 여기다
 with regard to: ~에 관하여
 
@@ -1138,29 +1110,13 @@ bent out of shape – 기분 상한
 better off – 더 나은 (상황)
 big picture – 전체적인 상황, 큰 틀
 by the book – 규칙대로, 원칙대로
-
 down the road – 앞으로, 미래에
-
 in the loop – (정보 공유) 상황을 알고 있는
-
 off the hook – 곤경에서 벗어난
-
 on edge – 예민한, 긴장한
-
-on the same page – 의견이 일치한
-
 on thin ice – 위태로운 상황에 처한
-
-out of the blue – 느닷없이
-
 play it by ear – 즉흥적으로 하다
-
 pull someone's leg – 놀리다
-
 under the weather – 몸이 안 좋은
-
-up in the air – 미정인, 결정되지 않은
-
 walk on eggshells – 눈치를 보다, 조심하다
-
 you name it – 뭐든지 (다 있다)

@@ -1,23 +1,22 @@
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
+rationale                                                           근거
+quandary                                                            곤경
+
+neglect                                                             소홀
+norm                                                                규범
+notion                                                              개념
+presumption                                                         추정
+prevalence                                                          유병률/보급
+proceeding                                                          소송/절차
+profundity                                                          심오함
+projection                                                          예측/투영
+proportion                                                          비율
+prospect                                                            전망
+provision                                                           공급/대비
+pursuit                                                             추구
+relevance                                                           관련성
+quota                                                               할당량
+
+in lieu of                                                          ~대신에
+in retrospect                                                       돌이켜보면
+on the verge of                                                     ~의 직전에
+on behalf of                                                        ~을 대신하여

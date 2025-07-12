@@ -1,6 +1,7 @@
 get ahead                                                   성공하다
 get at                                                      의미하다
 
+solution*                                                   용액/해결책
 reside*                                                     살다/거주하다/위치하다
 roundup*                                                    요약/총정리
 round off                                                   반올림
@@ -12,7 +13,6 @@ plausible                                                   그럴듯한
 prevalent                                                   일반적인/널리 퍼진
 probity                                                     정직성
 bait                                                        미끼를 놓다
-solution*                                                   용액/해결책
 
 sweep under the rug                                         은폐하다
 take on                                                  (어떤 특성이나 모양을)띠다

@@ -1,3 +1,6 @@
+renounce                                                        포기하다
+relent                                                          수그러들다
+
 collapsing*                                                     접히는/숨겨지는
 envelope*                                                       한계/현재기술수준
 characteristics*                                                특징
@@ -5,9 +8,6 @@ definite*                                                       확실한
 playback*                                                       재생(동영상)
 analytical*                                                     해석적
 heuristic*                                                      경험에 의거해 알게된
-relent                                                          누그러지다
-renounce                                                        포기하다
-
 anemia                                                          빈혈
 anemic                                                          빈혈의
 millet                                                          수수(곡물종류) 

@@ -1,23 +1,21 @@
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
-deform                                                          변형시키다
+rendition                                                       연주/표현
+junction*                                                       교차점/연결점
+
+swoop                                                           급습하다
+agent                                                           대리인
+premise                                                         전제
+presence                                                        존재
+integrity                                                       진실성/완전성
+liability                                                       책임 
+likelihood                                                      가능성
+remedy                                                          해결책
+attain                                                          달성하다
+attest                                                          증명하다
+attribute                                                      ~의 탓으로 돌리다
+avert                                                           피하다, 막다
+abort                                                           중단시키다
+
+off the hook                                                    곤경에서 벗어난
+play it by ear                                                  즉흥적으로 하다
+on edge                                                         예민한/긴장한
+on thin ice                                                     위태로운 상황에 처한

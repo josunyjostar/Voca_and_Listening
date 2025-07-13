@@ -1,4 +1,4 @@
-rationale                                                           근거
+rationale*                                                          근거
 quandary                                                            곤경
 
 neglect                                                             소홀

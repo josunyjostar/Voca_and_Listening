@@ -1,51 +1,16 @@
-integrity: 진실성, 완전성
-junction: 교차점, 연결점
-liability: 책임 
-likelihood: 가능성
-premise                                                             전제
-presence                                                            존재
-remedy: 해결책
-rendition: 연주, 표현
 
 
 report: 보고서
-
 representation: 표현, 대표
-
 reputation: 명성
-
 resilience: 회복력
-
-resource: 자원
-
 restraint: 자제
-
-retail: 소매
-
-revelation: 폭로
-
-revenue: 수익
-
 reversal: 역전
-
 rigor: 엄격함
-
-rival: 경쟁자
-
-ruin: 폐허, 파멸
-
-sanction: 제재
-
-scope: 범위
-
 scrutiny: 정밀 조사
-
-segment: 부분 (이미 제시된 segment와 중복. '부분'의 다른 뉘앙스)
-
+segment: 부분
 selection: 선택
-
 sequence: 순서
-
 serenity: 평온함
 
 shift: 변화, 교대
@@ -121,15 +86,6 @@ anticipate: 예상하다
 
 appeal: 호소하다
 
-applaud: 박수치다
-
-apply: 적용하다, 지원하다
-
-appoint: 임명하다
-
-appreciate: 감사하다, 진가를 알다
-
-approach: 접근하다
 
 articulate: 분명히 표현하다
 
@@ -143,19 +99,6 @@ assign: 할당하다
 
 assume: (책임을) 떠맡다, (가설을) 세우다 (이미 제시된 assume은 '추정하다'의 의미로 사용되었으니 다른 의미의 '떠맡다/세우다'로 사용합니다)
 
-attain: 달성하다
-
-attest: 증명하다
-
-attribute: ~의 탓으로 돌리다
-
-authorize: 권한을 부여하다
-
-avert: 피하다, 막다
-
-bear: 참다, 지니다
-
-bolster: 강화하다
 
 broaden: 넓히다
 
@@ -1112,10 +1055,7 @@ big picture – 전체적인 상황, 큰 틀
 by the book – 규칙대로, 원칙대로
 down the road – 앞으로, 미래에
 in the loop – (정보 공유) 상황을 알고 있는
-off the hook – 곤경에서 벗어난
-on edge – 예민한, 긴장한
-on thin ice – 위태로운 상황에 처한
-play it by ear – 즉흥적으로 하다
+
 pull someone's leg – 놀리다
 under the weather – 몸이 안 좋은
 walk on eggshells – 눈치를 보다, 조심하다

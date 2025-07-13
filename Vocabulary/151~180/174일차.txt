@@ -6,13 +6,13 @@ truncate*                                                       길이를 줄이
 expanse                                                         넓은 공간
 expansion                                                       확대
 ranch                                                           목장
-expertise                                                       전문 지식
-factor                                                          요인
 finesse                                                         기교, 솜씨
+finance                                                         자금을 대다
 hardship                                                        어려움
 hindsight                                                       뒤늦은 깨달음
 incentive                                                       유인책
-finance                                                         자금을 대다
+expertise                                                       전문 지식
+factor                                                          요인
 readily                                                         쉽게
 
 at hand                                                         가까이에

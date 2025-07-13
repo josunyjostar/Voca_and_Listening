@@ -108,8 +108,9 @@ accommodate*                                                수용하다
 incorporate*                                                포함하다
 coerce*                                                     강제하다
 truncate*                                                   길이를 줄이다
-incidence*                                                      발생률
-
+rationale*                                                  근거
+incidence*                                                  발생률
+junction*                                                   교차점/연결점
 
 put off*                                                    미루다
 work through*                                               극복하다

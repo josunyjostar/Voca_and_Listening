@@ -1,7 +1,7 @@
 station*                                                    배치하다/주둔시키다/역
 shape up                                                    전개되다
 stunting                                                    발육부진
-stretch*                                                    압박하다
+stretch*                                                    압박하다/과장
 lingering                                                   오래 끄는
 admit                                             들어가게 하다/입원시키다/인정하다
 desperate                                                   자포자기한

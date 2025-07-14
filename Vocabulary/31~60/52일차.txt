@@ -12,7 +12,7 @@ heady                                                       자극적인
 warfare                                                     분쟁
 internal                                                    내부의 
 evaporate                                                   증발시키다    
-stretch                                                     압박하다
+stretch*                                                    압박하다/과장
 out of fear                                                 두려움 때문에
 lockdown                                                    봉쇄 
 mercenary                                                   용병

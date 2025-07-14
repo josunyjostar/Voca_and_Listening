@@ -1,5 +1,6 @@
 rationale*                                                          근거
 quandary                                                            곤경
+provision                                                           공급/대비
 
 neglect                                                             소홀
 norm                                                                규범
@@ -11,7 +12,6 @@ profundity                                                          심오함
 projection                                                          예측/투영
 proportion                                                          비율
 prospect                                                            전망
-provision                                                           공급/대비
 pursuit                                                             추구
 relevance                                                           관련성
 quota                                                               할당량

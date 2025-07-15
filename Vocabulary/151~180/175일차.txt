@@ -2,11 +2,11 @@ rationale*                                                          근거
 quandary                                                            곤경
 provision                                                           공급/대비
 
+prevalence                                                          유병률/보급
 neglect                                                             소홀
 norm                                                                규범
 notion                                                              개념
 presumption                                                         추정
-prevalence                                                          유병률/보급
 proceeding                                                          소송/절차
 profundity                                                          심오함
 projection                                                          예측/투영

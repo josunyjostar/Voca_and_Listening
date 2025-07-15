@@ -111,6 +111,8 @@ truncate*                                                   길이를 줄이다
 rationale*                                                  근거
 incidence*                                                  발생률
 junction*                                                   교차점/연결점
+stretch*                                                    압박하다/과장
+drive*                                                      캠페인
 
 put off*                                                    미루다
 work through*                                               극복하다

@@ -113,6 +113,12 @@ incidence*                                                  발생률
 junction*                                                   교차점/연결점
 stretch*                                                    압박하다/과장
 drive*                                                      캠페인
+substitution*                                               대입
+occlusion*                                                  폐색/폐쇄
+discontinuity*                                              불연속면
+apparent*                                                   분명한
+succession*                                                 연속
+constant*                                                   끊임없는/변함없는
 
 put off*                                                    미루다
 work through*                                               극복하다

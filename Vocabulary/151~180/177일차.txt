@@ -1,8 +1,10 @@
-stretch*                                                    압박하다/과장
+tribute                                                     찬사
+put in place                                                마련하다/도입하다 
+pay off                                                     결실을 맺다
+
+stretch*                                                    압박하다/과장/구간
 drive*                                                      캠페인
 unduly                                                      지나치게
-pay off                                                     결실을 맺다
-put in place                                                마련하다/도입하다 
 
 seldom                                                      거의 ~않다
 simultaneously                                              동시에
@@ -12,8 +14,6 @@ harness                                                     활용하다
 highlight                                                   강조하다
 trajectory                                                  궤적
 transition                                                  전환
-tribute                                                     찬사
-
 bent out of shape                                           기분 상한
 better off                                                  더 나은 (상황)
 by the book                                                 규칙대로, 원칙대로
@@ -21,7 +21,6 @@ by the book                                                 규칙대로, 원칙
 bent out of shape 
 I was really bent out of shape after that meeting.
 그 회의 후에 정말 스트레스받았어
-
 
 it's not a stretch to say that I've taken advantage of that fact.
 

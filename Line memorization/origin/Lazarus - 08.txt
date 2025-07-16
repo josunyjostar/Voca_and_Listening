@@ -124,6 +124,8 @@ Lazarus recruited me because of...
 how well I know Skinner.
 (내가 스키너를 얼마나 잘 아는지 때문에.)
 
+------------ 허쉬 추궁 ------------
+
 "Special task force"?
 ("특수 기동대"?)
 
@@ -222,7 +224,7 @@ I've been waiting a long time to kill you...
 
 with my own hands.
 (내 손으로.)
-
+------------ 크리스 연락 끊김 ----------
 We lost communication with Chris last night.
 (우리는 어젯밤 크리스와 연락이 끊겼어.)
 
@@ -293,7 +295,7 @@ for us to trust a spy like her,
 
 she would have to be willing to put her life on the line.
 (그녀는 목숨을 걸어야 한다는 걸.)
-
+------------ 크리스 연락 끊김 ----------
 No matter how many surgeries you have,
 (수술을 아무리 많이 받아도,)
 

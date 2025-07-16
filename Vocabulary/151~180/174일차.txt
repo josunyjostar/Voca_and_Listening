@@ -1,7 +1,7 @@
-indication                                                      징후/표시
-initiative                                                      주도(권)
 incidence*                                                      발생률
 truncate*                                                       길이를 줄이다
+indication                                                      징후/표시
+initiative                                                      주도(권)
 
 expanse                                                         넓은 공간
 expansion                                                       확대

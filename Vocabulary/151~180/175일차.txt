@@ -1,8 +1,8 @@
 rationale*                                                          근거
 quandary                                                            곤경
-provision                                                           공급/대비
-
 prevalence                                                          유병률/보급
+
+provision                                                           공급/대비
 neglect                                                             소홀
 norm                                                                규범
 notion                                                              개념

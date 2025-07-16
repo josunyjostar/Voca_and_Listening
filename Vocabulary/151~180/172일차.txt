@@ -1,6 +1,7 @@
 reprehensible                                                   비난받을 만한
 reprieve                                                        유예/집행 연기
 reprimand                                                       질책하다
+reprisal(발음)                                                  보복
 
 testament                                                       증거
 ability*                                                        기능/가능성
@@ -8,7 +9,6 @@ identical*                                                      동일한
 impart*                                                         (지식을)전하다
 possessions                                                     소지품/소유
 socio-demographic                                               사회 인구학적
-reprisal(발음)                                                  보복
 servings                                                        먹거나 마시는 양
 
 lock in                                                         확정하다

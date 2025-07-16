@@ -1,6 +1,6 @@
 rendition                                                       연주/표현
 junction*                                                       교차점/연결점
-avert                                                           피하다, 막다
+avert                                                           피하다/막다
 
 swoop                                                           급습하다
 agent                                                           대리인

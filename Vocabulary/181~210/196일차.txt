@@ -1,22 +1,6 @@
 
 
-report: 보고서
-representation: 표현, 대표
-reputation: 명성
-resilience: 회복력
 
-
-shift: 변화, 교대
-
-shortage: 부족
-
-shred: 작은 조각
-
-significance: 중요성
-
-simplicity: 단순성
-
-skepticism: 회의론
 
 
 sophistication: 세련됨
@@ -31,22 +15,6 @@ strength: 강점
 
 substance: 물질, 본질
 
-succession: 연속
-
-suffering: 고통
-
-supplement: 보충
-
-
-
-synthesis: 종합
-
-
-terminus: 종착역
-trait: 특성
-
-turnover: 이직률, 회전율
-undertaking: 사업, 과제
 
 
 
@@ -57,28 +25,10 @@ absorb: 흡수하다
 
 accomplish: 성취하다
 
-adapt: 적응하다
-
-address: 다루다, 연설하다
-
-adjust: 조정하다
-
-advocate: 옹호하다
-
-afford: 여유가 있다
-
-allocate: 할당하다
 
 alter: 변경하다
 
-analyze: 분석하다
 
-anticipate: 예상하다
-
-appeal: 호소하다
-
-
-articulate: 분명히 표현하다
 
 ascertain: 확인하다
 
@@ -573,27 +523,7 @@ clear: 명확한
 
 cohesive: 응집력 있는
 
-comprehensive: 포괄적인
 
-concise: 간결한
-
-concrete: 구체적인
-
-confidential: 기밀의
-
-consistent: 일관된
-
-constant: 끊임없는
-
-constructive: 건설적인
-
-contemporary: 현대의, 동시대의
-
-conventional: 관습적인
-
-cordial: 진심 어린
-
-costly: 비용이 많이 드는
 
 credible: 신뢰할 수 있는
 
@@ -976,11 +906,6 @@ Let alone ~ – ~은 말할 것도 없이
 For what it’s worth – 별거 아니지만, 참고로
 
 
-
-
-
-down the road – 앞으로, 미래에
-in the loop – (정보 공유) 상황을 알고 있는
 
 pull someone's leg – 놀리다
 under the weather – 몸이 안 좋은

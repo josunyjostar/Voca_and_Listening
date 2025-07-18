@@ -1,4 +1,5 @@
 tribute                                                     찬사
+trait                                                       특성
 put in place                                                마련하다/도입하다 
 pay off                                                     결실을 맺다
 

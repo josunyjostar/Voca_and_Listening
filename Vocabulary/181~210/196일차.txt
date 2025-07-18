@@ -4,28 +4,7 @@
 
 
 
-assume: (책임을) 떠맡다, (가설을) 세우다 (이미 제시된 assume은 '추정하다'의 의미로 사용되었으니 다른 의미의 '떠맡다/세우다'로 사용합니다)
 
-
-compensate: 보상하다
-
-compile: 편집하다
-
-comply: 준수하다
-
-compose: 구성하다, 작곡하다
-
-comprehend: 이해하다
-
-compromise: 타협하다
-
-conceive: 상상하다, 생각하다
-
-conclude: 결론 내리다
-
-condemn: 비난하다
-
-confine: 제한하다
 
 confirm: 확인하다
 
@@ -102,16 +81,7 @@ diminish: 줄이다
 disclose: 폭로하다
 
 discount: 할인하다, 무시하다
-
-disrupt: 방해하다
-
-distort: 왜곡하다
-
-divert: 전환하다
-
-dominate: 지배하다
-
-dramatize: 각색하다, 극적으로 만들다
+로 만들다
 
 dwell: 살다, 깊이 생각하다
 
@@ -145,21 +115,6 @@ envision: 상상하다
 
 equip: 갖추다
 
-erect: 세우다
-
-establish: 설립하다
-
-estimate: 추정하다
-
-evaluate: 평가하다
-
-evoke: 불러일으키다
-
-exceed: 초과하다
-
-excel: 뛰어나다
-
-exert: 행사하다, 발휘하다
 
 exhaust: 소진하다, 지치게 하다
 
@@ -437,17 +392,6 @@ automatic: 자동의
 
 bare: 벌거벗은, 최소한의
 
-beneficial: 유익한
-
-biased: 편향된
-
-bold: 대담한
-
-brief: 간결한
-
-brilliant: 훌륭한, 빛나는
-
-brittle: 부서지기 쉬운
 
 calm: 침착한
 
@@ -537,15 +481,6 @@ essential: 필수적인
 
 esteemed: 존경받는
 
-ethical: 윤리적인
-
-even: 평평한, 심지어
-
-evident: 명백한
-
-exact: 정확한
-
-excessive: 과도한
 
 exclusive: 독점적인
 
@@ -647,15 +582,6 @@ intuitive: 직관적인
 irrelevant: 관련 없는
 
 부사 (Adverbs)
-accordingly: 따라서
-
-barely: 거의 ~않다
-
-consequently: 결과적으로
-
-currently: 현재
-
-definitely: 분명히
 
 elsewhere: 다른 곳에
 
@@ -696,24 +622,6 @@ individually: 개별적으로
 inevitably: 불가피하게
 
 initially: 처음에
-
-instantly: 즉시
-
-intensely: 강렬하게
-
-interchangeably: 호환 가능하게
-
-nearly: 거의
-
-nevertheless: 그럼에도 불구하고
-
-nonetheless: 그렇지만
-
-occasionally: 가끔
-
-originally: 원래
-
-partially: 부분적으로
 
 particularly: 특히
 
@@ -763,9 +671,7 @@ unquestionably: 의심할 여지 없이
 
 urgently: 긴급하게
 
-utterly: 완전히
 
-vastly: 엄청나게
 
 verbally: 구두로
 
@@ -782,7 +688,7 @@ widely: 널리
 willingly: 기꺼이
 
 기타 (관용구/연결어 등)
-as a matter of fact: 사실은
+
 
 
 

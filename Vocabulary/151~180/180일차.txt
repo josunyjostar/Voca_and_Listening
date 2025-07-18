@@ -2,7 +2,8 @@ incidental                                                  부수적인
 haze                                                     (시야를 가리는)희뿌연 것
 defuse                                      (위험상황을)진정시키다/(폭탄)해체하다
 inclusive                                                   포괄적인
-comprehensive                                               포괄
+comprehensive                                               포괄적인
+postulate                                                   가정하다
 
 sophistication                                              세련됨
 speculation                                                 추측
@@ -17,7 +18,6 @@ incapable                                                   ~할 수 없는
 namely                                                      즉
 naturally                                                   당연히
 facile                                                      쉬운, 피상적인
-postulate                                                   가정하다
 
 Pull someone's leg                                          놀리다
 under the weather                                           몸이 안 좋은

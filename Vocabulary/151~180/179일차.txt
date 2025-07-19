@@ -2,11 +2,13 @@ trait                                                       특성
 undertaking                                                 사업/과제
 inclusive                                                   포괄적인
 comprehensive                                               포괄적인
+conventional                                                관습적인
 
 succession*                                                 연속
 substitution*                                               대입
 occlusion*                                                  폐색/폐쇄
 discontinuity*                                              불연속면
+constant*                                                   끊임없는/변함없는
 apparent*                                                   분명한
 auditor                                                     회계감사
 shift                                                       변화/교대
@@ -15,8 +17,6 @@ supplement                                                  보충
 synthesis                                                   종합
 turnover                                                    이직률, 회전율
 articulate                                                  분명히 표현하다
-constant*                                                   끊임없는/변함없는
-conventional                                                관습적인
 cordial                                                     진심 어린/다정한
 down the road                                               앞으로, 미래에
 in the loop                                            (정보 공유)상황을 알고 있는

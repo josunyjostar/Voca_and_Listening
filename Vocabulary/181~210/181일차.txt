@@ -1,14 +1,15 @@
+assume                                                      (책임을)떠맡다/(가설을)세우다 
 hoe                                                         괭이
 stroke                                                      타법[타격]/때리기
-assume                                                      (책임을)떠맡다/(가설을)세우다 
-comply                                                      준수하다
-compose                                                     구성하다/작곡하다
+exert                                                       (권력을)행사하다/힘껏 노력하다
 comprehend                                                  이해하다
+compose                                                     구성하다/작곡하다
+
+comply                                                      준수하다
 conceive                                                    상상하다/생각하다
 conclude                                                    결론 내리다
 condemn                                                     비난하다
 confine                                                     제한하다
-exert                                                       (권력을)행사하다/힘껏 노력하다
 beneficial                                                  유익한
 ethical                                                     윤리적인
 utterly                                                     완전히

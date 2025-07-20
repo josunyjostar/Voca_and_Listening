@@ -2,6 +2,7 @@ incidental                                                  부수적인
 haze                                                     (시야를 가리는)희뿌연 것
 defuse                                      (위험상황을)진정시키다/(폭탄)해체하다
 inclusive                                                   포괄적인
+exclusive                                                   독점적인
 comprehensive                                               포괄적인
 postulate                                                   가정하다
 

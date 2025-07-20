@@ -48,21 +48,6 @@ counter: 반박하다, 대응하다
 
 cultivate: 경작하다, 함양하다
 
-decline: 감소하다, 거절하다
-
-deduce: 추론하다
-
-defy: 저항하다
-
-delegate: 위임하다
-
-deliberate: 심사숙고하다
-
-demonstrate: 시연하다, 증명하다
-
-depict: 묘사하다
-
-derive: 얻다, 유래하다
 
 designate: 지정하다
 
@@ -203,21 +188,7 @@ mediate: 중재하다
 
 merge: 합병하다
 
-mitigate: 완화하다
 
-monitor: 감시하다
-
-motivate: 동기를 부여하다
-
-navigate: 길을 찾다, 잘 처리하다
-
-necessitate: ~을 필요하게 만들다
-
-negate: 무효화하다
-
-negotiate: 협상하다
-
-normalize: 정상화하다
 
 notify: 통지하다
 
@@ -258,41 +229,8 @@ phase out: 단계적으로 중단하다
 
 
 
-preside: 주재하다
 
-prevail: 만연하다, 우세하다
 
-prioritize: 우선순위를 매기다
-
-process: 처리하다
-
-prohibit: 금지하다
-
-promote: 촉진하다, 승진시키다
-
-propose: 제안하다
-
-prosper: 번영하다 (이미 제시된 prosper와 중복. '번영하다'의 다른 뉘앙스)
-
-prove: 증명하다
-
-provide: 제공하다
-
-pursue: 추구하다
-
-qualify: 자격을 주다
-
-quantify: 수량화하다
-
-reduce: 줄이다
-
-refer: 참조하다, 언급하다
-
-refine: 정제하다
-
-reflect: 반영하다
-
-reform: 개혁하다
 
 regulate: 규제하다
 
@@ -348,28 +286,6 @@ crucial: 결정적인
 
 dependent: 의존적인
 
-desirable: 바람직한
-
-desperate: 절박한
-
-destitute: 궁핍한
-
-detailed: 상세한
-
-distinct: 뚜렷한
-
-distinguished: 저명한
-
-diverse: 다양한
-
-dominant: 지배적인
-
-dubious: 의심스러운
-
-durable: 내구성 있는
-
-exclusive: 독점적인
-
 exhaustive: 철저한
 
 expedient: 편리한, 적절한
@@ -388,25 +304,6 @@ feasible: 실행 가능한
 
 feeble: 연약한
 
-fierce: 맹렬한
-
-firm: 단단한, 확고한
-
-flexible: 유연한
-
-
-grand: 웅장한
-
-grave: 심각한, 무덤
-
-gross: 총체적인, 역겨운
-
-
-heavy: 무거운
-
-hidden: 숨겨진
-
-hollow: 속이 빈
 
 honest: 정직한
 
@@ -472,22 +369,7 @@ incidentally: 우연히, 그런데
 
 indeed: 정말로
 
-indirectly: 간접적으로
 
-individually: 개별적으로
-
-inevitably: 불가피하게
-
-initially: 처음에
-
-particularly: 특히
-
-perhaps: 아마도
-
-personally: 개인적으로
-
-
-relatively: 상대적으로
 
 reportedly: 보도에 따르면
 
@@ -513,11 +395,6 @@ urgently: 긴급하게
 verbally: 구두로
 
 
-Let alone ~ – ~은 말할 것도 없이
- e.g., He can’t even cook, let alone bake a cake.
-
-
-For what it’s worth – 별거 아니지만, 참고로
 
 
 

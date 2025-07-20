@@ -1,6 +1,7 @@
 breakdown                                                   실패[결렬/와해]
 confideltial                                                비밀의
 incarcerated                                                감금의
+entrench                                                    확고히하다
 tear gas                                                    최루탄
 break up                                                    해산시키다
 break away                                                  분리되다
@@ -10,7 +11,6 @@ have to do with(관용)                                       ~와 관련있다
 have nothing to do with                                     ~와 아무 관련이 없다
 make up                                                     ~구성하다
 viable                                                      생존 가능한
-entrench                                                    확고히하다
 
 distinctive                                                 독특한
 eerie                                                       섬뜩한

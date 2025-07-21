@@ -10,21 +10,6 @@ confirm: 확인하다
 
 conform: 따르다
 
-confront: 직면하다
-
-conserve: 보존하다
-
-consist: ~로 구성되다
-
-constitute: 구성하다 (이미 제시된 constitute와 중복. '구성하다'의 다른 뉘앙스)
-
-construct: 건설하다
-
-consult: 상담하다
-
-consume: 소비하다
-
-contemplate: 심사숙고하다
 
 contend: 주장하다, 다투다
 
@@ -59,7 +44,6 @@ devise: 고안하다
 
 devote: 헌신하다
 
-differentiate: 구별하다
 
 diminish: 줄이다
 
@@ -136,17 +120,6 @@ incline: ~할 마음이 생기게 하다
 
 incorporate: 포함하다 (이미 제시된 incorporate와 중복. '포함하다'의 다른 뉘앙스)
 
-incur: (손실을) 입다
-
-induce: 유도하다
-
-infer: 추론하다
-
-initiate: 시작하다
-
-innovate: 혁신하다
-
-inspect: 검사하다
 
 inspire: 영감을 주다
 
@@ -174,29 +147,6 @@ legitimize: 정당화하다
 
 levy: 부과하다 (이미 제시된 levy는 '추가 부담금/세금' 명사형으로 사용되었으니 동사형으로 사용합니다)
 
-leverage: 활용하다
-
-maintain: 유지하다
-
-manage: 관리하다, 간신히 해내다
-
-manifest: 나타내다 (이미 제시된 manifest는 '명백한' 형용사형으로 사용되었으니 동사형으로 사용합니다)
-
-manipulate: 조종하다
-
-mediate: 중재하다
-
-merge: 합병하다
-
-
-
-notify: 통지하다
-
-oblige: 의무를 지우다
-
-observe: 관찰하다, 준수하다
-
-obtain: 얻다
 
 occupy: 차지하다
 
@@ -262,27 +212,6 @@ ambiguous: 모호한
 
 ample: 충분한, 풍부한
 
-analytical: 분석적인 (이미 제시된 analytical과 중복. '분석적인'의 다른 뉘앙스)
-
-apt: 적절한
-
-arbitrary: 임의적인
-
-
-chief: 주요한
-
-chronic: 만성적인
-
-clear: 명확한
-
-cohesive: 응집력 있는
-
-
-
-credible: 신뢰할 수 있는
-
-crucial: 결정적인
-
 
 dependent: 의존적인
 
@@ -315,18 +244,6 @@ ignorant: 무지한
 
 immense: 거대한
 
-imminent: 임박한
-
-impartial: 공정한
-
-impeccable: 흠 잡을 데 없는
-
-implicit: 암묵적인
-
-impressive: 인상적인
-
-inadequate: 부적절한
-
 
 
 integral: 필수적인
@@ -335,27 +252,6 @@ intense: 강렬한
 
 interim: 임시의
 
-internal: 내부의
-
-intricate: 복잡한
-
-intuitive: 직관적인
-
-irrelevant: 관련 없는
-
-부사 (Adverbs)
-
-
-
-fairly: 상당히, 공정하게
-
-frankly: 솔직히
-
-frequently: 자주
-
-furthermore: 게다가
-
-gradually: 점진적으로
 
 hardly: 거의 ~않다
 
@@ -366,38 +262,9 @@ ideally: 이상적으로
 immediately: 즉시
 
 incidentally: 우연히, 그런데
-
-indeed: 정말로
-
-
-
-reportedly: 보도에 따르면
-
-roughly: 대략
-
-
-
-
 unevenly: 고르지 않게
-
-uniformly: 균일하게 (이미 제시된 uniformly과 중복. '균일하게'의 다른 뉘앙스)
-
-
-
-unlikely: ~할 것 같지 않은
-
-unquestionably: 의심할 여지 없이
-
-urgently: 긴급하게
+uniformly: 균일하게 
 
 
 
-verbally: 구두로
-
-
-
-
-
-
-walk on eggshells – 눈치를 보다, 조심하다
 you name it – 뭐든지 (다 있다)

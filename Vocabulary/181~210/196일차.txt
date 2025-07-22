@@ -19,24 +19,7 @@ contradict: 반박하다
 
 contribute: 기여하다
 
-convey: 전달하다
 
-convict: 유죄를 선고하다
-
-coordinate: 조정하다
-
-cope: 대처하다
-
-correlate: 연관시키다
-
-counter: 반박하다, 대응하다
-
-cultivate: 경작하다, 함양하다
-
-
-designate: 지정하다
-
-detect: 감지하다
 
 deter: 단념시키다
 
@@ -52,19 +35,9 @@ disclose: 폭로하다
 discount: 할인하다, 무시하다
 로 만들다
 
-dwell: 살다, 깊이 생각하다
 
-elevate: 높이다
 
-elicit: 이끌어내다
 
-embark: 착수하다
-
-embrace: 포옹하다, 받아들이다
-
-emerge: 나타나다
-
-emphasize: 강조하다
 
 enable: 가능하게 하다 (이미 제시된 enable은 '활성화시키다'의 의미로 사용되었으니 다른 의미의 '가능하게 하다'로 사용합니다)
 
@@ -106,38 +79,6 @@ foster: 육성하다
 furnish: 제공하다
 
 
-ignite: 불을 붙이다
-
-illustrate: 설명하다, 삽화를 그리다
-
-implement: 실행하다 (이미 제시된 implementing은 현재진행형으로 '구현하다'로 사용되었으니 다른 의미의 '실행하다'로 사용합니다)
-
-imply: 암시하다
-
-impose: 부과하다
-
-incline: ~할 마음이 생기게 하다
-
-incorporate: 포함하다 (이미 제시된 incorporate와 중복. '포함하다'의 다른 뉘앙스)
-
-
-inspire: 영감을 주다
-
-integrate: 통합하다
-
-intend: 의도하다
-
-interact: 상호작용하다
-
-interfere: 간섭하다
-
-interpret: 해석하다 (이미 제시된 interpret는 '해석하다/이해하다'로 사용되었으니 다른 뉘앙스의 '해석하다'로 사용합니다)
-
-intervene: 개입하다
-
-intimidate: 위협하다
-
-involve: 관련시키다, 포함하다
 
 justify: 정당화하다
 
@@ -176,95 +117,10 @@ pertain: 관련되다
 
 phase out: 단계적으로 중단하다
 
-
-
-
-
-
-
-regulate: 규제하다
-
-reinforce: 강화하다
-
-reject: 거부하다
-
-relate: 관련시키다
-
-release: 풀어주다, 공개하다
-
-
-reproduce: 복제하다, 번식하다
-
-
-
-형용사 (Adjectives)
-accurate: 정확한
-
-adequate: 충분한
-
-adjacent: 인접한
-
-affective: 감정적인
-
-affirmative: 긍정적인
-
-ambiguous: 모호한
-
-ample: 충분한, 풍부한
-
-
-dependent: 의존적인
-
-exhaustive: 철저한
-
-expedient: 편리한, 적절한
-
-explicit: 명시적인
-
-factual: 사실적인
-
-fair: 공정한, 상당한
-
-false: 잘못된
-
-familiar: 익숙한
-
-feasible: 실행 가능한
-
-feeble: 연약한
-
-
-honest: 정직한
-
-humble: 겸손한
-
-ideal: 이상적인
-
-ignorant: 무지한
-
-immense: 거대한
-
-
-
-integral: 필수적인
-
-intense: 강렬한
-
-interim: 임시의
-
-
 hardly: 거의 ~않다
 
 hence: 그러므로
-
-ideally: 이상적으로
-
-immediately: 즉시
-
 incidentally: 우연히, 그런데
-unevenly: 고르지 않게
-uniformly: 균일하게 
-
 
 
 you name it – 뭐든지 (다 있다)

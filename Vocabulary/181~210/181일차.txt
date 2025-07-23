@@ -3,6 +3,7 @@ hoe                                                         괭이
 stroke                                                      타법[타격]/때리기
 exert                                                       (권력을)행사하다/힘껏 노력하다
 comprehend                                                  이해하다
+comprehensive                                               포괄적인
 compose                                                     구성하다/작곡하다
 
 comply                                                      준수하다

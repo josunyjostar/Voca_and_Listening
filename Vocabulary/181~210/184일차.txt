@@ -1,3 +1,4 @@
+deduce                                                      추론하다
 induce                                                      유도하다
 manifest                                                    나타내다
 incur                                                       (손실을) 입다

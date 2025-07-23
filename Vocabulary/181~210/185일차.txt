@@ -1,21 +1,22 @@
 elicit                                                      이끌어내다
-exhaustive                                                  철저한
-incline                                                     ~할 마음이 생기게 하다
-affective                                                   감정적인
 interim                                                     임시의
+affective                                                   감정적인
+incline                                                     ~할 마음이 생기게 하다
+exhaustive                                                  철저한
+
+reproduce                                                   복제하다/번식하다
+intimidate                                                  위협하다
+coordinate                                                  조정하다
 
 convey                                                      전달하다
 convict                                                     유죄를 선고하다
-coordinate                                                  조정하다
 cope                                                        대처하다
 correlate                                                   연관시키다
 counter                                                     반박하다/대응하다
 designate                                                   지정하다
 implement                                                   실행하다/구현하다
-intimidate                                                  위협하다
 adequate                                                    충분한
 affirmative                                                 긍정적인
 regulate                                                    규제하다
-reproduce                                                   복제하다/번식하다
 emerge                                                      나타나다/드러나다
 dwell                                                       살다/깊이 생각하다

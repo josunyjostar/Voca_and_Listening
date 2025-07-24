@@ -119,6 +119,7 @@ discontinuity*                                              불연속면
 apparent*                                                   분명한
 succession*                                                 연속
 constant*                                                   끊임없는/변함없는
+spring*                                                     샘물
 
 put off*                                                    미루다
 work through*                                               극복하다

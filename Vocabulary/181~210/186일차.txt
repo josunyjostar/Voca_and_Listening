@@ -3,9 +3,9 @@ devise                                                      고안하다
 legitimize                                                  정당화하다
 originate                                                   유래하다
 furnish                                                     제공하다
+contend                                                     주장하다/다투다
 
 conform                                                     따르다
-contend                                                     주장하다/다투다
 deter                                                       단념시키다
 endorse                                                     지지하다
 entail                                                      수반하다
@@ -24,3 +24,5 @@ The company plans to phase out its production of gasoline-powered cars by 2035.
 you name it – 뭐든지 (다 있다)
 This store has everything: clothes, electronics, food, you name it.
 이 가게에는 옷, 전자제품, 음식, 없는 게 없다.
+
+I have yet to do something - "나는 아직 ~할 것이 남아있다", "나는 아직 ~하지 못했다" 의미의 관용적표현

@@ -1,6 +1,32 @@
-umbra                                                       본그림자
-penumbra                                                    반그림자
-deviation                                                   편차
-ultraviolet                                                 자외선의
-perturb                                                     동요하게하다
-petrochemical                                               석유 화학의
+cogent                                                      설득력 있는
+obfuscate                                                   모호하게 하다/혼란스럽게 하다
+pernicious                                                  해로운/치명적인
+esoteric                                                    소수만 이해하는/난해한
+
+excoriate                                                   맹비난하다/혹평하다
+didactic                                                    교훈적인/설교적인
+alacrity                                                    민첩함/활기
+zeitgeist                                                   시대정신
+capitulate                                                  굴복하다/항복하다
+sycophant                                                   아첨꾼
+
+spring*                                                     샘물
+roam(roaming)                                               돌아다니다/배회하다             
+revert                                                      되돌리다
+piracy                                                      불법 복제, 저작권 침해
+barrier                                                     장벽/동기화 지점
+culled                                                      제거된/제외된
+dispatch                                                    gpu에 작업 시작 명령
+
+feed by	                                                    ~에 의해 공급되다
+the entire village is fed by a single freshwater spring from the mountain.
+
+be thrown back to	                                        다시 ~로 돌아가다
+when i heard that song, i was immediately thrown back to my high school days.
+그 노래를 듣자마자, 저는 즉시 고등학교 시절로 돌아간 기분이었습니다.
+
+boils down to (관용구)                                      결국 ~이 되다/~으로 요약되다
+after weeks of discussion, the complex issue boils down to one simple choice: invest now or risk everything later.
+
+hook up	                                                    연결하다/연동하다
+could you help me hook up the new sound system to the tv?

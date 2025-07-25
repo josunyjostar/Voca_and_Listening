@@ -4,19 +4,19 @@ pernicious                                                  해로운/치명적�
 esoteric                                                    소수만 이해하는/난해한
 
 excoriate                                                   맹비난하다/혹평하다
-didactic                                                    교훈적인/설교적인
 alacrity                                                    민첩함/활기
-zeitgeist                                                   시대정신
 capitulate                                                  굴복하다/항복하다
+didactic                                                    교훈적인/설교적인
+zeitgeist                                                   시대정신
 sycophant                                                   아첨꾼
 
 spring*                                                     샘물
 roam(roaming)                                               돌아다니다/배회하다             
 revert                                                      되돌리다
 piracy                                                      불법 복제, 저작권 침해
-barrier                                                     장벽/동기화 지점
+barrier*                                                    장벽/동기화 지점
 culled                                                      제거된/제외된
-dispatch                                                    gpu에 작업 시작 명령
+dispatch*                                                   gpu에 작업 시작 명령
 
 feed by	                                                    ~에 의해 공급되다
 the entire village is fed by a single freshwater spring from the mountain.

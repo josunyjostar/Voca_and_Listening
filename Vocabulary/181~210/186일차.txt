@@ -3,6 +3,7 @@ devise                                                      고안하다
 legitimize                                                  정당화하다
 originate                                                   유래하다
 furnish                                                     제공하다
+punish                                                      처벌하다
 contend                                                     주장하다/다투다
 
 conform                                                     따르다
@@ -26,3 +27,5 @@ This store has everything: clothes, electronics, food, you name it.
 이 가게에는 옷, 전자제품, 음식, 없는 게 없다.
 
 I have yet to do something - "나는 아직 ~할 것이 남아있다", "나는 아직 ~하지 못했다" 의미의 관용적표현
+and I'm afraid that I have yet to have anyone come and visit me.
+아직 아무도 나를 찾아오지 않아서 유감이다.

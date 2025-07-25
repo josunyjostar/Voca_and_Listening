@@ -120,6 +120,8 @@ apparent*                                                   분명한
 succession*                                                 연속
 constant*                                                   끊임없는/변함없는
 spring*                                                     샘물
+barrier*                                                    장벽/동기화 지점
+dispatch*                                                   gpu에 작업 시작 명령
 
 put off*                                                    미루다
 work through*                                               극복하다

@@ -1,6 +1,7 @@
 elicit                                                      이끌어내다
 interim                                                     임시의
 affective                                                   감정적인
+affirmative                                                 긍정적인
 incline                                                     ~할 마음이 생기게 하다
 exhaustive                                                  철저한
 
@@ -16,7 +17,6 @@ counter                                                     반박하다/대응�
 designate                                                   지정하다
 implement                                                   실행하다/구현하다
 adequate                                                    충분한
-affirmative                                                 긍정적인
 regulate                                                    규제하다
 emerge                                                      나타나다/드러나다
 dwell                                                       살다/깊이 생각하다

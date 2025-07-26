@@ -5,18 +5,18 @@ dilapidated                                                 황폐한
 emaciated                                                   야윈
 enamored                                                    매료된
 
-decouple                                                    분리하다/연결을 끊다
-culminate                                                   정점에 달하다
 subsume                                                     포함하다
-intricate                                                   복잡한, 정교한
-stochastic                                                  확률론적
-dissonance                                                  불협화음
-epitomize                                                   전형적으로 보여주다
 chagrin                                                     원통함
-defile                                                      더럽히다
-dwindle                                                     줄어들다
 insouciant                                                  무관심한/태평한
 interminable                                                끝없이 계속되는
+decouple                                                    분리하다/연결을 끊다
+culminate                                                   정점에 달하다
+stochastic                                                  확률론적
+intricate                                                   복잡한, 정교한
+dissonance                                                  불협화음
+epitomize                                                   전형적으로 보여주다
+defile                                                      더럽히다
+dwindle                                                     줄어들다
 
 drop out                                                    중퇴하다
 

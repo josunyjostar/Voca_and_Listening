@@ -1,22 +1,22 @@
 cogent                                                      설득력 있는
+capitulate                                                  굴복하다/항복하다
+excoriate                                                   맹비난하다/혹평하다
+
 obfuscate                                                   모호하게 하다/혼란스럽게 하다
 pernicious                                                  해로운/치명적인
 esoteric                                                    소수만 이해하는/난해한
-
-excoriate                                                   맹비난하다/혹평하다
 alacrity                                                    민첩함/활기
-capitulate                                                  굴복하다/항복하다
 didactic                                                    교훈적인/설교적인
 zeitgeist                                                   시대정신
 sycophant                                                   아첨꾼
 
 spring*                                                     샘물
+barrier*                                                    장벽/동기화 지점
+dispatch*                                                   gpu에 작업 시작 명령
 roam(roaming)                                               돌아다니다/배회하다             
 revert                                                      되돌리다
 piracy                                                      불법 복제, 저작권 침해
-barrier*                                                    장벽/동기화 지점
 culled                                                      제거된/제외된
-dispatch*                                                   gpu에 작업 시작 명령
 
 feed by	                                                    ~에 의해 공급되다
 the entire village is fed by a single freshwater spring from the mountain.

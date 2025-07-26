@@ -215,55 +215,6 @@ reticent (말이 없는)
 retract (취소하다)
 
 reverent (숭배하는)
-
-revile (욕하다)
-
-rife (만연한)
-
-robust (튼튼한)
-
-salient (가장 중요한)
-
-salubrious (건강에 좋은)
-
-sanction (제재하다, 승인하다)
-
-sanguine (낙천적인)
-
-sardonic (냉소적인)
-
-scrupulous (양심적인, 꼼꼼한)
-
-scrutinize (면밀히 조사하다)
-
-sedulous (근면한)
-
-serendipity (우연한 행운)
-
-servile (비굴한)
-
-spurious (가짜의)
-
-stagnant (침체된)
-
-staunch (확고한)
-
-stolid (둔감한)
-
-strident (귀에 거슬리는)
-
-sublimate (승화시키다)
-
-subversive (체제 전복적인)
-
-succinct (간결한)
-
-supercilious (거만한)
-
-superfluous (불필요한)
-
-supplant (대체하다)
-
 surfeit (과다)
 
 surreptitious (은밀한)

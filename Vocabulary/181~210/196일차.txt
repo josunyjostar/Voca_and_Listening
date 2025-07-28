@@ -1,27 +1,5 @@
 
-incongruous (어울리지 않는)
-engender (야기하다)
-implacable (확고부동한, 달래기 어려운)
-inadvertent (고의가 아닌)
-ephemeral (일시적인)
-exorbitant (과도한)
-expunge (지우다)
-extricate (벗어나게 하다)
-fallacy (오류)
-fathom (헤아리다, 이해하다)
-foment (조성하다, 부추기다)
-fortuitous (우연한)
-equanimity (평정심)
-erroneous (잘못된)
-eschew (피하다)
-esoteric (난해한)
-euphemism (완곡어법)
-exacerbate (악화시키다)
-exasperate (격분시키다)
 
-
-
-laudable (칭찬할 만한)
 
 lassitude (나른함, 권태)
 
@@ -556,23 +534,6 @@ do up (장식하다)
 doze off (깜빡 잠들다)
 
 
-sweep under the rug (은폐하다)
-
-leave off (그만두다)
-
-get along (잘 지내다)
-
-get by (그럭저럭 살아가다)
-
-get over (극복하다)
-
-break in (침입하다)
-
-follow through (약속이나 계획을 실행하다)
-
-hold off (미루다)
-
-put in (요청하다, 전화 걸다)
 
 tap into (접속하다, 도청하다)
 
@@ -606,12 +567,6 @@ lock in (확정하다)
 
 lighten up (기분을 풀다)
 
-live down (잊히게 하다)
-
-lay into (거칠게 비난하다)
-
-let on (내색하다, 누설하다)
-
 let up (약해지다)
 
 take as input (입력으로 받다)
@@ -642,25 +597,6 @@ put on (입다)
 
 put up with (참다, 견디다)
 
-work out (운동하다, 해결되다)
-
-run into (우연히 만나다)
-
-pick up (배우다)
-
-fall behind (뒤처지다)
-
-Run out of (다 떨어지다)
-
-catch up (with) (따라잡다)
-
-come down with (병에 걸리다)
-
-cut down on (줄이다)
-
-take cover (숨다)
-
-get pegged (~로 간주되다)
 
 back to square one (처음부터 다시 시작하다)
 

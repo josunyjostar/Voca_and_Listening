@@ -104,25 +104,6 @@ precocious (조숙한)
 
 predilection (선호)
 
-preponderance (우세함)
-
-prescient (선견지명이 있는)
-
-presumptuous (건방진)
-
-prevaricate (얼버무리다)
-
-probity (정직성)
-
-prodigal (낭비하는)
-
-prodigious (엄청난)
-
-profligate (낭비하는)
-
-proliferate (급증하다)
-
-promulgate (공표하다)
 
 propensity (경향)
 
@@ -201,19 +182,6 @@ unctuous (아첨하는)
 
 undermine (약화시키다)
 
-underscore (강조하다)
-
-unflappable (침착한)
-
-unilateral (일방적인)
-
-unprecedented (전례 없는)
-
-unscrupulous (비양심적인)
-
-usurp (찬탈하다)
-
-vacillate (흔들리다)
 
 vehement (격렬한)
 
@@ -1940,13 +1908,7 @@ op-ed (외부 칼럼)
 
 have yet to + 동사원형 (아직 ~하지 않았다)
 
-Maybe I should (~해볼까나)
 
-I wonder if I should (~해볼까나)
-
-run over ((차로) 치다, 넘어가다)
-
-try out (시험해 보다)
 
 get all fancy (과시하려 들다)
 

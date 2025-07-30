@@ -77,33 +77,6 @@ pernicious (유해한)
 
 perspicacious (통찰력 있는)
 
-pervade (만연하다)
-
-petulant (성마른)
-
-philanthropy (자선)
-
-pithy (간결하면서도 힘찬)
-
-placate (달래다)
-
-platitude (진부한 말)
-
-plethora (과잉)
-
-poignant (가슴 아픈)
-
-polemic (논쟁)
-
-portentous (불길한)
-
-
-preclude (막다, 불가능하게 하다)
-
-precocious (조숙한)
-
-predilection (선호)
-
 
 propensity (경향)
 
@@ -1536,17 +1509,7 @@ put out (fires) (불을 끄다/진압하다)
 
 put up with (참다 견디다)
 
-put forward (제시하다)
 
-work through (극복하다)
-
-work up (용기 등을 키우다)
-
-work around (우회하다)
-
-work on (~에 대해 작업하다/노력하다)
-
-work out (운동하다/해결되다)
 
 encounter (우연히 만나다)
 
@@ -1714,9 +1677,7 @@ have to do with (~와 관련 있다)
 
 have nothing to do with (~와 아무 관련이 없다)
 
-make up (~을 구성하다)
 
-go down (기록하다)
 
 go off (폭발하다)
 
@@ -1762,11 +1723,7 @@ bring together (모으다)
 
 bring down (붕괴시키다)
 
-bring in (끌어들이다)
 
-bring s.t to light (대상을 밝혀내다)
-
-bring back (돌려주다/다시 가져오다)
 
 take out (제거하다)
 

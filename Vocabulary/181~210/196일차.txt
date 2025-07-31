@@ -57,26 +57,6 @@ opaque (불투명한, 이해하기 어려운)
 
 opulent (부유한, 호화로운)
 
-oscillate (진동하다, 흔들리다)
-
-ostentatious (과시하는)
-
-pacify (진정시키다)
-
-palpable (뚜렷한, 감지할 수 있는)
-
-paradigm (패러다임)
-
-paragon (귀감, 모범)
-
-parsimonious (인색한)
-
-perfunctory (형식적인)
-
-pernicious (유해한)
-
-perspicacious (통찰력 있는)
-
 
 propensity (경향)
 
@@ -159,22 +139,6 @@ undermine (약화시키다)
 vehement (격렬한)
 
 venal (매수되기 쉬운)
-
-venerate (숭배하다)
-
-veracity (진실성)
-
-verbose (장황한)
-
-vicarious (대리의)
-
-vigilant (바짝 경계하는)
-
-vilify (비방하다)
-
-vindicate (옹호하다, 정당성을 입증하다)
-
-vitriolic (신랄한)
 
 vituperative (비난하는)
 
@@ -1655,21 +1619,6 @@ live up to (기대에 부응하다)
 
 hold back (억제하다)
 
-gear towards (~에 맞추다)
-
-derive from (~에서 유래하다)
-
-open up (가능성을 열다)
-
-balance out (균형을 맞추다)
-
-push out (밀어내다)
-
-go off of (의지하다)
-
-get down to (이제 집중해서 시작하다)
-
-push back (미루다)
 
 as part of (~의 일환으로)
 
@@ -1753,21 +1702,6 @@ put out (fires) (불을 끄다/진압하다)
 
 put up with (참다 견디다)
 
-put forward (제시하다)
-
-work through (극복하다)
-
-work up (용기 등을 키우다)
-
-work around (우회하다)
-
-work on (~에 대해 작업하다/노력하다)
-
-work out (운동하다/해결되다)
-
-encounter (우연히 만나다)
-
-run into (우연히 만나다)
 
 bump into (우연히 만나다)
 
@@ -1817,21 +1751,7 @@ call on (촉구하다)
 
 call for (요구하다)
 
-call off (취소하다)
 
-call back (다시 전화하다)
-
-hold up (잠시 멈추다)
-
-go by (~라는 이름으로 불리다)
-
-stand up for (~를 변호하다)
-
-jump on it (즉시 달려들다)
-
-cut ties with (~와 관계를 끊다)
-
-blend in (녹아들다)
 
 run for it (도망치다)
 
@@ -1905,25 +1825,8 @@ hold back (억제하다)
 
 gear towards (~에 맞추다)
 
-derive from (~에서 유래하다)
 
-open up (가능성을 열다)
 
-balance out (균형을 맞추다)
-
-push out (밀어내다)
-
-go off of (의지하다)
-
-get down to (이제 집중해서 시작하다)
-
-push back (미루다)
-
-as part of (~의 일환으로)
-
-have to do with (~와 관련 있다)
-
-have nothing to do with (~와 아무 관련이 없다)
 
 make up (~을 구성하다)
 

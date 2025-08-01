@@ -15,23 +15,7 @@ luminous (빛나는)
 
 malinger (꾀병을 부리다)
 
-malleable (유연한, 영향을 잘 받는)
 
-maverick (독립적인 사람)
-
-mendacious (허위의)
-
-misanthrope (인간 혐오자)
-
-mitigate (완화시키다)
-
-modicum (소량)
-
-mollify (달래다)
-
-moribund (소멸 직전의)
-
-mundane (일상적인, 재미없는)
 
 myriad (무수히 많은)
 
@@ -145,23 +129,6 @@ vituperative (비난하는)
 wan (창백한)
 
 wane (약해지다)
-
-wanton (부당한, 무자비한)
-
-wary (경계하는)
-
-whereas (반면에)
-
-whimsical (변덕스러운)
-
-wither (시들다)
-
-zealot (광신도)
-
-구동사 및 관용어 (일부)
-read back (다시 읽다/재확인하다)
-
-take back (되돌리다, 취소하다, 회수하다)
 
 loop over (~을 반복하다)
 
@@ -739,23 +706,7 @@ end up (결국 ~하게 되다)
 
 fall for (속다)
 
-head in (들어가다)
 
-head off (막다)
-
-hold off (미루다)
-
-hold over (연기하다)
-
-hear out (끝까지 듣다)
-
-hit it off (죽이 잘 맞다)
-
-keep at (포기하지 않고 계속하다)
-
-kick around (논의하다)
-
-give in (굴복하다)
 
 hang out (어울리다)
 

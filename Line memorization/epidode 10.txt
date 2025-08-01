@@ -258,13 +258,11 @@ you watched in secret, didn't you?
 Off in a corner of the church
 that nobody was paying attention to
 But I had you figured out.
-
-[Dramatic pause]
++
 Even after that little brush with the law
 and your estrangement from the Astor family,
 I knew for a fact that you were a kind kid at heart.
-
-[Dramatic pause]
++
 I guess doctor-patient confidentiality means nothing now, huh?
 Honestly, I've been waiting for someone to ask me about that.
 After all...
@@ -272,7 +270,8 @@ I can't take this secret to my grave.
 
 -------------------- 의사에게 도움 요청 ------------
 
--------------------- 스키너 비밀 이야기 후 ------------
+-------------------- 의사 스키너 심장 수술 사실 밝힘 ------------
+Your hunch was right on the money.
 Skinner did undergo surgery for an artificial heart here.
 And the post-op outlook was good.
 But the problem is we can never be sure what might happen
@@ -289,9 +288,16 @@ and made it untraceable.
 We no longer know his whereabouts
 or even if he's still alive...
 
--------------------- 스키너 비밀 이야기 후 ------------
+What's that?
 
--------------------- 릴랜드 아버지 이야기------------
+It's the firmware for the transmission system.
+Analyzing it might reveal something useful to you boys.
+For example...
+if some third party is now monitoring him instead.
+
+-------------------- 의사 스키너 심장 수술 사실 밝힘 ------------
+
+-------------------- 의사가 릴랜드에게 아버지 이야기------------
 Leland, listen to me.
 I know your father died in that disaster...
 and I believe there's significance to the fact you survived it.
@@ -305,7 +311,47 @@ I can relate to him far more than he thinks,
 since I always gave my parents a hard time, too.
 I remember him saying that.
 
--------------------- 릴랜드 아버지 이야기------------
+Hey, it's time to get going.
+
+Right.
+
+Hold on, boys!
+Can I ask you for a favor?
+If you do manage to catch Skinner,
+I'd like you to bring him here first.
+As his primary care doctor,
+I couldn't bear the thought of him just dying on me like this.
+
+-------------------- 의사가 릴랜드에게 아버지 이야기------------
+
+----------------- 릴랜드 스파이 고백 ------------------
+Listen, thanks for tagging along with me today.
+
+Don't mention it.
+We scored big.
+
+And, uh...
+there's actually something I need to tell you guys.
+
+That you're a spy?
+
+Wait, you knew?
+
+We're all here under some shady circumstances.
+So, it's no surprise that you have a secret or two to hide.
+
+[릴랜드 울먹]
+
+Aw, geez.
+Come on now, Leland.
+Don't start crying.
+
+I'm not crying!
+
+Okay, if you say so.
+
+Seriously!
+----------------- 릴랜드 스파이 고백 ------------------
 
 -------------------- 기타 좋은 표현 ------------
 
@@ -314,8 +360,6 @@ What's with the getup?
 who is it you are again?
 
 What kind of scheme are you up to this time?
-
-Don't mention it. We scored big. 천만에 우린 큰 걸 얻었잖아.
 
 Nobody gives a damn
 

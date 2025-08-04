@@ -2,20 +2,14 @@ obdurate (고집 센)
 obfuscate (애매모호하게 하다)
 obsequious (아첨하는)
 obstreperous (시끄러운, 통제하기 힘든)
-onerous (부담스러운)
-opulent (부유한, 호화로운)
-propensity (경향)
-propitious (유리한)
-prosaic (평범한, 지루한)
-protracted (오래 끄는)
-provocative (도발적인)
+
 reiterate (반복하다)
 rejuvenate (활력을 되찾게 하다)
 relegate (좌천시키다)
 relent (누그러지다)
 relinquish (포기하다)
 remedial (개선하는)
-remonstrate (항의하다)
+
 remuneration (보수)
 replete (가득 찬)
 reprehensible (비난받을 만한)
@@ -151,70 +145,6 @@ make for (~로 향하다)
 
 make out (해내다, 알아보다)
 
-mess up (망치다)
-
-cause a scene (소동을 일으키다)
-
-manage to + 동사원형 (~하는 데 성공하다)
-
-do away with (~을 폐지하다/없애다)
-
-do up (장식하다)
-
-doze off (깜빡 잠들다)
-
-
-
-tap into (접속하다, 도청하다)
-
-face up to (직시하다)
-
-edge out (간신히 이기다)
-
-Live off (~로 생활하다)
-
-end up (결국 ~하게 되다)
-
-be set to (~할 예정이다)
-
-put out (fires) (불을 끄다)
-
-fend off (막아내다)
-
-knock off (그만두다)
-
-lead up to (결국 ~에 이르다)
-
-fizzle out (흐지부지 끝나다)
-
-flare up (확 타오르다, 악화되다)
-
-freak out (기겁하다)
-
-lash out (마구 화를 내다)
-
-lock in (확정하다)
-
-lighten up (기분을 풀다)
-
-let up (약해지다)
-
-take as input (입력으로 받다)
-
-set off (촉발시키다)
-
-date back (~이래 계속 존재하고 있다)
-
-take effect (시행되다)
-
-sit 거리 away (~만큼 거리에 위치해 있다)
-
-give out (배분하다, 고장 나다)
-
-down from 수량 (~에서 감소했다)
-
-go on (일어나다)
-
 come apart (흩어지다)
 
 bring down (붕괴시키다)
@@ -335,41 +265,6 @@ along a body of water (물가를 따라)
 
 run from A to B (A에서 B로 이어진다)
 
-coming out of (~을 벗어나다)
-
-
-fade back in (서서히 나타나다)
-
-low-lying area (저지대)
-
-in terms of (~의 형태로/관점에서)
-
-Save A as B (A를 B의 용도로 남겨두다)
-
-account for (고려하다, 설명하다)
-
-a rounded look (둥근 모양)
-
-being overt (과하게 드러나는 것)
-
-derived from (~로부터 유도되다)
-
-they have joined forces (그들은 힘을 합쳤다)
-
-he fled A for B (A에서 B로 도망쳤다)
-
-run from A to B (A에서 B로 이어진다)
-
-incursion (급습)
-
-pave the way (길을 닦다)
-
-crack down on (탄압하다)
-
-pass into law (법률로 제정되다)
-
-pass in A as B (A를 B용도로 전달하다)
-
 pass A as B (A를 B용도로 전달하다)
 
 round off (~을 마무리짓다, 반올림하다)
@@ -466,45 +361,6 @@ fall for (속다)
 
 
 
-hang out (어울리다)
-
-hunker down (단단히 준비하다)
-
-be set to (~할 예정이다)
-
-put out (불을 끄다, 놓아두다, 배치하다)
-
-fend off (막아내다)
-
-knock off (그만두다)
-
-lead up to (결국 ~에 이르다)
-
-fizzle out (흐지부지 끝나다)
-
-flare up (확 타오르다, 악화되다)
-
-freak out (기겁하다)
-
-lash out (마구 화를 내다)
-
-lock in (확정하다)
-
-lighten up (기분을 풀다)
-
-live down (잊히게 하다)
-
-lay into (거칠게 비난하다)
-
-let on (내색하다, 누설하다)
-
-let up (약해지다)
-
-take as input (입력으로 받는다)
-
-set off (촉발시키다)
-
-run over ((차로) 치다, 넘어가다)
 
 try out (시험해 보다)
 
@@ -632,27 +488,6 @@ get used to + 명사/동명사 (~에 익숙해지다)
 
 zero in on (집중하다)
 
-fill in (for) (대신하다)
-
-get away with (처벌 받지 않고 해내다)
-
-live up to (기대에 부응하다)
-
-hold back (억제하다)
-
-gear towards (~에 맞추다)
-
-derive from (~에서 유래하다)
-
-open up (가능성을 열다)
-
-balance out (균형을 맞추다)
-
-push out (밀어내다)
-
-go off of (의지하다)
-
-get down to (이제 집중해서 시작하다)
 
 push back (미루다)
 
@@ -740,25 +575,6 @@ put upon (도입하다(impose))
 
 put away (제자리에 두다)
 
-put out (fires) (불을 끄다/진압하다)
-
-put up with (참다 견디다)
-
-put forward (제시하다)
-
-work through (극복하다)
-
-work up (용기 등을 키우다)
-
-work around (우회하다)
-
-work on (~에 대해 작업하다/노력하다)
-
-work out (운동하다/해결되다)
-
-encounter (우연히 만나다)
-
-run into (우연히 만나다)
 
 bump into (우연히 만나다)
 
@@ -895,76 +711,6 @@ bring s.t to light (대상을 밝혀내다)
 bring back (돌려주다/다시 가져오다)
 
 take out (제거하다)
-
-take back (회수하다/취소하다)
-
-take up (다루다/논의하다)
-
-take something up (~을 시작하다)
-
-take over (인수하다/책임지다)
-
-do over (다시 하다)
-
-do away with (폐지하다)
-
-having to do with (~와 관련된)
-
-put off (미루다)
-
-put on ((옷) 입다/(라이트) 켜다)
-
-put upon (도입하다(impose))
-
-put away (제자리에 두다)
-
-put out (fires) (불을 끄다/진압하다)
-
-put up with (참다 견디다)
-
-put forward (제시하다)
-
-work through (극복하다)
-
-work up (용기 등을 키우다)
-
-work around (우회하다)
-
-work on (~에 대해 작업하다/노력하다)
-
-work out (운동하다/해결되다)
-
-encounter (우연히 만나다)
-
-run into (우연히 만나다)
-
-bump into (우연히 만나다)
-
-come across (우연히 만나다)
-
-grow by (~만큼 커지다/성장하다)
-
-carry on (계속하다)
-
-pick up (배우다)
-
-catch on (알아채다)
-
-cut off (차단하다)
-
-look up (찾아보다/존경하다)
-
-pass away (죽다)
-
-set up (설치하다/계획하다)
-
-turn up (나타나다/(소리)높이다)
-
-fall apart (부서지다/(관계)무너지다)
-
-give in (굴복하다)
-
-keep up (with) (따라가다)
 
 come up with (아이디어 생각해 내다)
 

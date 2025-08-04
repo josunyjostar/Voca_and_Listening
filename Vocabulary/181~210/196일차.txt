@@ -1,9 +1,10 @@
 foraging                                                    수렵 채집(의)
-lassitude                                                   나른함, 권태
-latent                                                      잠재적인
-lithe                                                       유연한
+lassitude                                                   나른함/권태
 lugubrious                                                  침울한
 malinger                                                    꾀병을 부리다
+
+latent                                                      잠재적인
+lithe                                                       유연한
 reverent                                                    숭배하는
 surfeit                                                     과다
 surreptitious                                               은밀한

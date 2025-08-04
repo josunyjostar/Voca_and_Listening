@@ -1,22 +1,21 @@
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
-sap                                                         수액
+kiln                                                        가마
+furnace                                                     용광로 
+molten                                                      녹은(형용사)
+glob                                                        방울
+onerous                                                     부담스러운
+opulent                                                     부유한/호화로운
+propitious                                                  유리한
+prosaic                                                     평범한/지루한
+protracted                                                  오래 끄는
+provocative                                                 도발적인
+incursion                                                   급습
+remonstrate                                                 항의하다
+
+do up                                                       장식하다
+tap into                                                    접속하다, 도청하다
+pave the way                                                길을 닦다
+pass in A as B                                              A를 B용도로 전달하다
+take effect                                                 시행되다
+sit 거리 away                                               ~만큼 거리에 위치해 있다
+give out                                                    배분하다/고장 나다
+down from 수량                                              ~에서 감소했다

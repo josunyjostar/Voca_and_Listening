@@ -1,6 +1,7 @@
 foraging                                                    수렵 채집(의)
 lassitude                                                   나른함/권태
 lugubrious                                                  침울한
+temerity                                                    무모함
 malinger                                                    꾀병을 부리다
 
 latent                                                      잠재적인
@@ -8,7 +9,6 @@ lithe                                                       유연한
 reverent                                                    숭배하는
 surfeit                                                     과다
 surreptitious                                               은밀한
-temerity                                                    무모함
 tacit                                                       무언의
 tangential                                                  주제에서 벗어난
 

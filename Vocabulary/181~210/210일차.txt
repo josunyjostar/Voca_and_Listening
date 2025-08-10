@@ -1,31 +1,7 @@
-transient (일시적인)
-trenchant (정곡을 찌르는)
-trepidation (두려움)
-truculent (공격적인)
-flatline (심장이 정지하다, 변화가 없다)
 
 
-get with (~와 함께하다)
 
-go after (~를 추적하다)
 
-go against (반대하다)
-
-go ahead (진행되다)
-
-go about (처리하다)
-
-go back on (약속을 어기다)
-
-go by (지나가다, ~라는 이름으로 불리다)
-
-go for (선택하다)
-
-go off (폭발하다)
-
-go off of (의지하다)
-
-go over (검토하다, 반복 설명하다, 넘어가다)
 
 go through (경험하다, 검토하다)
 
@@ -35,23 +11,6 @@ go up against (~와 맞서다)
 
 grow on (점점 좋아지다)
 
-grow by (~만큼 커지다/성장하다)
-
-hang around (어슬렁거리다)
-
-hang in (버티다)
-
-head in (들어가다)
-
-hold back (억제하다)
-
-hold up (잠시 멈추다)
-
-jump on it (즉시 달려들다)
-
-jump up/forward (위/앞으로 뛰다)
-
-keep s.t apart (둘을 분리해서 구분하다)
 
 keep up (with) (따라가다)
 
@@ -76,24 +35,6 @@ opt out (빠지다)
 open up (가능성을 열다)
 
 own up (자백하다)
-
-pan out (성공하다)
-
-pack in (그만두다)
-
-pass away (죽다)
-
-pick up (배우다)
-
-punch targets (타겟을 때리다)
-
-push back (미루다)
-
-push out (밀어내다)
-
-put away (제자리에 두다)
-
-put forward (제시하다)
 
 put in (요청하다, 전화 걸다)
 

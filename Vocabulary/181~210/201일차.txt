@@ -1,14 +1,20 @@
-poacher                                                         밀렵꾼 
-poacher                                                         밀렵꾼 
-poacher                                                         밀렵꾼 
-poacher                                                         밀렵꾼 
-poacher                                                         밀렵꾼 
-poacher                                                         밀렵꾼 
-poacher                                                         밀렵꾼 
-poacher                                                         밀렵꾼 
-poacher                                                         밀렵꾼 
-poacher                                                         밀렵꾼 
-poacher                                                         밀렵꾼 
-poacher                                                         밀렵꾼 
-poacher                                                         밀렵꾼 
-poacher                                                         밀렵꾼 
+undergrowth                                                     덤불 
+spot                                                            발견하다/알아채다 
+pursuit                                                         추구/추적
+exceptional                                                     특출한  
+forelegs                                                        앞다리  
+line                                                            능력/전력/방식 
+bluff                                                           허세 
+transient                                                       일시적인
+trenchant                                                       정곡을 찌르는
+trepidation                                                     두려움
+truculent                                                       공격적인
+flatline                                                        심장이 정지하다/변화가 없다
+
+go about                                                        처리하다
+go over                                                         검토하다/반복 설명하다/넘어가다
+pan out                                                         성공하다
+pack in                                                         그만두다
+
+But this mantis has a surprising line in self-defence. line - 능력/전력/방식
+하지만 이 사마귀는 놀라운 자기 방어 능력(전략)을 가지고 있습니다.

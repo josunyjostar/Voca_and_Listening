@@ -1,14 +1,15 @@
+truculent                                                       공격적인
+trenchant                                                       정곡을 찌르는
+transient                                                       일시적인
+trepidation                                                     두려움
+
+line                                                            능력/전력/방식 
 undergrowth                                                     덤불 
 spot                                                            발견하다/알아채다 
 pursuit                                                         추구/추적
 exceptional                                                     특출한  
 forelegs                                                        앞다리  
-line                                                            능력/전력/방식 
 bluff                                                           허세 
-transient                                                       일시적인
-trenchant                                                       정곡을 찌르는
-trepidation                                                     두려움
-truculent                                                       공격적인
 flatline                                                        심장이 정지하다/변화가 없다
 
 go about                                                        처리하다

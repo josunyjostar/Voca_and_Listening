@@ -7,7 +7,7 @@ line                                                            능력/전력/�
 undergrowth                                                     덤불 
 spot                                                            발견하다/알아채다 
 pursuit                                                         추구/추적
-exceptional                                                     특출한  
+exceptional                                                     특출난  
 forelegs                                                        앞다리  
 bluff                                                           허세 
 flatline                                                        심장이 정지하다/변화가 없다

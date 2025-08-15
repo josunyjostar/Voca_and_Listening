@@ -1,3 +1,6 @@
+allude                                                      암시하다
+appall                                                      질리게 하다
+
 encryption                                                  암호화
 restoration                                                 복원
 momentous                                                   중대한 resilient                                                   회복력 있는
@@ -15,10 +18,8 @@ banal                                                       진부한
 competent                                                   유능한
 agitate                                                     동요시키다
 conceive                                                    생각해내다
-allude                                                      암시하다
 
 compassion                                                  연민
-appall                                                      질리게 하다
 apparatus                                                   장치
 articulate                                                  명확하게 표현하다
 assert                                                      주장하다

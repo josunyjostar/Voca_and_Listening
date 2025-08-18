@@ -1,3 +1,5 @@
+constrain                                                   강요하다/제한하다
+contain                                                     억제하다  
 convict                                                     유죄를 선고하다
 contend                                                     주장하다 
 conform                                                     순응하다
@@ -21,8 +23,6 @@ workforce                                                   노동자[직원]
 aggression                                                  공격
 constitute                                                  ~을 구성하다
 creep                                                       살살기다
-constrain                                                   강요하다/제한하다
-contain                                                     억제하다  
 contrary                                                    반대되는
 cricket                                                     귀뚜라미
 criteria                                                    기준

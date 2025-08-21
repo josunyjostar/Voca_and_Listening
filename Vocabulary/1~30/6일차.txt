@@ -1,7 +1,9 @@
+requisite                                           필요한
 flock                                               무리/떼
 fleck                                               얼룩
 fluke                                               요행
 disquiet                                            불안
+recrimination                                       비난
 rampant                                             걷잡을 수 없는
 
 disparate                                           서로 전혀 다른
@@ -9,7 +11,6 @@ dismissive                                          무시하는
 gross                                               total
 duress                                              협박
 dross                                               찌꺼기
-deter                                               단념시키다
 hunch                                               구부리다
 brevity                                             간결성
 detain                                              구금하다
@@ -17,9 +18,7 @@ affirm                                              단언하다
 portend                                             징후이다 
 overt                                               공공연연한
 vacillate                                           흔들리다 
-venerate      	                                    숭배하다
 
-recrimination                                       비난
 discrimination                                      차별
 aggression                                          침략
 as in                                               ~경우와 같이
@@ -41,7 +40,6 @@ court                                               법원 / 법정
 fling                                               내던지다
 impose                                              도입하다
 livelihood                                          생계
-requisite                                           필요한
 groundless                                          근거없는
 chronic                                             만성적인
 heir                                                상속인

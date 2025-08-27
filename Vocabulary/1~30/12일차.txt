@@ -10,7 +10,7 @@ penal                                               형사상의
 heart-rending                                       가슴이 미어지는
 hard-wearing                                        오래가는
 lamentable                                          한탄스러운
-premise                                             전제
+premise                                             (영역)부지/전제
 gentility                                           고상함
 
 acute                                               격심한
@@ -18,7 +18,6 @@ dawdle                                              꾸물거리다
 delirious                                           의식이 혼미한
 hold                                                (잠재력을)가지고있다
 commodity                                           상품/원자재
-dissent                                             반대
 
 jut                                                 튀어나오다
 municipal                                           지방자치제의

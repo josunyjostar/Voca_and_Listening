@@ -15,6 +15,9 @@ pet                                                             쓰다듬다
 carnivores                                                      육식 동물  
 whiff                                                           (잠깐 동안)훅 끼치는 냄새/(약간의)조짐
 pounce                                                          덮치다  
+twitch                                                          경련  
+ritual                                                          의식/의례  
+figures                                                         (수학적)수치/(역사적)인물
 
 go all the way back ~까지 이어지다 
 It would be like having the corners of your mouth go all the way back by your ears.

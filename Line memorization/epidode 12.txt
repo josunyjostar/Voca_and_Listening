@@ -636,7 +636,6 @@ We've been expecting you.
 -Is everything ready?
 
 -You're good to go.
-
 -The only reason this line isn't in use
 is because Hapna delayed our opening.
 
@@ -656,7 +655,6 @@ is because Hapna delayed our opening.
 you're my biggest rival!
 And bestest friend!
 Hugz!
-
 Okay. Be sure to look after Skinner for me!
 
 -For sure! We'll find him!

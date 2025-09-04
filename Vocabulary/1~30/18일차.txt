@@ -18,7 +18,6 @@ devoid                                                              ~이 전혀�
 merger                                                              합병
 superior                                                            상급자/우수한
 racket                                                              사기
-seeds                                                               씨앗
 priority                                                            우선사항
 signify                                                             의미하다
 victim                                                              피해자

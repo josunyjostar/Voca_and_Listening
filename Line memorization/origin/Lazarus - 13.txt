@@ -145,20 +145,13 @@ turns out to still be alive.
 -----------------------------------------------------------------
 ♪♪
 ♪♪
-
--I'm seeing a top-secret
-document here called
-
-"Testimony on
-the Hundun Program."
+-I'm seeing a top-secret document here called
+"Testimony on the Hundun Program."
 -여기 "혼돈 프로그램에 대한 증언"이라는
 일급 기밀 문서가 보이네.
-
 But accessing it requires...
-
 approval from both the president
 and the secretary of state.
-
 Apparently.
 하지만 이걸 보려면...
 대통령과 국무장관의 승인이
@@ -166,13 +159,11 @@ Apparently.
 그런가 봐.
 
 -That would take forever to get.
-
 We'd run out of time!
 -그걸 받으려면 한세월 걸리겠는데.
 시간이 부족할 거야!
 
 -Right.
-
 Then I'll just have to fabricate
 the approval myself.
 -맞아.
@@ -183,20 +174,17 @@ the approval myself.
 -응?
 
 -You know...
-
 that happens to be my specialty.
 -뭐...
 그게 내 주특기거든.
-
+--------------------------
 ♪♪
 ♪♪
-
 -How was your ride?
 -오는 길은 어땠어?
 
 -It was perfect.
 -완벽했지.
-
 And the car?
 차는?
 
@@ -210,25 +198,21 @@ And the car?
 -아벨?
 
 -No time to talk.
-
 We've found Skinner.
 -말할 시간 없어.
 스키너를 찾았어.
-
 I want you to head over
 there right away.
 바로 거기로 가줬으면 좋겠어.
-
 I'll follow along
 after we settle things here.
 여기를 정리하고 뒤따라갈게.
+--------------------------
 
 -We're certain that Skinner is
 somewhere in the homeless camp.
 -스키너가 노숙자 구역 어딘가에 있다는 건 확실해.
-
-But the search area
-is too wide.
+But the search area is too wide.
 하지만 수색 구역이 너무 넓어.
 
 -Any clues? What could we use
@@ -240,12 +224,9 @@ only Skinner would have.
 -스키너만 가지고 있을 만한 걸 찾아봐야 해.
 
 -He has a deep love for plants.
-
-His room used
-to be filled with them.
+His room used to be filled with them.
 -그는 식물을 아주 좋아해.
 그의 방은 식물로 가득했었지.
-
 But that alone isn't
 going to help us very much.
 하지만 그것만으로는
@@ -253,62 +234,46 @@ going to help us very much.
 
 -Oh, wait.
 -아, 잠깐만.
-
 I remember.
 생각났어.
-
 That rare variety of tulip!
 그 희귀한 튤립!
-
+-----------------------------
 [ Display chiming ]
 [ 디스플레이에서 땡 소리가 난다 ]
 
 -All right! We're in!
 -좋아! 들어왔어!
-
 Let's see.
 어디 보자.
-
 "The following testimony
 was given by Zhang Jianguo,
-
-former Chinese Minister
-of State Security,
-
-as he was seeking asylum
-in the United States."
+former Chinese Minister of State Security,
+as he was seeking asylum in the United States."
 -"다음 증언은
 미국에 망명을 요청했던
 전 중국 국가안전부 장관
 장젠궈가 제공한 것입니다."
 
--"Please note he was killed
-by an unknown assailant
-
-shortly after providing
-this testimony."
+-"Please note 
+he was killed by an unknown assailant
+shortly after providing this testimony."
 -"참고: 그는 이 증언을 제공한 직후
 신원 불명의 암살자에 의해 살해되었습니다."
-
 There's no doubt about it.
 이건 의심의 여지가 없어.
-
 This is what we're after!
 이게 우리가 찾던 거야!
-
+---------------------------------------------
 -He's gone?!
 -그가 사라졌다고?!
 
 -Yeah. Can you believe it?
-
 It blows my mind so much
 that I'm at a loss for words.
 -응. 믿을 수 있어?
 너무 충격받아서 할 말을 잃었어.
-
-What could he possibly
-accomplish
-
+What could he possibly accomplish
 with the shape he's in?
 그 몸으로 대체 뭘 하겠다고?
 
@@ -316,9 +281,7 @@ with the shape he's in?
 -어디로 갔는지 알아?
 
 -Apparently,
-
-"where the angel
-watches," I assume.
+"where the angel watches," I assume.
 -아마도,
 "천사가 지켜보는 곳"이겠지.
 
@@ -329,32 +292,26 @@ and head over to Skinner.
 -좋아.
 릴랜드, 허쉬와 합류해서
 스키너에게로 가.
-
 I have a dumbass to go pick up.
 나는 가서 멍청이를 한 명 더 데려와야겠군.
 
 -Got it!
 -알겠습니다!
-
+----------------------------------------
 -Target Alpha has been sighted.
 -타겟 알파가 목격됐습니다.
 
 -Copy.
 Proceeding with operation
-
-in anticipation of him making
-contact with Target Beta.
+in anticipation of him making contact with Target Beta.
 -수신 완료.
 타겟 베타와의 접촉을 예상하고 작전을 진행합니다.
-
 Emergency alert.
 This is U.S. Army INSCOM.
 비상 경보.
 여기는 미 육군 INSCOM입니다.
-
 We have received intel
 that two wanted terrorists
-
 are currently hiding
 atop Babylonia Tower.
 수배 중인 테러리스트 두 명이
@@ -363,31 +320,27 @@ atop Babylonia Tower.
 
 -Roger.
 We'll work with the police
-
 to issue evacuation orders
 immediately.
 -알겠습니다.
 경찰과 협력하여 즉시
 대피 명령을 내리겠습니다.
 
--We're heading there
-via helicopter now.
+-We're heading there via helicopter now.
 -저희는 지금 헬기로
 이동 중입니다.
-
+-------------------------------------------
 ♪♪
 ♪♪
 
 -Attention, an emergency
 evacuation order
-
 has been issued for the area
 surrounding Babylonia Tower.
 -주목, 바빌로니아 타워 주변 지역에
 비상 대피 명령이 발령되었습니다.
-
-Please evacuate immediately if
-you live within the vicinity.
+Please evacuate immediately 
+if you live within the vicinity.
 인근에 거주하는 분들은
 즉시 대피해 주시기 바랍니다.
 
@@ -409,32 +362,25 @@ you live within the vicinity.
 That's some heavy artillery
 you have there.
 꽤 무거운 화력이로군.
-
 The world's
 literally about to end
-
-and all you can
-think about is me.
+and all you can think about is me.
 세상이 말 그대로
 끝나기 직전인데
 온통 나만 생각하나.
 
 -This is the end.
-
 There's no way
 I can let you live.
 -이게 끝이다.
 널 살려둘 순 없어.
 
 -Okay, I'm ready.
-
 But you want to know something,
 don'tcha?
 -좋아, 준비됐어.
 하지만 뭔가 알고 싶지, 안 그래?
-
 Better ask me now.
-
 It'll be too late to talk
 after I'm dead.
 지금 물어보는 게 좋을 거야.
@@ -444,7 +390,6 @@ after I'm dead.
 -혼돈.
 
 -Time for our last dance.
-
 Let's make it a good one.
 -마지막 춤을 출 시간이야.
 멋지게 해보자고.

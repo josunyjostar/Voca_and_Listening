@@ -1,4 +1,9 @@
+
+burlesque                                                   풍자
+rundown                                                     쇠퇴
+underway                                                    진행중인
 pessimist                                                   비관주의자
+confiscate                                                  몰수[압수]하다
 awe                                                         경외감
 applause                                                    박수
 improbable                                                  사실같지않은
@@ -22,16 +27,11 @@ astronomical                                                천문학의
 foretaste                                                   (비유)맛보기
 candour                                                     솔직함
 
-confiscate                                                  몰수[압수]하다
 bygone                                                      지나간
 revitalize                                                  재활성화시키다
 anew                                                        다시
 pallor                                                      창백한
 offensive                                                   모욕적인
-
-burlesque                                                   풍자
-rundown                                                     쇠퇴
-underway                                                    진행중인
 contemplate                                                 고려하다
 hunk                                                        (큰)덩어리
 obstacle                                                    장애물

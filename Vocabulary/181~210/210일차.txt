@@ -1,3 +1,4 @@
+erratic                                                         불규칙한 
 auditory                                                        청각의
 tactile                                                         촉각의  
 a wee bit                                                       아주 조금 
@@ -11,7 +12,6 @@ hypocrisy                                                       위선
 overripe                                                        지나치게 익은 
 bore                                                            파고들다 
 infiltrate                                                      잠입하다
-erratic                                                         불규칙한 
 wander                                                          돌아다니다 
 twitch                                                          씰룩거리다/경련하다 
 seal                                                            확정하다/결정짓다 
@@ -22,7 +22,7 @@ fabricate                                                       날조하다/위
 specialty                                                       전문/전공 
 assailant                                                       폭행범  
 viticulture                                                     포도 재배 
-stake                                                           말뚝 
+stake                                                           말뚝/판돈
 perch                                                           받침대 
 plagued                                                         괴롭히다 
 dehydrate                                                       건조시키다 

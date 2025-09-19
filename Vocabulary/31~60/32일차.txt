@@ -1,4 +1,5 @@
 essence                                             본질
+substitute                                          대입하다/치환하다
 asymptotic                                          점근선의
 
 rise                                                증가
@@ -22,7 +23,6 @@ respectively                                        각자
 in terms of                                         ~의 관점에서
 elliptical                                          생략된/타원의
 asteroid                                            소행성의
-substitute                                          대입하다/치환하다
 blanked                                             기억이 안나(동사)
 zillions                                            무수히 많은
 tedious                                             지루한

@@ -1,23 +1,30 @@
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
+manner                                                          종류, 유형 
+vanilla                                                         default/특별할 것이 없는 
+carriage                                                        마차 
+Ramp                                                            경사(기울기)
+mutter                                                          중얼거리다
+shiver                                                          (몸을) 떨다
+speed off                                                       ~에서 멀리 벗어난다
+deflat                                                          (공기가 빠져)오므라들다 
+Give off                                                        ~을 내뿜다, 발산하다 
+tell apart                                                      구별하다/분간하다
+trait                                                           특성 
+clump                                                           무리/무더기 
+lookalike                                                       닮은 것/유사종/비슷하게 생긴 것 
+As for~                                                         ~에 관해서는  
+swirl                                                           소용돌이치다 
+raisin                                                          건포도 
+fleck                                                           부스러기/얼룩
+sprinkle                                                        뿌리다 
+shave                                                           깍다 
+get to                                                          ~에 도달하다 
+strip                                                           가느다란 조각 
+treats                                                          간식 
+enormous                                                        막대한 
+tippy                                                           엎어지기 쉬운/기울어지기 쉬운/불안정한 
+deal with                                                       (문제·어려움 등을) 처리하다, 해결하다 
+gravel                                                          자갈 
+foliage                                                         나뭇잎 
+daring                                                          대담한 
+Go into                                                         (노력·돈·시간 등이) 들다/투입되다 
+plan ahead                                                      사전에 대비하다 

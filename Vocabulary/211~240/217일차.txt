@@ -1,23 +1,39 @@
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
-seedlings                                                       묘목 
+encyclopedia                                                    백과사전 
+soak                                                            담그다 
+scalpel                                                         메스 
+cardboard                                                       종이판조각 
+analogy                                                         비유 
+curvature                                                       곡률 
+wiggle                                                          굴곡 
+displacement                                                    변위 
+kink                                                            꺽임 
+gnarly                                                          난감한/어려운 
+stash                                                           챙겨 둔[숨겨 둔] 양 
+stargaze                                                        별을 쳐다보다/공상에 잠기다
+prickly                                                         가시로 뒤덮인 
+scorching                                                       모든 걸 태워 버릴 듯이 더운 
+scorch                                                          (불에) 그슬다
+twig                                                            잔가지 
+termite                                                         흰개미 
+prowl                                                           돌아다니다 
+spew                                                            뿜어져 나오다 
+extinct                                                         멸종된 
+yolk                                                            노른자 
+
+come along                                                      나타나다, 등장하다
+compilation                                                     컴파일 
+Assignment                                                      과제
+tweak                                                           수정하다 조절하다
+take up                                                         맡다, 차지하다
+conversions                                                     변환
+keep an eye out                                                 주의깊게 지켜봐
+backwards compatibility                                         하위 호환성
+left off                                                        중단하다/그만하다
+statically                                                      고정된 상태로
+barren                                                          텅 빈
+downside                                                        단점
+sparse                                                          드문드문
+rudimentary                                                     가장 기본적인
+internally                                                      내부적으로
+keen                                                            ~을 아주 좋아하다 (형용사)
+tangent                                                         옆길로 새는 것

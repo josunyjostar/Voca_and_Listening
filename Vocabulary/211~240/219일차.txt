@@ -1,17 +1,22 @@
-conversions                                                     변환
-conversions                                                     변환
-conversions                                                     변환
-conversions                                                     변환
-conversions                                                     변환
-conversions                                                     변환
-conversions                                                     변환
-conversions                                                     변환
-conversions                                                     변환
-conversions                                                     변환
-conversions                                                     변환
-conversions                                                     변환
-conversions                                                     변환
-conversions                                                     변환
+trajectory                                                      궤적
+transcribed                                                     바꾸다[옮기다]
+tidbit                                                          작은 정보
+tweak                                                           수정[변경]하다
+pitfall                                                         함정
+swirl                                                           소용돌이
+Gist                                                            요약
+corrupted                                                       손상된
+stall                                                           멈추게하다
+sits on                                                         ~에 위치하다
+Half-decently                                                   완벽하진 않더라도 제구실은 하게
+deviation                                                       편차
+bookkeeping                                                     장부정리
+chugging along                                                  느릿하지만 꾸준히 잘 돌아가다
+shorthand                                                       약칭
+viable                                                          실행 가능한
+quick hack                                                      임시방편
+let go of                                                       ~에서 손을 떼다
+fall off                                                        밀려나다
 conversions                                                     변환
 conversions                                                     변환
 conversions                                                     변환
